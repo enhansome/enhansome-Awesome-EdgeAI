@@ -1,273 +1,53 @@
 {
   "items": [
     {
-      "description": "Federated Learning (FL) enables collaborative model training across distributed edge devices without centralizing raw data, crucial for privacy-preserving edge AI. Recent advances combine FL with LLMs, PEFT, and heterogeneous edge hardware.\n",
-      "items": [],
-      "title": "New: Federated Learning on Edge"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Federated Learning Foundations & Systems"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Federated Learning for LLMs & Edge Models"
-    },
-    {
-      "description": "TinyML pushes AI inference to ultra-low-power microcontrollers (MCUs) with KB-level memory and mW-level power budgets. The field has rapidly evolved from basic CNNs to on-device Transformers and small language models.\n",
-      "items": [],
-      "title": "New: TinyML & Microcontroller AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Foundational TinyML Papers"
-    },
-    {
-      "description": "",
+      "description": "TinyML pushes AI inference to ultra-low-power microcontrollers (MCUs) with KB-level memory and mW-level power budgets. The field has rapidly evolved from basic CNNs to on-device Transformers and small language models.",
       "items": [
         {
-          "node_type": "item",
-          "title": "TensorFlow Lite for Microcontrollers (TFLM)",
-          "description": "Google's framework for MCU inference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T10:13:30Z",
-            "owner": "tensorflow",
-            "repo": "tflite-micro",
-            "stars": 3049
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CMSIS-NN",
-          "description": "ARM's optimized NN kernels for Cortex-M.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-17T11:40:36Z",
-            "owner": "ARM-software",
-            "repo": "CMSIS-NN",
-            "stars": 417
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TensorFlow Lite for Microcontrollers (TFLM)",
+              "description": "Google's framework for MCU inference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 356055024,
+                "language": "C++",
+                "last_commit": "2026-08-17T10:13:30Z",
+                "owner": "tensorflow",
+                "repo": "tflite-micro",
+                "stars": 3051
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CMSIS-NN",
+              "description": "ARM's optimized NN kernels for Cortex-M.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 498779556,
+                "language": "C",
+                "last_commit": "2026-08-19T08:05:22Z",
+                "owner": "ARM-software",
+                "repo": "CMSIS-NN",
+                "stars": 418
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TinyML Frameworks & Tools"
         }
       ],
-      "title": "TinyML Frameworks & Tools"
-    },
-    {
-      "description": "As edge devices handle increasingly sensitive data with on-device LLMs, security and privacy have become paramount. Key topics include adversarial robustness, model extraction defense, differential privacy, and TEE-based secure inference.",
-      "items": [],
-      "title": "New: Edge AI Security & Privacy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security & Adversarial Robustness"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Privacy-Preserving Edge AI"
-    },
-    {
-      "description": "Beyond inference, enabling on-device training and fine-tuning allows models to adapt to user-specific data and changing environments without privacy leakage.",
-      "items": [],
-      "title": "New: On-Device Training & Personalization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "On-Device Training & Fine-tuning"
-    },
-    {
-      "description": "Multimodal models (vision + language + audio) and embodied AI systems (robots, AR/VR, autonomous vehicles) running on edge devices represent the next frontier. Key challenges include fusing modalities under tight memory/power budgets.\n",
-      "items": [],
-      "title": "New: Multimodal & Embodied Edge AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Multimodal Models on Edge"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Embodied AI & Robotics on Edge"
-    },
-    {
-      "description": "Edge AI is transforming diverse industries. This section highlights real-world deployments and application-focused research.",
-      "items": [],
-      "title": "New: Real-World Applications & Case Studies"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Healthcare & Wellness"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Smart Home & IoT"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Autonomous Driving & Transportation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Industrial IoT & Manufacturing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Edge AI in 6G Networks"
-    },
-    {
-      "description": "All previous papers, tables, and classic Data-Model-System content from the original v1 survey are preserved below without any deletions.",
-      "items": [],
-      "title": "Historical Foundations (Legacy v1 Content — fully retained)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "1. Background Knowledge"
-    },
-    {
-      "description": "Edge AI refers to the deployment of artificial intelligence (AI) algorithms and models directly on edge devices, such as mobile phones, Internet of Things (IoT) devices, and smart sensors. By processing data locally, Edge AI enables real-time decision-making, reduces the need for data transmission to remote servers, and enhances data privacy and security. The proliferation of edge devices and the demand for intelligent, low-latency applications have made Edge AI a critical area of research and development.",
-      "items": [],
-      "title": "1.2. Edge AI"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "2. Our Survey (To be released)"
-    },
-    {
-      "description": "Edge AI — Unified Taxonomy (New):\n",
-      "items": [],
-      "title": "2.1 The Taxonomy of the Discussed Topics"
-    },
-    {
-      "description": "We introduce a data-model-system optimization triad for edge deployment.",
-      "items": [],
-      "title": "2.2 Edge AI Optimization Triad"
-    },
-    {
-      "description": "An overview of edge deployment. The figure shows a general pipeline from the three aspects of data, model and system. Note that not all steps are necessary in real applications.\nResearch Scope Overview — Edge AI:\n",
-      "items": [],
-      "title": "2.3 The Edge AI Deployment Pipeline"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3. The Data-Model-System Optimization Triad"
-    },
-    {
-      "description": "An overview of data optimization operations. Data cleaning improves data quality by removing errors and inconsistencies in the raw data. Feature compression is used to eliminate irrelevant and redundant features. For scarce data, data augmentation is employed to increase the data size.",
-      "items": [],
-      "title": "3.1. Data Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1.1. Data Cleaning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1.2. Feature Compression"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1.2.1. Feature Selection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1.2.2. Feature Extraction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.1.3. Data Augmentation"
-    },
-    {
-      "description": "An overview of model optimization operations. Model design involves creating lightweight models through manual and automated techniques, including architecture selection, parameter tuning, and regularization. Model compression involves using various techniques, such as pruning, quantization, and knowledge distillation, to reduce the size of the model and obtain a compact model that requires fewer resources while maintaining high accuracy.",
-      "items": [],
-      "title": "3.2. Model Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.1. Model Design"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.1.1. Compact Architecture Design"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.1.2. Neural Architecture Search (NAS)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2. Model Compression"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2.1. Model Pruning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2.2. Parameter Sharing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2.3. Model Quantization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2.4. Knowledge Distillation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.2.2.5. Low-rank Factorization"
-    },
-    {
-      "description": "An overview of system optimization operations. Software optimization involves developing frameworks for lightweight model training and inference, while hardware optimization focuses on accelerating models using hardware-based approaches to improve computational efficiency on edge devices.",
-      "items": [],
-      "title": "3.3. System Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.3.1. Software Optimization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "3.3.2. Hardware Optimization"
+      "title": "New: TinyML & Microcontroller AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:36:03.871Z",
+    "last_updated": "2026-08-19T12:08:11.215Z",
     "original_repository": "wangxb96/Awesome-EdgeAI",
+    "original_repository_id": 590725817,
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
