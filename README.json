@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 356055024,
                 "language": "C++",
-                "last_commit": "2026-08-20T17:16:41Z",
+                "last_commit": "2026-08-21T14:11:03Z",
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3055
+                "stars": 3056
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 498779556,
                 "language": "C",
-                "last_commit": "2026-08-20T13:36:32Z",
+                "last_commit": "2026-08-21T05:25:44Z",
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
                 "stars": 418
@@ -45,7 +45,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:38:51.324Z",
+    "last_updated": "2026-08-21T22:35:58.324Z",
     "original_repository": "wangxb96/Awesome-EdgeAI",
     "original_repository_id": 590725817,
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
