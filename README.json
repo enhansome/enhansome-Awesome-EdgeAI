@@ -7,6 +7,88 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MCUNet: Tiny Deep Learning on IoT Devices",
+              "description": "(NeurIPS 2020) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503454474,
+                "language": "Python",
+                "last_commit": "2024-03-29T18:17:37Z",
+                "owner": "mit-han-lab",
+                "repo": "mcunet",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
+              "description": "(NeurIPS 2021) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503454474,
+                "language": "Python",
+                "last_commit": "2024-03-29T18:17:37Z",
+                "owner": "mit-han-lab",
+                "repo": "mcunet",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCUNetV3: On-Device Training Under 256KB Memory",
+              "description": "(NeurIPS 2022) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 503454474,
+                "language": "Python",
+                "last_commit": "2024-03-29T18:17:37Z",
+                "owner": "mit-han-lab",
+                "repo": "mcunet",
+                "stars": 711
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On-Device Training Under 256KB Memory",
+              "description": "(NeurIPS 2022) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566277502,
+                "language": "Python",
+                "last_commit": "2024-03-29T18:15:19Z",
+                "owner": "mit-han-lab",
+                "repo": "tiny-training",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TinyEngine: Efficient Training and Inference on Microcontrollers",
+              "description": "(2023) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528570641,
+                "language": "C",
+                "last_commit": "2024-11-27T18:51:37Z",
+                "owner": "mit-han-lab",
+                "repo": "tinyengine",
+                "stars": 952
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Foundational TinyML Papers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "TensorFlow Lite for Microcontrollers (TFLM)",
               "description": "Google's framework for MCU inference.",
               "children": [],
@@ -17,7 +99,7 @@
                 "last_commit": "2026-08-21T14:11:03Z",
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3056
+                "stars": 3057
               }
             },
             {
@@ -32,7 +114,7 @@
                 "last_commit": "2026-08-21T05:25:44Z",
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 418
+                "stars": 420
               }
             }
           ],
@@ -42,10 +124,1226 @@
         }
       ],
       "title": "New: TinyML & Microcontroller AI"
+    },
+    {
+      "description": "Beyond inference, enabling on-device training and fine-tuning allows models to adapt to user-specific data and changing environments without privacy leakage.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "On-Device Training Under 256KB Memory",
+              "description": "(NeurIPS 2022) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566277502,
+                "language": "Python",
+                "last_commit": "2024-03-29T18:15:19Z",
+                "owner": "mit-han-lab",
+                "repo": "tiny-training",
+                "stars": 524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning",
+              "description": "(USENIX ATC 2021) PolyU Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345609017,
+                "language": "Python",
+                "last_commit": "2021-07-14T17:22:47Z",
+                "owner": "kimihe",
+                "repo": "Octo",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+              "description": "(ICLR 2022) Microsoft Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378010497,
+                "language": "Python",
+                "last_commit": "2024-12-17T03:55:52Z",
+                "owner": "microsoft",
+                "repo": "LoRA",
+                "stars": 13764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+              "description": "(NeurIPS 2023) University of Washington Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639346169,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-06-10T19:20:16Z",
+                "owner": "artidoro",
+                "repo": "qlora",
+                "stars": 10997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DoRA: Weight-Decomposed Low-Rank Adaptation",
+              "description": "(ICML 2024) -- Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 785300720,
+                "language": "Python",
+                "last_commit": "2026-03-24T09:13:24Z",
+                "owner": "NVlabs",
+                "repo": "DoRA",
+                "stars": 990
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "On-Device Training & Fine-tuning"
+        }
+      ],
+      "title": "New: On-Device Training & Personalization"
+    },
+    {
+      "description": "Multimodal models (vision + language + audio) and embodied AI systems (robots, AR/VR, autonomous vehicles) running on edge devices represent the next frontier. Key challenges include fusing modalities under tight memory/power budgets.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
+              "description": "(arXiv 2024) OpenBMB / THU Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 749647889,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:17:31Z",
+                "owner": "OpenBMB",
+                "repo": "MiniCPM-V",
+                "stars": 26222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileVLM: Vision-Language Model for Mobile Devices",
+              "description": "(arXiv 2023) Meituan Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 736844434,
+                "language": "Python",
+                "last_commit": "2024-04-15T03:53:45Z",
+                "owner": "Meituan-AutoML",
+                "repo": "MobileVLM",
+                "stars": 1370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaVA-1.5: Improved Baselines for Visual Instruction Tuning",
+              "description": "(NeurIPS 2024) UW-Madison / Microsoft Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629102662,
+                "language": "Python",
+                "last_commit": "2024-08-12T09:52:38Z",
+                "owner": "haotian-liu",
+                "repo": "LLaVA",
+                "stars": 25000
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multimodal Models on Edge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Octo: An Open-Source Generalist Robot Policy",
+              "description": "(RSS 2024) UC Berkeley Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 731075982,
+                "language": "Python",
+                "last_commit": "2024-07-31T00:26:15Z",
+                "owner": "octo-models",
+                "repo": "octo",
+                "stars": 1747
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embodied AI & Robotics on Edge"
+        }
+      ],
+      "title": "New: Multimodal & Embodied Edge AI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Active label cleaning for improved dataset quality under resource constraints[J]. Nature communications, 2022.",
+                  "description": "Microsoft Research Cambridge Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 259878805,
+                    "language": "Python",
+                    "last_commit": "2024-03-21T09:43:17Z",
+                    "owner": "microsoft",
+                    "repo": "InnerEye-DeepLearning",
+                    "stars": 581
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Locomotion mode recognition using sensory data with noisy labels: A deep learning approach. IEEE Trans. on Mobile Computing.",
+                  "description": "Indian Institute of Technology BHU Varanasi Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 430603092,
+                    "language": "Python",
+                    "last_commit": "2021-11-22T07:24:31Z",
+                    "owner": "errahulm",
+                    "repo": "LRNL_approach",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Protonn: Compressed and accurate knn for resource-scarce devices[C] ICML, 2017.",
+                  "description": "Microsoft Research, India Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 69389961,
+                    "language": "C++",
+                    "last_commit": "2024-06-01T16:49:37Z",
+                    "owner": "microsoft",
+                    "repo": "ELL",
+                    "stars": 2302
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.1.1. Data Cleaning"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Supervised compression for resource-constrained edge computing systems[C] WACV, 2022.",
+                      "description": "University of California, Irvine Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 318041200,
+                        "language": "Python",
+                        "last_commit": "2023-06-16T04:01:13Z",
+                        "owner": "yoshitomo-matsubara",
+                        "repo": "supervised-compression",
+                        "stars": 36
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Communication-computation trade-off in resource-constrained edge inference[J]. IEEE Communications Magazine, 2020.",
+                      "description": "The Hong Kong Polytechnic University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 296258473,
+                        "language": "Python",
+                        "last_commit": "2021-02-25T09:32:48Z",
+                        "owner": "shaojiawei07",
+                        "repo": "Edge_Inference_three-step_framework",
+                        "stars": 27
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "3.1.2.2. Feature Extraction"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.1.2. Feature Compression"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Towards light-weight and real-time line segment detection[C] AAAI, 2022.",
+                  "description": "NAVER/LINE Corp. Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 370968877,
+                    "language": "Python",
+                    "last_commit": "2023-07-11T03:39:04Z",
+                    "owner": "navervision",
+                    "repo": "mlsd",
+                    "stars": 618
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.1.3. Data Augmentation"
+            }
+          ],
+          "description": "An overview of data optimization operations. Data cleaning improves data quality by removing errors and inconsistencies in the raw data. Feature compression is used to eliminate irrelevant and redundant features. For scarce data, data augmentation is employed to increase the data size.",
+          "node_type": "group",
+          "title": "3.1. Data Optimization"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv, 2017.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 88717189,
+                        "language": "Python",
+                        "last_commit": "2017-11-06T01:23:28Z",
+                        "owner": "Zehaos",
+                        "repo": "MobileNet",
+                        "stars": 1659
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Mobilenetv2: Inverted residuals and linear bottlenecks[C] CVPR, 2018.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 145735080,
+                        "language": "Python",
+                        "last_commit": "2021-01-15T02:52:16Z",
+                        "owner": "d-li14",
+                        "repo": "mobilenetv2.pytorch",
+                        "stars": 735
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Searching for mobilenetv3[C]// ICCV, 2019.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 186247418,
+                        "language": "Python",
+                        "last_commit": "2023-04-27T03:23:18Z",
+                        "owner": "xiaolai-sqlai",
+                        "repo": "mobilenetv3",
+                        "stars": 1864
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Rethinking bottleneck structure for efficient mobile network design[C] ECCV, 2020.",
+                      "description": "National University of Singapore Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 278529501,
+                        "language": "Python",
+                        "last_commit": "2022-10-31T22:31:13Z",
+                        "owner": "zhoudaquan",
+                        "repo": "rethinking_bottleneck_design",
+                        "stars": 139
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Mnasnet: Platform-aware neural architecture search for mobile[C] CVPR, 2019.",
+                      "description": "Google Brain Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 96946693,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2026-06-22T19:40:55Z",
+                        "owner": "tensorflow",
+                        "repo": "tpu",
+                        "stars": 5278
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Shufflenet: An extremely efficient convolutional neural network for mobile devices[C] CVPR, 2018.",
+                      "description": "Megvii Inc (Face++) Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 201265879,
+                        "language": "Python",
+                        "last_commit": "2020-08-27T03:27:25Z",
+                        "owner": "megvii-model",
+                        "repo": "ShuffleNet-Series",
+                        "stars": 1513
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Shufflenet v2: Practical guidelines for efficient cnn architecture design[C] ECCV, 2018.",
+                      "description": "Megvii Inc (Face++) Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 201265879,
+                        "language": "Python",
+                        "last_commit": "2020-08-27T03:27:25Z",
+                        "owner": "megvii-model",
+                        "repo": "ShuffleNet-Series",
+                        "stars": 1513
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Single path one-shot neural architecture search with uniform sampling[C] ECCV, 2020.",
+                      "description": "Megvii Inc (Face++) Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 201265879,
+                        "language": "Python",
+                        "last_commit": "2020-08-27T03:27:25Z",
+                        "owner": "megvii-model",
+                        "repo": "ShuffleNet-Series",
+                        "stars": 1513
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size[J]. arXiv, 2016.",
+                      "description": "DeepScale∗ & UC Berkeley Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 52310392,
+                        "language": null,
+                        "last_commit": "2018-07-09T21:10:27Z",
+                        "owner": "forresti",
+                        "repo": "SqueezeNet",
+                        "stars": 2218
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Squeezenext: Hardware-aware neural network design[C] CVPR Workshops. 2018.",
+                      "description": "UC Berkeley Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 140250064,
+                        "language": "Python",
+                        "last_commit": "2022-05-26T16:12:43Z",
+                        "owner": "Timen",
+                        "repo": "squeezenext-tensorflow",
+                        "stars": 55
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Ghostnet: More features from cheap operations[C] CVPR, 2020.",
+                      "description": "Noah’s Ark Lab, Huawei Technologies Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 222110214,
+                        "language": "Python",
+                        "last_commit": "2025-03-15T12:48:07Z",
+                        "owner": "huawei-noah",
+                        "repo": "Efficient-AI-Backbones",
+                        "stars": 4418
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Efficientnet: Rethinking model scaling for convolutional neural networks[C] ICML, 2019.",
+                      "description": "Google Brain Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 189350661,
+                        "language": "Python",
+                        "last_commit": "2022-04-08T12:30:25Z",
+                        "owner": "lukemelas",
+                        "repo": "EfficientNet-PyTorch",
+                        "stars": 8221
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Efficientnetv2: Smaller models and faster training[C] ICML, 2021.",
+                      "description": "Google Brain Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 246738676,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2025-03-02T07:46:39Z",
+                        "owner": "google",
+                        "repo": "automl",
+                        "stars": 6474
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Efficientdet: Scalable and efficient object detection[C] CVPR, 2020.",
+                      "description": "Google Brain Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 246738676,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2025-03-02T07:46:39Z",
+                        "owner": "google",
+                        "repo": "automl",
+                        "stars": 6474
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Condensenet: An efficient densenet using learned group convolutions[C] CVPR, 2018.",
+                      "description": "Cornell University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 104818215,
+                        "language": "Python",
+                        "last_commit": "2019-11-11T03:38:46Z",
+                        "owner": "ShichenLiu",
+                        "repo": "CondenseNet",
+                        "stars": 690
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Condensenet v2: Sparse feature reactivation for deep networks[C] CVPR, 2021.",
+                      "description": "Tsinghua University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 352315303,
+                        "language": "Python",
+                        "last_commit": "2022-08-27T04:31:07Z",
+                        "owner": "jianghaojun",
+                        "repo": "CondenseNetV2",
+                        "stars": 86
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Espnet: Efficient spatial pyramid of dilated convolutions for semantic segmentation[C] ECCV, 2018.",
+                      "description": "University of Washington Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 121903519,
+                        "language": "Python",
+                        "last_commit": "2023-06-30T08:57:36Z",
+                        "owner": "sacmehta",
+                        "repo": "ESPNet",
+                        "stars": 542
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Espnetv2: A light-weight, power efficient, and general purpose convolutional neural network[C] CVPR, 2019.",
+                      "description": "University of Washington Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 158426519,
+                        "language": "Python",
+                        "last_commit": "2021-01-29T00:27:38Z",
+                        "owner": "sacmehta",
+                        "repo": "ESPNetv2",
+                        "stars": 455
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search[C] CVPR, 2019.",
+                      "description": "UC Berkeley Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 164916735,
+                        "language": "Python",
+                        "last_commit": "2026-07-21T00:06:03Z",
+                        "owner": "facebookresearch",
+                        "repo": "mobile-vision",
+                        "stars": 920
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Fbnetv2: Differentiable neural architecture search for spatial and channel dimensions[C] CVPR, 2020.",
+                      "description": "UC Berkeley Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 164916735,
+                        "language": "Python",
+                        "last_commit": "2026-07-21T00:06:03Z",
+                        "owner": "facebookresearch",
+                        "repo": "mobile-vision",
+                        "stars": 920
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Pelee: A real-time object detection system on mobile devices[J]. NeurIPS, 2021.",
+                      "description": "University of Western Ontario Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 117862554,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2019-01-04T05:52:11Z",
+                        "owner": "Robert-JunWang",
+                        "repo": "Pelee",
+                        "stars": 884
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Going deeper with convolutions[C] CVPR, 2015.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 113358331,
+                        "language": "Python",
+                        "last_commit": "2020-03-11T20:56:53Z",
+                        "owner": "conan7882",
+                        "repo": "GoogLeNet-Inception",
+                        "stars": 297
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift[C] ICML, 2015.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 211103666,
+                        "language": "Python",
+                        "last_commit": "2025-10-11T06:07:56Z",
+                        "owner": "shanglianlm0525",
+                        "repo": "PyTorch-Networks",
+                        "stars": 2055
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Rethinking the inception architecture for computer vision[C]// CVPR, 2016.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 211103666,
+                        "language": "Python",
+                        "last_commit": "2025-10-11T06:07:56Z",
+                        "owner": "shanglianlm0525",
+                        "repo": "PyTorch-Networks",
+                        "stars": 2055
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Inception-v4, inception-resnet and the impact of residual connections on learning[C] AAAI, 2017.",
+                      "description": "Google Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 211103666,
+                        "language": "Python",
+                        "last_commit": "2025-10-11T06:07:56Z",
+                        "owner": "shanglianlm0525",
+                        "repo": "PyTorch-Networks",
+                        "stars": 2055
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Xception: Deep learning with depthwise separable convolutions[C] CVPR, 2017.",
+                      "description": "Google, Inc. Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 89074562,
+                        "language": "Python",
+                        "last_commit": "2024-07-15T16:58:28Z",
+                        "owner": "weiaicunzai",
+                        "repo": "pytorch-cifar100",
+                        "stars": 4776
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Mobilevit: light-weight, general-purpose, and mobile-friendly vision transformer[J]. arXiv, 2021.",
+                      "description": "Apple Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 419903001,
+                        "language": "Python",
+                        "last_commit": "2023-10-30T17:05:10Z",
+                        "owner": "apple",
+                        "repo": "ml-cvnets",
+                        "stars": 1983
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Lite transformer with long-short range attention[J]. arXiv, 2020.",
+                      "description": "Massachusetts Institute of Technology Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": true,
+                        "id": 258533881,
+                        "language": "Python",
+                        "last_commit": "2024-07-11T20:50:46Z",
+                        "owner": "mit-han-lab",
+                        "repo": "lite-transformer",
+                        "stars": 609
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Coordinate attention for efficient mobile network design[C] CVPR, 2021.",
+                      "description": "National University of Singapore Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 343990941,
+                        "language": "Python",
+                        "last_commit": "2021-06-08T02:46:46Z",
+                        "owner": "houqb",
+                        "repo": "CoordAttention",
+                        "stars": 1152
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ECA-Net: Efficient channel attention for deep convolutional neural networks[C] CVPR, 2020.",
+                      "description": "Tianjin University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 208555616,
+                        "language": "Python",
+                        "last_commit": "2021-05-16T07:00:27Z",
+                        "owner": "BangguWu",
+                        "repo": "ECANet",
+                        "stars": 1416
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Sa-net: Shuffle attention for deep convolutional neural networks[C] ICASSP, 2021.",
+                      "description": "Nanjing University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 334421312,
+                        "language": "Python",
+                        "last_commit": "2021-05-29T08:03:04Z",
+                        "owner": "wofmanaf",
+                        "repo": "SA-Net",
+                        "stars": 264
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Triplet Attention: Rethinking the Similarity in Transformers[C] KDD, 2021.",
+                      "description": "Beihang University Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 374306104,
+                        "language": "Python",
+                        "last_commit": "2021-11-10T01:48:46Z",
+                        "owner": "zhouhaoyi",
+                        "repo": "TripletAttention",
+                        "stars": 23
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Resnest: Split-attention networks[C] CVPR, 2020.",
+                      "description": "Meta Code",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 247528876,
+                        "language": "Python",
+                        "last_commit": "2022-12-09T10:57:09Z",
+                        "owner": "zhanghang1989",
+                        "repo": "ResNeSt",
+                        "stars": 3261
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "3.2.1.1. Compact Architecture Design"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.2.1. Model Design"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "FTT-NAS: Discovering fault-tolerant convolutional neural architecture[J]. TODAES), 2021.",
+                  "description": "Tsinghua University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 185360477,
+                    "language": "Python",
+                    "last_commit": "2025-11-25T05:02:47Z",
+                    "owner": "walkerning",
+                    "repo": "aw_nas",
+                    "stars": 254
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Intermittent-aware neural architecture search[J]. ACM Transactions on Embedded Computing Systems (TECS), 2021.",
+                  "description": "Academia Sinica and National Taiwan University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 353459024,
+                    "language": "C",
+                    "last_commit": "2023-01-19T04:55:26Z",
+                    "owner": "EMCLab-Sinica",
+                    "repo": "Intermittent-aware-NAS",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hardcore-nas: Hard constrained differentiable neural architecture search[C] ICML, 2021.",
+                  "description": "Alibaba Group, Tel Aviv, Israel Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 341002315,
+                    "language": "Python",
+                    "last_commit": "2022-08-23T18:46:04Z",
+                    "owner": "Alibaba-MIIL",
+                    "repo": "HardCoReNAS",
+                    "stars": 36
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.2.1.2. Neural Architecture Search (NAS)"
+            }
+          ],
+          "description": "An overview of model optimization operations. Model design involves creating lightweight models through manual and automated techniques, including architecture selection, parameter tuning, and regularization. Model compression involves using various techniques, such as pruning, quantization, and knowledge distillation, to reduce the size of the model and obtain a compact model that requires fewer resources while maintaining high accuracy.",
+          "node_type": "group",
+          "title": "3.2. Model Optimization"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Hrank: Filter pruning using high-rank feature map[C]// CVPR, 2020.",
+                  "description": "Xiamen University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 222231732,
+                    "language": "Python",
+                    "last_commit": "2021-02-11T16:48:26Z",
+                    "owner": "lmbxmu",
+                    "repo": "HRank",
+                    "stars": 257
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Penni: Pruned kernel sharing for efficient CNN inference[C] ICML, 2020.",
+                  "description": "Duke University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 274705857,
+                    "language": "Python",
+                    "last_commit": "2024-07-25T10:59:43Z",
+                    "owner": "timlee0212",
+                    "repo": "PENNI",
+                    "stars": 7
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "A Fast Post-Training Pruning Framework for Transformers[C]// NeurIPS",
+                  "description": "UC Berkeley Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 423047996,
+                    "language": "Python",
+                    "last_commit": "2023-02-28T00:11:31Z",
+                    "owner": "WoosukKwon",
+                    "repo": "retraining-free-pruning",
+                    "stars": 197
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Exploring sparsity in image super-resolution for efficient inference[C] CVPR, 2021.",
+                  "description": "National University of Defense Technology Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 282676993,
+                    "language": "Python",
+                    "last_commit": "2021-10-18T07:36:56Z",
+                    "owner": "SYSU-SAIL",
+                    "repo": "SMSR",
+                    "stars": 238
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dropnet: Reducing neural network complexity via iterative pruning[C] ICML, 2020.",
+                  "description": "National University of Singapore Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 269037839,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2020-08-24T01:37:35Z",
+                    "owner": "tanchongmin",
+                    "repo": "DropNet",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference[C] MICRO-54, 2021.",
+                  "description": "Harvard University Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 389476599,
+                    "language": "Python",
+                    "last_commit": "2024-03-24T21:05:42Z",
+                    "owner": "harvard-acc",
+                    "repo": "EdgeBERT",
+                    "stars": 54
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.2.2.1. Model Pruning"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2.2. Model Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Deep k-means: Re-training and parameter sharing with harder cluster assignments for compressing deep convolutions[C] ICML, 2018.",
+              "description": "Texas A&M University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136533571,
+                "language": "Python",
+                "last_commit": "2021-12-31T06:23:48Z",
+                "owner": "VITA-Group",
+                "repo": "Deep-K-Means-pytorch",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "\"Soft Weight-Sharing for Neural Network Compression.\" International Conference on Learning Representations.",
+              "description": "University of Amsterdam Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81807309,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-02-15T13:46:03Z",
+                "owner": "KarenUllrich",
+                "repo": "Tutorial-SoftWeightSharingForNNCompression",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShiftAddNAS: Hardware-inspired search for more accurate and efficient neural networks[C] ICML, 2022.",
+              "description": "Rice University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493111968,
+                "language": "Python",
+                "last_commit": "2022-05-18T01:03:47Z",
+                "owner": "GATECH-EIC",
+                "repo": "ShiftAddNAS",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EfficientTDNN: Efficient architecture search for speaker recognition[J]. IEEE/ACM Trans. on Audio, Speech, and Language Processing, 2022.",
+              "description": "Tongji University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 431097965,
+                "language": "Python",
+                "last_commit": "2023-02-08T03:25:08Z",
+                "owner": "mechanicalsea",
+                "repo": "sugar",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A generic network compression framework for sequential recommender systems[C] SIGIR, 2020.",
+              "description": "University of Science and Technology Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 260444258,
+                "language": "Python",
+                "last_commit": "2020-05-05T12:00:32Z",
+                "owner": "siat-nlp",
+                "repo": "CpRec",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2.2.2. Parameter Sharing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Fractrain: Fractionally squeezing bit savings both temporally and spatially for efficient dnn training[J]. NeurIPS, 2020.",
+              "description": "Rice University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305256787,
+                "language": "Python",
+                "last_commit": "2022-02-13T21:49:31Z",
+                "owner": "GATECH-EIC",
+                "repo": "FracTrain",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning[C] USENIX Annual Technical Conference. 2021.",
+              "description": "Hong Kong Polytechnic University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345609017,
+                "language": "Python",
+                "last_commit": "2021-07-14T17:22:47Z",
+                "owner": "kimihe",
+                "repo": "Octo",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2.2.3. Model Quantization"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dynabert: Dynamic bert with adaptive width and depth[J]. NeurIPS, 2020.",
+              "description": "Huawei Noah’s Ark Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225393289,
+                "language": "Python",
+                "last_commit": "2024-01-22T01:11:22Z",
+                "owner": "huawei-noah",
+                "repo": "Pretrained-Language-Model",
+                "stars": 3165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scan: A scalable neural networks framework towards compact and efficient models[J]. NeurIPS, 2019.",
+              "description": "Tsinghua University Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 210252423,
+                "language": "Python",
+                "last_commit": "2020-06-09T11:45:46Z",
+                "owner": "ArchipLab-LinfengZhang",
+                "repo": "pytorch-scalable-neural-networks",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[C] SIGIR, 2022.",
+              "description": "The University of Queensland Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 484782047,
+                "language": "Python",
+                "last_commit": "2023-03-22T22:23:44Z",
+                "owner": "xiaxin1998",
+                "repo": "OD-Rec",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDFKD-MFS: Collaborative Data-Free Knowledge Distillation via Multi-Level Feature Sharing[J]. IEEE Trans. on Multimedia, 2022.",
+              "description": "Beijing Institute of Technology Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456931477,
+                "language": "Python",
+                "last_commit": "2023-03-09T03:14:34Z",
+                "owner": "Hao840",
+                "repo": "CDFKD-MFS",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation[J]. NeurIPS, 2022.",
+              "description": "Beijing Institute of Technology Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542994558,
+                "language": "Python",
+                "last_commit": "2022-10-18T04:27:42Z",
+                "owner": "Hao840",
+                "repo": "manifold-distillation",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3.2.2.4. Knowledge Distillation"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "A unified optimization approach for cnn model inference on integrated gpus[C] ICPP, 2019.",
+                  "description": "Amazon Web Services Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 70746484,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T04:45:14Z",
+                    "owner": "apache",
+                    "repo": "tvm",
+                    "stars": 13680
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Weightless neural networks for efficient edge inference[C] PACT, 2022.",
+                  "description": "The University of Texas at Austin Code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 521079566,
+                    "language": "SystemVerilog",
+                    "last_commit": "2022-11-15T17:48:47Z",
+                    "owner": "ZSusskind",
+                    "repo": "BTHOWeN",
+                    "stars": 22
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "3.3.1. Software Optimization"
+            }
+          ],
+          "description": "An overview of system optimization operations. Software optimization involves developing frameworks for lightweight model training and inference, while hardware optimization focuses on accelerating models using hardware-based approaches to improve computational efficiency on edge devices.",
+          "node_type": "group",
+          "title": "3.3. System Optimization"
+        }
+      ],
+      "title": "3. The Data-Model-System Optimization Triad"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:33:37.977Z",
+    "last_updated": "2026-08-24T14:38:02.764Z",
     "original_repository": "wangxb96/Awesome-EdgeAI",
     "original_repository_id": 590725817,
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
