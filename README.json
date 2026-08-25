@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 356055024,
                 "language": "C++",
-                "last_commit": "2026-08-24T16:25:16Z",
+                "last_commit": "2026-08-24T23:41:29Z",
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3057
+                "stars": 3058
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2024-12-17T03:55:52Z",
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13765
+                "stars": 13766
               }
             },
             {
@@ -230,7 +230,7 @@
                 "last_commit": "2026-08-24T06:17:31Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26225
+                "stars": 26228
               }
             },
             {
@@ -1307,10 +1307,10 @@
                     "archived": false,
                     "id": 70746484,
                     "language": "Python",
-                    "last_commit": "2026-08-24T21:15:32Z",
+                    "last_commit": "2026-08-25T02:43:23Z",
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13680
+                    "stars": 13683
                   }
                 },
                 {
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T22:38:24.657Z",
+    "last_updated": "2026-08-25T06:30:38.866Z",
     "original_repository": "wangxb96/Awesome-EdgeAI",
     "original_repository_id": 590725817,
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
