@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-26T14:15:39Z",
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3060
+                "stars": 3059
               }
             },
             {
@@ -172,7 +172,7 @@
                 "last_commit": "2024-12-17T03:55:52Z",
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13767
+                "stars": 13768
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2024-06-10T19:20:16Z",
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10998
+                "stars": 10999
               }
             },
             {
@@ -230,7 +230,7 @@
                 "last_commit": "2026-08-26T09:50:07Z",
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26240
+                "stars": 26243
               }
             },
             {
@@ -260,7 +260,7 @@
                 "last_commit": "2024-08-12T09:52:38Z",
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25001
+                "stars": 25003
               }
             }
           ],
@@ -282,7 +282,7 @@
                 "last_commit": "2024-07-31T00:26:15Z",
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1752
+                "stars": 1753
               }
             }
           ],
@@ -829,7 +829,7 @@
                         "last_commit": "2023-10-30T17:05:10Z",
                         "owner": "apple",
                         "repo": "ml-cvnets",
-                        "stars": 1983
+                        "stars": 1984
                       }
                     },
                     {
@@ -889,7 +889,7 @@
                         "last_commit": "2021-05-29T08:03:04Z",
                         "owner": "wofmanaf",
                         "repo": "SA-Net",
-                        "stars": 264
+                        "stars": 263
                       }
                     },
                     {
@@ -1226,7 +1226,7 @@
                 "last_commit": "2024-01-22T01:11:22Z",
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3165
+                "stars": 3166
               }
             },
             {
@@ -1310,7 +1310,7 @@
                     "last_commit": "2026-08-26T13:47:21Z",
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13691
+                    "stars": 13692
                   }
                 },
                 {
@@ -1343,9 +1343,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:05:38.871Z",
-    "original_repository": "wangxb96/Awesome-EdgeAI",
-    "original_repository_id": 590725817,
+    "last_updated": "2026-08-27T11:21:28.885Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 590725817,
+      "language": null,
+      "last_commit": "2026-06-10T07:49:30Z",
+      "owner": "wangxb96",
+      "repo": "Awesome-EdgeAI",
+      "stars": 116
+    },
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
