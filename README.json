@@ -2024,8 +2024,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T01:42:32Z",
-                    "open_issues": 247,
+                    "last_commit": "2026-08-29T04:23:27Z",
+                    "open_issues": 244,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13698,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:40:49.777Z",
+    "last_updated": "2026-08-29T04:56:30.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
