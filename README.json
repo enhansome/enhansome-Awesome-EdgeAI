@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
+                "homepage": "https://mcunet.mit.edu",
                 "id": 503454474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T18:17:37Z",
+                "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 711
+                "stars": 711,
+                "topics": [
+                  "deep-learning",
+                  "microncontroller",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -28,12 +39,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
+                "homepage": "https://mcunet.mit.edu",
                 "id": 503454474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T18:17:37Z",
+                "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 711
+                "stars": 711,
+                "topics": [
+                  "deep-learning",
+                  "microncontroller",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -44,12 +66,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
+                "homepage": "https://mcunet.mit.edu",
                 "id": 503454474,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T18:17:37Z",
+                "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 711
+                "stars": 711,
+                "topics": [
+                  "deep-learning",
+                  "microncontroller",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -60,12 +93,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On-Device Training Under 256KB Memory [NeurIPS'22]",
+                "homepage": "http://tinytraining.mit.edu",
                 "id": 566277502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T18:15:19Z",
+                "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 524
+                "stars": 524,
+                "topics": [
+                  "edge-ai",
+                  "learning-on-the-edge",
+                  "on-device-training"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -76,12 +118,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256KB Memory",
+                "homepage": "https://mcunet.mit.edu",
                 "id": 528570641,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-11-27T18:51:37Z",
+                "open_issues": 37,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 954
+                "stars": 954,
+                "topics": [
+                  "c",
+                  "codegenerator",
+                  "cpp",
+                  "deep-learning",
+                  "edge-computing",
+                  "microcontroller",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "quantization",
+                  "tinyml"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -99,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+                "homepage": null,
                 "id": 356055024,
                 "language": "C++",
-                "last_commit": "2026-08-28T03:03:05Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:28Z",
+                "open_issues": 68,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3059
+                "stars": 3062,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -115,12 +178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMSIS-NN Library",
+                "homepage": "https://arm-software.github.io/CMSIS-NN",
                 "id": 498779556,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T05:25:44Z",
+                "open_issues": 8,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 420
+                "stars": 420,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -144,12 +212,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "On-Device Training Under 256KB Memory [NeurIPS'22]",
+                "homepage": "http://tinytraining.mit.edu",
                 "id": 566277502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-29T18:15:19Z",
+                "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 524
+                "stars": 524,
+                "topics": [
+                  "edge-ai",
+                  "learning-on-the-edge",
+                  "on-device-training"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -160,12 +237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create tiny ML systems for on-device learning.",
+                "homepage": null,
                 "id": 345609017,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-14T17:22:47Z",
+                "open_issues": 0,
                 "owner": "kimihe",
                 "repo": "Octo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -176,12 +258,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+                "homepage": "https://arxiv.org/abs/2106.09685",
                 "id": 378010497,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-17T03:55:52Z",
+                "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13768
+                "stars": 13769,
+                "topics": [
+                  "adaptation",
+                  "deberta",
+                  "deep-learning",
+                  "gpt-2",
+                  "gpt-3",
+                  "language-model",
+                  "lora",
+                  "low-rank",
+                  "pytorch",
+                  "roberta"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -192,12 +290,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
+                "homepage": "https://arxiv.org/abs/2305.14314",
                 "id": 639346169,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-06-10T19:20:16Z",
+                "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10999
+                "stars": 10999,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -208,12 +311,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML2024 (Oral)] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation",
+                "homepage": "https://nbasyl.github.io/DoRA-project-page/",
                 "id": 785300720,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-24T09:13:24Z",
+                "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 990
+                "stars": 990,
+                "topics": [
+                  "commonsense-reasoning",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "instruction-tuning",
+                  "large-language-models",
+                  "large-vision-language-models",
+                  "lora",
+                  "parameter-efficient-fine-tuning",
+                  "parameter-efficient-tuning",
+                  "vision-and-language"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -237,12 +356,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                "homepage": null,
                 "id": 749647889,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:50:07Z",
+                "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26247
+                "stars": 26253,
+                "topics": [
+                  "minicpm",
+                  "minicpm-o",
+                  "minicpm-v",
+                  "multi-modal"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -253,12 +382,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Strong and Open Vision Language Assistant for Mobile Devices",
+                "homepage": null,
                 "id": 736844434,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-15T03:53:45Z",
+                "open_issues": 34,
                 "owner": "Meituan-AutoML",
                 "repo": "MobileVLM",
-                "stars": 1370
+                "stars": 1370,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -269,12 +403,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+                "homepage": "https://llava.hliu.cc",
                 "id": 629102662,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-12T09:52:38Z",
+                "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25005
+                "stars": 25005,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "foundation-models",
+                  "gpt-4",
+                  "instruction-tuning",
+                  "llama",
+                  "llama-2",
+                  "llama2",
+                  "llava",
+                  "multi-modality",
+                  "multimodal",
+                  "vision-language-model",
+                  "visual-language-learning"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -292,12 +445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.",
+                "homepage": "https://octo-models.github.io/",
                 "id": 731075982,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-31T00:26:15Z",
+                "open_issues": 95,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1754
+                "stars": 1755,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -323,12 +481,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning",
+                    "homepage": "https://aka.ms/innereyeoss",
                     "id": 259878805,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-21T09:43:17Z",
+                    "open_issues": 89,
                     "owner": "microsoft",
                     "repo": "InnerEye-DeepLearning",
-                    "stars": 581
+                    "stars": 581,
+                    "topics": [
+                      "azure",
+                      "deep-learning",
+                      "healthcare",
+                      "medical-imaging"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -339,12 +507,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Locomotion Mode Recognition using Sensory Data with Noisy Labels: A Deep Learning Approach",
+                    "homepage": null,
                     "id": 430603092,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-22T07:24:31Z",
+                    "open_issues": 0,
                     "owner": "errahulm",
                     "repo": "LRNL_approach",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -355,12 +528,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Embedded Learning Library",
+                    "homepage": "https://microsoft.github.io/ELL",
                     "id": 69389961,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-06-01T16:49:37Z",
+                    "open_issues": 33,
                     "owner": "microsoft",
                     "repo": "ELL",
-                    "stars": 2302
+                    "stars": 2302,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 }
@@ -380,12 +558,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[WACV 2022] \"Supervised Compression for Resource-Constrained Edge Computing Systems\"",
+                        "homepage": null,
                         "id": 318041200,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-06-16T04:01:13Z",
+                        "open_issues": 0,
                         "owner": "yoshitomo-matsubara",
                         "repo": "supervised-compression",
-                        "stars": 36
+                        "stars": 36,
+                        "topics": [
+                          "coco",
+                          "image-classification",
+                          "imagenet",
+                          "knowledge-distillation",
+                          "object-detection",
+                          "pytorch",
+                          "semantic-segmentation",
+                          "split-computing",
+                          "supervised-compression"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -396,12 +589,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 296258473,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2021-02-25T09:32:48Z",
+                        "open_issues": 2,
                         "owner": "shaojiawei07",
                         "repo": "Edge_Inference_three-step_framework",
-                        "stars": 27
+                        "stars": 27,
+                        "topics": [
+                          "compresses",
+                          "edge-inference",
+                          "pruning"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     }
@@ -424,12 +626,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Tensorflow implementation of \"M-LSD: Towards Light-weight and Real-time Line Segment Detection\" (AAAI 2022 Oral)",
+                    "homepage": null,
                     "id": 370968877,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-07-11T03:39:04Z",
+                    "open_issues": 14,
                     "owner": "navervision",
                     "repo": "mlsd",
-                    "stars": 618
+                    "stars": 618,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 }
@@ -456,12 +663,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "MobileNet build with Tensorflow",
+                        "homepage": null,
                         "id": 88717189,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2017-11-06T01:23:28Z",
+                        "open_issues": 47,
                         "owner": "Zehaos",
                         "repo": "MobileNet",
-                        "stars": 1659
+                        "stars": 1659,
+                        "topics": [
+                          "detection",
+                          "mobilenets",
+                          "multigpu",
+                          "slim",
+                          "tensorflow"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -472,12 +690,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "72.8% MobileNetV2 1.0 model on ImageNet and a spectrum of pre-trained MobileNetV2 models",
+                        "homepage": "https://arxiv.org/abs/1801.04381",
                         "id": 145735080,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2021-01-15T02:52:16Z",
+                        "open_issues": 7,
                         "owner": "d-li14",
                         "repo": "mobilenetv2.pytorch",
-                        "stars": 735
+                        "stars": 735,
+                        "topics": [
+                          "cvpr2018",
+                          "deep-neural-networks",
+                          "imagenet",
+                          "mobilenetv2",
+                          "pretrained-models",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -488,12 +718,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "mobilenetv3 with pytorch，provide pre-train model",
+                        "homepage": null,
                         "id": 186247418,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-04-27T03:23:18Z",
+                        "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1864
+                        "stars": 1864,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -504,12 +739,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 278529501,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2022-10-31T22:31:13Z",
+                        "open_issues": 11,
                         "owner": "zhoudaquan",
                         "repo": "rethinking_bottleneck_design",
-                        "stars": 139
+                        "stars": 139,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -520,12 +760,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Reference models and tools for Cloud TPUs.",
+                        "homepage": "https://cloud.google.com/tpu/",
                         "id": 96946693,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2026-06-22T19:40:55Z",
+                        "open_issues": 319,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5278
+                        "stars": 5278,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -536,12 +781,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 201265879,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-08-27T03:27:25Z",
+                        "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1513
+                        "stars": 1513,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -552,12 +802,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 201265879,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-08-27T03:27:25Z",
+                        "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1513
+                        "stars": 1513,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -568,12 +823,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 201265879,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-08-27T03:27:25Z",
+                        "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1513
+                        "stars": 1513,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -584,12 +844,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters",
+                        "homepage": null,
                         "id": 52310392,
                         "language": null,
+                        "license": "BSD-2-Clause",
                         "last_commit": "2018-07-09T21:10:27Z",
+                        "open_issues": 7,
                         "owner": "forresti",
                         "repo": "SqueezeNet",
-                        "stars": 2218
+                        "stars": 2218,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -600,12 +865,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A tensorflow implementation of squeezenext. (includes link to trained model)",
+                        "homepage": null,
                         "id": 140250064,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-05-26T16:12:43Z",
+                        "open_issues": 1,
                         "owner": "Timen",
                         "repo": "squeezenext-tensorflow",
-                        "stars": 55
+                        "stars": 55,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -616,12 +886,28 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
+                        "homepage": null,
                         "id": 222110214,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-03-15T12:48:07Z",
+                        "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4418
+                        "stars": 4418,
+                        "topics": [
+                          "convolutional-neural-networks",
+                          "efficient-inference",
+                          "ghostnet",
+                          "imagenet",
+                          "model-compression",
+                          "pretrained-models",
+                          "pytorch",
+                          "tensorflow",
+                          "transformer",
+                          "vision-transformer"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -632,12 +918,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A PyTorch implementation of EfficientNet",
+                        "homepage": null,
                         "id": 189350661,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2022-04-08T12:30:25Z",
+                        "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8222
+                        "stars": 8222,
+                        "topics": [
+                          "efficientnet-pytorch",
+                          "feature-extraction",
+                          "imagenet",
+                          "pretrained-models"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -648,12 +944,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Google Brain AutoML",
+                        "homepage": null,
                         "id": 246738676,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-03-02T07:46:39Z",
+                        "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474
+                        "stars": 6475,
+                        "topics": [
+                          "automl",
+                          "efficientdet",
+                          "efficientnet",
+                          "efficientnetv2",
+                          "object-detection"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -664,12 +971,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Google Brain AutoML",
+                        "homepage": null,
                         "id": 246738676,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2025-03-02T07:46:39Z",
+                        "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474
+                        "stars": 6475,
+                        "topics": [
+                          "automl",
+                          "efficientdet",
+                          "efficientnet",
+                          "efficientnetv2",
+                          "object-detection"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -680,12 +998,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "CondenseNet: Light weighted CNN for mobile devices",
+                        "homepage": null,
                         "id": 104818215,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2019-11-11T03:38:46Z",
+                        "open_issues": 11,
                         "owner": "ShichenLiu",
                         "repo": "CondenseNet",
-                        "stars": 690
+                        "stars": 690,
+                        "topics": [
+                          "deep-learning",
+                          "mobile-device",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -696,12 +1023,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2021] CondenseNet V2: Sparse Feature Reactivation for Deep Networks",
+                        "homepage": null,
                         "id": 352315303,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-08-27T04:31:07Z",
+                        "open_issues": 0,
                         "owner": "jianghaojun",
                         "repo": "CondenseNetV2",
-                        "stars": 86
+                        "stars": 86,
+                        "topics": [
+                          "computer-vision",
+                          "cvpr2021",
+                          "deep-learning",
+                          "mobile-networks",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -712,12 +1050,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation",
+                        "homepage": "https://sacmehta.github.io/ESPNet/",
                         "id": 121903519,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-06-30T08:57:36Z",
+                        "open_issues": 9,
                         "owner": "sacmehta",
                         "repo": "ESPNet",
-                        "stars": 542
+                        "stars": 542,
+                        "topics": [
+                          "convolutional-neural-networks",
+                          "edge-devices",
+                          "real-time",
+                          "semantic-segmentation"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -728,12 +1076,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A light-weight, power efficient, and general purpose convolutional neural network",
+                        "homepage": null,
                         "id": 158426519,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-01-29T00:27:38Z",
+                        "open_issues": 2,
                         "owner": "sacmehta",
                         "repo": "ESPNetv2",
-                        "stars": 455
+                        "stars": 455,
+                        "topics": [
+                          "cnn",
+                          "convolutional-neural-networks",
+                          "deep-learning",
+                          "efficient",
+                          "imagenet",
+                          "lightweight",
+                          "machine-learning",
+                          "pytorch",
+                          "semantic-segmentation"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -744,12 +1107,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Mobile vision models and code",
+                        "homepage": null,
                         "id": 164916735,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-07-21T00:06:03Z",
+                        "open_issues": 29,
                         "owner": "facebookresearch",
                         "repo": "mobile-vision",
-                        "stars": 920
+                        "stars": 920,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -760,12 +1128,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Mobile vision models and code",
+                        "homepage": null,
                         "id": 164916735,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-07-21T00:06:03Z",
+                        "open_issues": 29,
                         "owner": "facebookresearch",
                         "repo": "mobile-vision",
-                        "stars": 920
+                        "stars": 920,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -776,12 +1149,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
+                        "homepage": null,
                         "id": 117862554,
                         "language": "Jupyter Notebook",
+                        "license": "Apache-2.0",
                         "last_commit": "2019-01-04T05:52:11Z",
+                        "open_issues": 54,
                         "owner": "Robert-JunWang",
                         "repo": "Pelee",
-                        "stars": 884
+                        "stars": 884,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -792,12 +1170,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "TensorFlow implementation of GoogLeNet and Inception for image classification.",
+                        "homepage": null,
                         "id": 113358331,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-03-11T20:56:53Z",
+                        "open_issues": 5,
                         "owner": "conan7882",
                         "repo": "GoogLeNet-Inception",
-                        "stars": 297
+                        "stars": 297,
+                        "topics": [
+                          "cifar",
+                          "googlenet",
+                          "image-classification",
+                          "inception",
+                          "pre-trained",
+                          "tensorflow"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -808,12 +1198,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation of cnn network",
+                        "homepage": null,
                         "id": 211103666,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-10-11T06:07:56Z",
+                        "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055
+                        "stars": 2055,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -824,12 +1219,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation of cnn network",
+                        "homepage": null,
                         "id": 211103666,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-10-11T06:07:56Z",
+                        "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055
+                        "stars": 2055,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -840,12 +1240,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation of cnn network",
+                        "homepage": null,
                         "id": 211103666,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-10-11T06:07:56Z",
+                        "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055
+                        "stars": 2055,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -856,12 +1261,35 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, NasNet, Residual Attention Network, SENet, WideResNet)",
+                        "homepage": null,
                         "id": 89074562,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-07-15T16:58:28Z",
+                        "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4777
+                        "stars": 4777,
+                        "topics": [
+                          "cifar100",
+                          "deep-learning",
+                          "densenet",
+                          "googlenet",
+                          "image-classification",
+                          "inception-resnet-v2",
+                          "inceptionv3",
+                          "inceptionv4",
+                          "mobilenet",
+                          "nasnet",
+                          "pytorch",
+                          "resnet",
+                          "resnext",
+                          "shufflenet",
+                          "squeezenet",
+                          "wideresnet",
+                          "xception"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -872,12 +1300,29 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "CVNets: A library for training computer vision networks",
+                        "homepage": "https://apple.github.io/ml-cvnets",
                         "id": 419903001,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-10-30T17:05:10Z",
+                        "open_issues": 50,
                         "owner": "apple",
                         "repo": "ml-cvnets",
-                        "stars": 1984
+                        "stars": 1984,
+                        "topics": [
+                          "ade20k",
+                          "classification",
+                          "computer-vision",
+                          "deep-learning",
+                          "detection",
+                          "imagenet",
+                          "machine-learning",
+                          "mscoco",
+                          "pascal-voc",
+                          "pytorch",
+                          "segmentation"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -888,12 +1333,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "[ICLR 2020] Lite Transformer with Long-Short Range Attention",
+                        "homepage": "https://arxiv.org/abs/2004.11886",
                         "id": 258533881,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-07-11T20:50:46Z",
+                        "open_issues": 0,
                         "owner": "mit-han-lab",
                         "repo": "lite-transformer",
-                        "stars": 609
+                        "stars": 609,
+                        "topics": [
+                          "nlp",
+                          "pytorch",
+                          "transformer"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -904,12 +1358,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for our CVPR2021 paper coordinate attention",
+                        "homepage": null,
                         "id": 343990941,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-06-08T02:46:46Z",
+                        "open_issues": 41,
                         "owner": "houqb",
                         "repo": "CoordAttention",
-                        "stars": 1152
+                        "stars": 1152,
+                        "topics": [
+                          "attention",
+                          "mobilenetv2",
+                          "mobilenext"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -920,12 +1383,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks",
+                        "homepage": null,
                         "id": 208555616,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-05-16T07:00:27Z",
+                        "open_issues": 31,
                         "owner": "BangguWu",
                         "repo": "ECANet",
-                        "stars": 1416
+                        "stars": 1416,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -936,12 +1404,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for our ICASSP 2021 paper: SA-Net: Shuffle Attention for Deep Convolutional Neural Networks",
+                        "homepage": null,
                         "id": 334421312,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2021-05-29T08:03:04Z",
+                        "open_issues": 17,
                         "owner": "wofmanaf",
                         "repo": "SA-Net",
-                        "stars": 263
+                        "stars": 263,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -952,12 +1425,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The official implementation of Triplet Attention.",
+                        "homepage": null,
                         "id": 374306104,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2021-11-10T01:48:46Z",
+                        "open_issues": 1,
                         "owner": "zhouhaoyi",
                         "repo": "TripletAttention",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     },
@@ -968,12 +1446,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ResNeSt: Split-Attention Networks",
+                        "homepage": "https://arxiv.org/abs/2004.08955",
                         "id": 247528876,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2022-12-09T10:57:09Z",
+                        "open_issues": 61,
                         "owner": "zhanghang1989",
                         "repo": "ResNeSt",
-                        "stars": 3261
+                        "stars": 3261,
+                        "topics": [
+                          "deep-learning",
+                          "detectron-models",
+                          "pytorch",
+                          "resnest",
+                          "resnet",
+                          "split-attention-networks"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
                     }
@@ -996,12 +1486,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "aw_nas: A Modularized and Extensible NAS Framework",
+                    "homepage": null,
                     "id": 185360477,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-11-25T05:02:47Z",
+                    "open_issues": 14,
                     "owner": "walkerning",
                     "repo": "aw_nas",
-                    "stars": 254
+                    "stars": 254,
+                    "topics": [
+                      "auto-ml",
+                      "deep-neural-networks",
+                      "neural-architecture-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1012,12 +1511,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 353459024,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-01-19T04:55:26Z",
+                    "open_issues": 1,
                     "owner": "EMCLab-Sinica",
                     "repo": "Intermittent-aware-NAS",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1028,12 +1532,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 341002315,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-08-23T18:46:04Z",
+                    "open_issues": 3,
                     "owner": "Alibaba-MIIL",
                     "repo": "HardCoReNAS",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 }
@@ -1058,12 +1567,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch implementation of our paper accepted by CVPR 2020 (Oral) -- HRank: Filter Pruning using High-Rank Feature Map",
+                    "homepage": "https://128.84.21.199/abs/2002.10179",
                     "id": 222231732,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-02-11T16:48:26Z",
+                    "open_issues": 24,
                     "owner": "lmbxmu",
                     "repo": "HRank",
-                    "stars": 257
+                    "stars": 257,
+                    "topics": [
+                      "acceleration",
+                      "compression",
+                      "pruning"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1074,12 +1592,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PENNI: Pruned Kernel Sharing for Efficient CNN Inference",
+                    "homepage": null,
                     "id": 274705857,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-25T10:59:43Z",
+                    "open_issues": 6,
                     "owner": "timlee0212",
                     "repo": "PENNI",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1090,12 +1613,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2022] A Fast Post-Training Pruning Framework for Transformers",
+                    "homepage": "https://arxiv.org/abs/2204.09656",
                     "id": 423047996,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-02-28T00:11:31Z",
+                    "open_issues": 9,
                     "owner": "WoosukKwon",
                     "repo": "retraining-free-pruning",
-                    "stars": 197
+                    "stars": 197,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1106,12 +1634,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2021] Exploring Sparsity in Image Super-Resolution for Efficient Inference",
+                    "homepage": null,
                     "id": 282676993,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-10-18T07:36:56Z",
+                    "open_issues": 21,
                     "owner": "SYSU-SAIL",
                     "repo": "SMSR",
-                    "stars": 238
+                    "stars": 238,
+                    "topics": [
+                      "efficient-inference",
+                      "sparsity",
+                      "super-resolution"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1122,12 +1659,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DropNet: Reducing Neural Network Complexity via Iterative Pruning (ICML 2020)",
+                    "homepage": null,
                     "id": 269037839,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2020-08-24T01:37:35Z",
+                    "open_issues": 0,
                     "owner": "tanchongmin",
                     "repo": "DropNet",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1138,12 +1680,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HW/SW co-design of sentence-level energy optimizations for latency-aware multi-task NLP inference",
+                    "homepage": null,
                     "id": 389476599,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-03-24T21:05:42Z",
+                    "open_issues": 3,
                     "owner": "harvard-acc",
                     "repo": "EdgeBERT",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 }
@@ -1166,12 +1713,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2018] \"Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions\"",
+                "homepage": null,
                 "id": 136533571,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-12-31T06:23:48Z",
+                "open_issues": 0,
                 "owner": "VITA-Group",
                 "repo": "Deep-K-Means-pytorch",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "compression",
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "neural-network-compression",
+                  "paper",
+                  "pytorch",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1182,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial on 'Soft weight-sharing for Neural Network compression' published at ICLR2017",
+                "homepage": null,
                 "id": 81807309,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-02-15T13:46:03Z",
+                "open_issues": 3,
                 "owner": "KarenUllrich",
                 "repo": "Tutorial-SoftWeightSharingForNNCompression",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1198,12 +1763,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML 2022] ShiftAddNAS: Hardware-Inspired Search for More Accurate and Efficient Neural Networks",
+                "homepage": null,
                 "id": 493111968,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-18T01:03:47Z",
+                "open_issues": 2,
                 "owner": "GATECH-EIC",
                 "repo": "ShiftAddNAS",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "deep-learning",
+                  "neural-architecture-search",
+                  "shiftaddnet"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1214,12 +1788,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Speech Processing Tookit for Automatic Speaker Recognition",
+                "homepage": null,
                 "id": 431097965,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-08T03:25:08Z",
+                "open_issues": 2,
                 "owner": "mechanicalsea",
                 "repo": "sugar",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "efficienttdnn",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "speaker-recognition",
+                  "speaker-verification",
+                  "time-delay-neural-network"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1230,12 +1816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Generic Network Compression Framework for Sequential Recommender Systems  ",
+                "homepage": null,
                 "id": 260444258,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-05T12:00:32Z",
+                "open_issues": 1,
                 "owner": "siat-nlp",
                 "repo": "CpRec",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -1253,12 +1844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2020] \"FracTrain: Fractionally Squeezing Bit Savings Both Temporally and Spatially for Efficient DNN Training\" by Yonggan Fu, Haoran You, Yang Zhao, Yue Wang, Chaojian Li, Kailash Gopalakrishnan, Zhangyang Wang, Yingyan Lin",
+                "homepage": null,
                 "id": 305256787,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-02-13T21:49:31Z",
+                "open_issues": 1,
                 "owner": "GATECH-EIC",
                 "repo": "FracTrain",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "efficient-training",
+                  "low-precision-training",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1269,12 +1869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create tiny ML systems for on-device learning.",
+                "homepage": null,
                 "id": 345609017,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-14T17:22:47Z",
+                "open_issues": 0,
                 "owner": "kimihe",
                 "repo": "Octo",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -1292,12 +1897,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+                "homepage": null,
                 "id": 225393289,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-22T01:11:22Z",
+                "open_issues": 109,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3166
+                "stars": 3166,
+                "topics": [
+                  "knowledge-distillation",
+                  "large-scale-distributed",
+                  "model-compression",
+                  "pretrained-models",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1308,12 +1924,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pytorch implement of scalable neural netowrks.",
+                "homepage": null,
                 "id": 210252423,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-06-09T11:45:46Z",
+                "open_issues": 2,
                 "owner": "ArchipLab-LinfengZhang",
                 "repo": "pytorch-scalable-neural-networks",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1324,12 +1947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for SIGIR'22 Paper 'On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation'",
+                "homepage": null,
                 "id": 484782047,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-22T22:23:44Z",
+                "open_issues": 0,
                 "owner": "xiaxin1998",
                 "repo": "OD-Rec",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1340,12 +1968,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of the paper: CDFKD-MFS: Collaborative Data-free Knowledge Distillation via Multi-level Feature Sharing.",
+                "homepage": null,
                 "id": 456931477,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-09T03:14:34Z",
+                "open_issues": 0,
                 "owner": "Hao840",
                 "repo": "CDFKD-MFS",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             },
@@ -1356,12 +1989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation. NeurIPS 2022.",
+                "homepage": null,
                 "id": 542994558,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-18T04:27:42Z",
+                "open_issues": 1,
                 "owner": "Hao840",
                 "repo": "manifold-distillation",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
             }
@@ -1381,12 +2019,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open Machine Learning Compiler Framework",
+                    "homepage": "https://tvm.apache.org/",
                     "id": 70746484,
                     "language": "Python",
-                    "last_commit": "2026-08-28T05:57:55Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T01:42:32Z",
+                    "open_issues": 247,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13695
+                    "stars": 13698,
+                    "topics": [
+                      "compiler",
+                      "deep-learning",
+                      "gpu",
+                      "javascript",
+                      "machine-learning",
+                      "metal",
+                      "opencl",
+                      "performance",
+                      "rocm",
+                      "spirv",
+                      "tensor",
+                      "tvm",
+                      "vulkan"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 },
@@ -1397,12 +2054,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code to accompany \"Weightless Neural Networks for Efficient Edge Inference\", PACT 2022",
+                    "homepage": null,
                     "id": 521079566,
                     "language": "SystemVerilog",
+                    "license": "MIT",
                     "last_commit": "2022-11-15T17:48:47Z",
+                    "open_issues": 0,
                     "owner": "ZSusskind",
                     "repo": "BTHOWeN",
-                    "stars": 22
+                    "stars": 22,
+                    "topics": [
+                      "weightless-neural-network"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
                 }
@@ -1421,15 +2085,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:04:37.797Z",
+    "last_updated": "2026-08-29T03:40:49.777Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
+      "homepage": null,
       "id": 590725817,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-10T07:49:30Z",
+      "open_issues": 1,
       "owner": "wangxb96",
       "repo": "Awesome-EdgeAI",
-      "stars": 116
+      "stars": 116,
+      "topics": [
+        "awesome-list",
+        "data-preprocessing",
+        "deep-learning",
+        "edge-ai",
+        "edge-computing",
+        "efficient-algorithm",
+        "machine-learning",
+        "model-acceleration",
+        "model-compression",
+        "model-deployment",
+        "model-design",
+        "model-inference",
+        "tiny-ml"
+      ]
     },
     "original_repository_sha": "421db6c42ea70193629d6907bae2edf7a4faffa7",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
