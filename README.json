@@ -187,7 +187,7 @@
                 "open_issues": 8,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 420,
+                "stars": 421,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 113,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13769,
+                "stars": 13768,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 10999,
+                "stars": 11001,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -362,10 +362,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T09:50:07Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26253,
+                "stars": 26256,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25005,
+                "stars": 25006,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -927,7 +927,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8222,
+                        "stars": 8221,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1367,7 +1367,7 @@
                         "open_issues": 41,
                         "owner": "houqb",
                         "repo": "CoordAttention",
-                        "stars": 1152,
+                        "stars": 1151,
                         "topics": [
                           "attention",
                           "mobilenetv2",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-29T04:23:27Z",
-                    "open_issues": 244,
+                    "last_commit": "2026-08-29T21:20:34Z",
+                    "open_issues": 243,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13698,
+                    "stars": 13701,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:56:30.897Z",
+    "last_updated": "2026-08-30T00:11:58.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
