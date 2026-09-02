@@ -162,8 +162,8 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T18:02:28Z",
-                "open_issues": 69,
+                "last_commit": "2026-09-01T21:09:01Z",
+                "open_issues": 70,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3066,
@@ -187,7 +187,7 @@
                 "open_issues": 8,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 424,
+                "stars": 425,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11001,
+                "stars": 11003,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -362,10 +362,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-31T02:59:36Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26268,
+                "stars": 26273,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25009,
+                "stars": 25010,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 95,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1755,
+                "stars": 1757,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 319,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5278,
+                        "stars": 5279,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4418,
+                        "stars": 4419,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4776,
+                        "stars": 4777,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -2024,8 +2024,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T23:06:39Z",
-                    "open_issues": 242,
+                    "last_commit": "2026-09-01T19:41:58Z",
+                    "open_issues": 239,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13710,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:14:06.019Z",
+    "last_updated": "2026-09-02T00:02:38.815Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
