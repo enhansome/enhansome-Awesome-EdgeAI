@@ -127,7 +127,7 @@
                 "open_issues": 37,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 955,
+                "stars": 956,
                 "topics": [
                   "c",
                   "codegenerator",
@@ -163,7 +163,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T14:05:08Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3067,
@@ -264,10 +264,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-12-17T03:55:52Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13772,
+                "stars": 13775,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +365,7 @@
                 "open_issues": 58,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26282,
+                "stars": 26290,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25014,
+                "stars": 25012,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1759,
+                "stars": 1760,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 319,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5279,
+                        "stars": 5277,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1207,7 +1207,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055,
+                        "stars": 2053,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1228,7 +1228,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055,
+                        "stars": 2053,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1249,7 +1249,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2055,
+                        "stars": 2053,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4777,
+                        "stars": 4776,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1367,7 +1367,7 @@
                         "open_issues": 41,
                         "owner": "houqb",
                         "repo": "CoordAttention",
-                        "stars": 1153,
+                        "stars": 1152,
                         "topics": [
                           "attention",
                           "mobilenetv2",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T12:49:48Z",
-                    "open_issues": 237,
+                    "last_commit": "2026-09-03T19:58:32Z",
+                    "open_issues": 235,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13711,
+                    "stars": 13712,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T00:06:53.812Z",
+    "last_updated": "2026-09-03T23:59:41.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
