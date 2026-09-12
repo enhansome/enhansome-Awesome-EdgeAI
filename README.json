@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -48,7 +48,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -75,7 +75,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -102,7 +102,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -162,8 +162,8 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T18:26:22Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-11T21:02:51Z",
+                "open_issues": 78,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3078,
@@ -183,11 +183,11 @@
                 "id": 498779556,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T09:51:24Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-11T13:30:29Z",
+                "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 430,
+                "stars": 431,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 524,
+                "stars": 525,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13787,
+                "stars": 13788,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11011,
+                "stars": 11012,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26344,
+                "stars": 26358,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1769,
+                "stars": 1771,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 320,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5276,
+                        "stars": 5277,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1085,7 +1085,7 @@
                         "open_issues": 2,
                         "owner": "sacmehta",
                         "repo": "ESPNetv2",
-                        "stars": 455,
+                        "stars": 456,
                         "topics": [
                           "cnn",
                           "convolutional-neural-networks",
@@ -1301,15 +1301,15 @@
                       "repo_info": {
                         "archived": false,
                         "description": "CVNets: A library for training computer vision networks",
-                        "homepage": "https://apple.github.io/ml-cvnets",
+                        "homepage": "https://apple-aiml-research.github.io/ml-cvnets/",
                         "id": 419903001,
                         "language": "Python",
                         "license": "NOASSERTION",
-                        "last_commit": "2023-10-30T17:05:10Z",
+                        "last_commit": "2026-09-11T15:55:55Z",
                         "open_issues": 50,
-                        "owner": "apple",
+                        "owner": "apple-aiml-research",
                         "repo": "ml-cvnets",
-                        "stars": 1985,
+                        "stars": 1987,
                         "topics": [
                           "ade20k",
                           "classification",
@@ -1451,7 +1451,7 @@
                         "id": 247528876,
                         "language": "Python",
                         "license": "Apache-2.0",
-                        "last_commit": "2022-12-09T10:57:09Z",
+                        "last_commit": "2026-09-11T07:46:46Z",
                         "open_issues": 62,
                         "owner": "zhanghang1989",
                         "repo": "ResNeSt",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T21:19:44Z",
-                    "open_issues": 228,
+                    "last_commit": "2026-09-11T19:23:50Z",
+                    "open_issues": 234,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13729,
+                    "stars": 13735,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T00:03:11.577Z",
+    "last_updated": "2026-09-12T00:11:34.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
