@@ -102,7 +102,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T21:02:51Z",
-                "open_issues": 78,
+                "last_commit": "2026-09-12T14:04:20Z",
+                "open_issues": 77,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3078,
+                "stars": 3080,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 431,
+                "stars": 432,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13788,
+                "stars": 13789,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11012,
+                "stars": 11013,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26358,
+                "stars": 26362,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25018,
+                "stars": 25019,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -672,7 +672,7 @@
                         "open_issues": 47,
                         "owner": "Zehaos",
                         "repo": "MobileNet",
-                        "stars": 1659,
+                        "stars": 1658,
                         "topics": [
                           "detection",
                           "mobilenets",
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474,
+                        "stars": 6475,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474,
+                        "stars": 6475,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4776,
+                        "stars": 4777,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1689,7 +1689,7 @@
                     "open_issues": 3,
                     "owner": "harvard-acc",
                     "repo": "EdgeBERT",
-                    "stars": 54,
+                    "stars": 55,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-11T19:23:50Z",
-                    "open_issues": 234,
+                    "last_commit": "2026-09-12T18:17:05Z",
+                    "open_issues": 236,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13735,
+                    "stars": 13741,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T00:11:34.493Z",
+    "last_updated": "2026-09-12T23:57:57.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
