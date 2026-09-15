@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -48,7 +48,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -75,7 +75,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 715,
+                "stars": 716,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -102,7 +102,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T10:21:17Z",
-                "open_issues": 76,
+                "last_commit": "2026-09-14T21:34:55Z",
+                "open_issues": 74,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3080,
+                "stars": 3085,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 432,
+                "stars": 433,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13791,
+                "stars": 13794,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26367,
+                "stars": 26377,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -409,10 +409,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-12T09:52:38Z",
-                "open_issues": 1140,
+                "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25019,
+                "stars": 25021,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1771,
+                "stars": 1773,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 320,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5277,
+                        "stars": 5278,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1207,7 +1207,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2053,
+                        "stars": 2054,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1228,7 +1228,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2053,
+                        "stars": 2054,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1249,7 +1249,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2053,
+                        "stars": 2054,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4777,
+                        "stars": 4778,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-13T15:31:02Z",
-                    "open_issues": 239,
+                    "last_commit": "2026-09-14T19:16:09Z",
+                    "open_issues": 235,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13742,
+                    "stars": 13746,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T00:06:30.093Z",
+    "last_updated": "2026-09-15T00:31:16.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
