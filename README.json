@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T21:34:55Z",
-                "open_issues": 74,
+                "last_commit": "2026-09-15T20:57:11Z",
+                "open_issues": 68,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3085,
+                "stars": 3087,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 433,
+                "stars": 434,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13794,
+                "stars": 13796,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11013,
+                "stars": 11014,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26377,
+                "stars": 26389,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25021,
+                "stars": 25024,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1085,7 +1085,7 @@
                         "open_issues": 2,
                         "owner": "sacmehta",
                         "repo": "ESPNetv2",
-                        "stars": 456,
+                        "stars": 457,
                         "topics": [
                           "cnn",
                           "convolutional-neural-networks",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4778,
+                        "stars": 4779,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1309,7 +1309,7 @@
                         "open_issues": 50,
                         "owner": "apple-aiml-research",
                         "repo": "ml-cvnets",
-                        "stars": 1988,
+                        "stars": 1990,
                         "topics": [
                           "ade20k",
                           "classification",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-14T19:16:09Z",
-                    "open_issues": 235,
+                    "last_commit": "2026-09-16T00:07:35Z",
+                    "open_issues": 243,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13746,
+                    "stars": 13752,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T00:31:16.655Z",
+    "last_updated": "2026-09-16T00:12:27.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
