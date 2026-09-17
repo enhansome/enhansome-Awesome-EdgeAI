@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T20:57:11Z",
-                "open_issues": 68,
+                "last_commit": "2026-09-16T21:48:22Z",
+                "open_issues": 70,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3087,
+                "stars": 3088,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11014,
+                "stars": 11016,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -320,7 +320,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 997,
+                "stars": 998,
                 "topics": [
                   "commonsense-reasoning",
                   "deep-learning",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26389,
+                "stars": 26395,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25024,
+                "stars": 25023,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -699,7 +699,7 @@
                         "open_issues": 7,
                         "owner": "d-li14",
                         "repo": "mobilenetv2.pytorch",
-                        "stars": 735,
+                        "stars": 734,
                         "topics": [
                           "cvpr2018",
                           "deep-neural-networks",
@@ -927,7 +927,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8218,
+                        "stars": 8217,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -1059,7 +1059,7 @@
                         "open_issues": 9,
                         "owner": "sacmehta",
                         "repo": "ESPNet",
-                        "stars": 542,
+                        "stars": 543,
                         "topics": [
                           "convolutional-neural-networks",
                           "edge-devices",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T00:07:35Z",
-                    "open_issues": 243,
+                    "last_commit": "2026-09-16T23:05:13Z",
+                    "open_issues": 244,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13752,
+                    "stars": 13755,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T00:12:27.645Z",
+    "last_updated": "2026-09-17T00:22:50.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
