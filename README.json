@@ -162,7 +162,7 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T22:32:53Z",
+                "last_commit": "2026-09-19T14:04:10Z",
                 "open_issues": 77,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13800,
+                "stars": 13801,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -320,7 +320,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "commonsense-reasoning",
                   "deep-learning",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26408,
+                "stars": 26412,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25028,
+                "stars": 25029,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1779,
+                "stars": 1782,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1864,
+                        "stars": 1865,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -790,7 +790,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1511,
+                        "stars": 1510,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -811,7 +811,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1511,
+                        "stars": 1510,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -832,7 +832,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1511,
+                        "stars": 1510,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4421,
+                        "stars": 4420,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -1392,7 +1392,7 @@
                         "open_issues": 31,
                         "owner": "BangguWu",
                         "repo": "ECANet",
-                        "stars": 1418,
+                        "stars": 1417,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1455,7 +1455,7 @@
                         "open_issues": 62,
                         "owner": "zhanghang1989",
                         "repo": "ResNeSt",
-                        "stars": 3259,
+                        "stars": 3258,
                         "topics": [
                           "deep-learning",
                           "detectron-models",
@@ -1495,7 +1495,7 @@
                     "open_issues": 14,
                     "owner": "walkerning",
                     "repo": "aw_nas",
-                    "stars": 253,
+                    "stars": 252,
                     "topics": [
                       "auto-ml",
                       "deep-neural-networks",
@@ -1643,7 +1643,7 @@
                     "open_issues": 21,
                     "owner": "SYSU-SAIL",
                     "repo": "SMSR",
-                    "stars": 238,
+                    "stars": 239,
                     "topics": [
                       "efficient-inference",
                       "sparsity",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-18T21:25:06Z",
-                    "open_issues": 246,
+                    "last_commit": "2026-09-19T19:14:42Z",
+                    "open_issues": 250,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13760,
+                    "stars": 13767,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:12:54.870Z",
+    "last_updated": "2026-09-20T00:05:42.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
