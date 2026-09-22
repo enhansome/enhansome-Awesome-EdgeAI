@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T14:04:10Z",
+                "last_commit": "2026-09-21T21:09:57Z",
                 "open_issues": 77,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3091,
+                "stars": 3094,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 7,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 436,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13805,
+                "stars": 13809,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 206,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11018,
+                "stars": 11019,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26427,
+                "stars": 26435,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1782,
+                "stars": 1784,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -672,7 +672,7 @@
                         "open_issues": 47,
                         "owner": "Zehaos",
                         "repo": "MobileNet",
-                        "stars": 1658,
+                        "stars": 1657,
                         "topics": [
                           "detection",
                           "mobilenets",
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1865,
+                        "stars": 1864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4420,
+                        "stars": 4419,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -927,7 +927,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8218,
+                        "stars": 8217,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4779,
+                        "stars": 4777,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1309,7 +1309,7 @@
                         "open_issues": 50,
                         "owner": "apple-aiml-research",
                         "repo": "ml-cvnets",
-                        "stars": 1990,
+                        "stars": 1989,
                         "topics": [
                           "ade20k",
                           "classification",
@@ -1906,7 +1906,7 @@
                 "open_issues": 109,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3167,
+                "stars": 3168,
                 "topics": [
                   "knowledge-distillation",
                   "large-scale-distributed",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-20T13:42:52Z",
+                    "last_commit": "2026-09-21T23:30:26Z",
                     "open_issues": 251,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13772,
+                    "stars": 13776,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2063,7 +2063,7 @@
                     "open_issues": 0,
                     "owner": "ZSusskind",
                     "repo": "BTHOWeN",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": [
                       "weightless-neural-network"
                     ]
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:10:19.904Z",
+    "last_updated": "2026-09-22T00:45:09.451Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
