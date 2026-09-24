@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T20:43:38Z",
-                "open_issues": 80,
+                "last_commit": "2026-09-23T23:37:24Z",
+                "open_issues": 72,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3094,
+                "stars": 3095,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13810,
+                "stars": 13812,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -296,7 +296,7 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2024-06-10T19:20:16Z",
-                "open_issues": 206,
+                "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
                 "stars": 11021,
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26446,
+                "stars": 26452,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25035,
+                "stars": 25037,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1787,
+                "stars": 1788,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4419,
+                        "stars": 4420,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4777,
+                        "stars": 4778,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1392,7 +1392,7 @@
                         "open_issues": 31,
                         "owner": "BangguWu",
                         "repo": "ECANet",
-                        "stars": 1417,
+                        "stars": 1418,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-22T23:36:22Z",
-                    "open_issues": 254,
+                    "last_commit": "2026-09-23T23:06:08Z",
+                    "open_issues": 258,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13776,
+                    "stars": 13777,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T00:22:36.760Z",
+    "last_updated": "2026-09-24T00:25:56.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
