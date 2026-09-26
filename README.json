@@ -162,7 +162,7 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:34:20Z",
+                "last_commit": "2026-09-25T22:45:49Z",
                 "open_issues": 73,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13812,
+                "stars": 13814,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -320,7 +320,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "commonsense-reasoning",
                   "deep-learning",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26457,
+                "stars": 26460,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -391,7 +391,7 @@
                 "open_issues": 34,
                 "owner": "Meituan-AutoML",
                 "repo": "MobileVLM",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1788,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1392,7 +1392,7 @@
                         "open_issues": 31,
                         "owner": "BangguWu",
                         "repo": "ECANet",
-                        "stars": 1418,
+                        "stars": 1419,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1455,7 +1455,7 @@
                         "open_issues": 62,
                         "owner": "zhanghang1989",
                         "repo": "ResNeSt",
-                        "stars": 3258,
+                        "stars": 3259,
                         "topics": [
                           "deep-learning",
                           "detectron-models",
@@ -2024,8 +2024,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-25T00:06:58Z",
-                    "open_issues": 272,
+                    "last_commit": "2026-09-26T00:28:33Z",
+                    "open_issues": 268,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13778,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:29:49.623Z",
+    "last_updated": "2026-09-26T00:34:27.077Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
