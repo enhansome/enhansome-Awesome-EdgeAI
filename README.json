@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-26T14:04:08Z",
+                "last_commit": "2026-09-28T21:40:38Z",
                 "open_issues": 73,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3097,
+                "stars": 3095,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13818,
+                "stars": 13817,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11023,
+                "stars": 11025,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -362,10 +362,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-08T06:05:56Z",
-                "open_issues": 59,
+                "open_issues": 62,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26463,
+                "stars": 26472,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -391,7 +391,7 @@
                 "open_issues": 34,
                 "owner": "Meituan-AutoML",
                 "repo": "MobileVLM",
-                "stars": 1371,
+                "stars": 1370,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -409,10 +409,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-12T09:52:38Z",
-                "open_issues": 1141,
+                "open_issues": 1142,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25043,
+                "stars": 25044,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1790,
+                "stars": 1789,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-27T22:21:10Z",
-                    "open_issues": 273,
+                    "last_commit": "2026-09-29T00:12:10Z",
+                    "open_issues": 272,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13779,
+                    "stars": 13782,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T00:35:41.475Z",
+    "last_updated": "2026-09-29T01:50:09.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
