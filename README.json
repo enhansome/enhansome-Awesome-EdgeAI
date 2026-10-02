@@ -162,8 +162,8 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T21:07:22Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-01T23:02:56Z",
+                "open_issues": 70,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3097,
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13823,
+                "stars": 13824,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26483,
+                "stars": 26486,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -391,7 +391,7 @@
                 "open_issues": 34,
                 "owner": "Meituan-AutoML",
                 "repo": "MobileVLM",
-                "stars": 1370,
+                "stars": 1371,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -409,10 +409,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2024-08-12T09:52:38Z",
-                "open_issues": 1142,
+                "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25050,
+                "stars": 25054,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1864,
+                        "stars": 1865,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 94,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4421,
+                        "stars": 4422,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -927,7 +927,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8218,
+                        "stars": 8219,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -1309,7 +1309,7 @@
                         "open_issues": 50,
                         "owner": "apple-aiml-research",
                         "repo": "ml-cvnets",
-                        "stars": 1991,
+                        "stars": 1993,
                         "topics": [
                           "ade20k",
                           "classification",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-30T22:36:58Z",
-                    "open_issues": 289,
+                    "last_commit": "2026-10-02T00:47:46Z",
+                    "open_issues": 294,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13792,
+                    "stars": 13793,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:14:09.570Z",
+    "last_updated": "2026-10-02T01:36:57.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
