@@ -114,7 +114,7 @@
             {
               "node_type": "item",
               "title": "TinyEngine: Efficient Training and Inference on Microcontrollers",
-              "description": "(2023) MIT HAN Lab Code",
+              "description": "MIT HAN Lab Code",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -163,7 +163,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T23:01:04Z",
-                "open_issues": 68,
+                "open_issues": 70,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3099,
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474,
+                        "stars": 6473,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6474,
+                        "stars": 6473,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -2024,8 +2024,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T00:11:01Z",
-                    "open_issues": 288,
+                    "last_commit": "2026-10-03T03:47:26Z",
+                    "open_issues": 290,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13794,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:06:11.185Z",
+    "last_updated": "2026-10-03T04:26:33.698Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
