@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:02:56Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-02T23:01:04Z",
+                "open_issues": 68,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3097,
+                "stars": 3099,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 6,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 438,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13824,
+                "stars": 13826,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 208,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11028,
+                "stars": 11030,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26486,
+                "stars": 26490,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25054,
+                "stars": 25056,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1791,
+                "stars": 1792,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 320,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5278,
+                        "stars": 5279,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -790,7 +790,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1510,
+                        "stars": 1511,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -811,7 +811,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1510,
+                        "stars": 1511,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -832,7 +832,7 @@
                         "open_issues": 8,
                         "owner": "megvii-model",
                         "repo": "ShuffleNet-Series",
-                        "stars": 1510,
+                        "stars": 1511,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1116,7 +1116,7 @@
                         "open_issues": 29,
                         "owner": "facebookresearch",
                         "repo": "mobile-vision",
-                        "stars": 921,
+                        "stars": 922,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1137,7 +1137,7 @@
                         "open_issues": 29,
                         "owner": "facebookresearch",
                         "repo": "mobile-vision",
-                        "stars": 921,
+                        "stars": 922,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T00:47:46Z",
-                    "open_issues": 294,
+                    "last_commit": "2026-10-03T00:11:01Z",
+                    "open_issues": 288,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13793,
+                    "stars": 13794,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:36:57.628Z",
+    "last_updated": "2026-10-03T01:06:11.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
