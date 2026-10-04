@@ -163,10 +163,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T23:01:04Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3099,
+                "stars": 3098,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13826,
+                "stars": 13828,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26490,
+                "stars": 26494,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25056,
+                "stars": 25057,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1792,
+                "stars": 1793,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -490,7 +490,7 @@
                     "open_issues": 89,
                     "owner": "microsoft",
                     "repo": "InnerEye-DeepLearning",
-                    "stars": 581,
+                    "stars": 582,
                     "topics": [
                       "azure",
                       "deep-learning",
@@ -537,7 +537,7 @@
                     "open_issues": 33,
                     "owner": "microsoft",
                     "repo": "ELL",
-                    "stars": 2302,
+                    "stars": 2303,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1865,
+                        "stars": 1864,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -769,7 +769,7 @@
                         "open_issues": 320,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5279,
+                        "stars": 5280,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6473,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6473,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -2024,8 +2024,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-03T03:47:26Z",
-                    "open_issues": 290,
+                    "last_commit": "2026-10-03T23:59:22Z",
+                    "open_issues": 301,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13794,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:33.698Z",
+    "last_updated": "2026-10-04T00:31:49.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
