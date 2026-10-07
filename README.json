@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T23:01:04Z",
-                "open_issues": 74,
+                "last_commit": "2026-10-06T21:49:28Z",
+                "open_issues": 70,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3100,
+                "stars": 3101,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 6,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 441,
+                "stars": 442,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13832,
+                "stars": 13833,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11032,
+                "stars": 11033,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25057,
+                "stars": 25059,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1795,
+                "stars": 1796,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1389,7 +1389,7 @@
                         "language": "Python",
                         "license": "MIT",
                         "last_commit": "2021-05-16T07:00:27Z",
-                        "open_issues": 31,
+                        "open_issues": 30,
                         "owner": "BangguWu",
                         "repo": "ECANet",
                         "stars": 1418,
@@ -1622,7 +1622,7 @@
                     "open_issues": 9,
                     "owner": "WoosukKwon",
                     "repo": "retraining-free-pruning",
-                    "stars": 197,
+                    "stars": 196,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-06T01:46:24Z",
-                    "open_issues": 319,
+                    "last_commit": "2026-10-07T00:58:41Z",
+                    "open_issues": 314,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13803,
+                    "stars": 13804,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:31:35.137Z",
+    "last_updated": "2026-10-07T01:27:30.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
