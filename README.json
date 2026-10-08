@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T21:49:28Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-07T15:28:26Z",
+                "open_issues": 72,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3101,
+                "stars": 3103,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13833,
+                "stars": 13835,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11033,
+                "stars": 11035,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26500,
+                "stars": 26503,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25059,
+                "stars": 25060,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4779,
+                        "stars": 4778,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T00:58:41Z",
-                    "open_issues": 314,
+                    "last_commit": "2026-10-08T00:36:27Z",
+                    "open_issues": 323,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13804,
+                    "stars": 13806,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:27:30.782Z",
+    "last_updated": "2026-10-08T01:50:31.249Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
