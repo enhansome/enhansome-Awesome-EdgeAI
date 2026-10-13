@@ -102,7 +102,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -127,7 +127,7 @@
                 "open_issues": 37,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "c",
                   "codegenerator",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T21:00:42Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-12T20:34:15Z",
+                "open_issues": 67,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3112,
+                "stars": 3113,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -221,7 +221,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 527,
+                "stars": 528,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13847,
+                "stars": 13851,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -356,16 +356,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Pocket-Sized MLLM for Ultra-Efficient Image and Video Understanding on Your Phone",
+                "description": "See, hear, and interact on your local devices.",
                 "homepage": null,
                 "id": 749647889,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T06:05:56Z",
+                "last_commit": "2026-10-13T02:37:34Z",
                 "open_issues": 59,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26533,
+                "stars": 26571,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25060,
+                "stars": 25062,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +454,7 @@
                 "open_issues": 96,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1798,
+                "stars": 1805,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1865,
+                        "stars": 1866,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1270,7 +1270,7 @@
                         "open_issues": 59,
                         "owner": "weiaicunzai",
                         "repo": "pytorch-cifar100",
-                        "stars": 4778,
+                        "stars": 4779,
                         "topics": [
                           "cifar100",
                           "deep-learning",
@@ -1689,7 +1689,7 @@
                     "open_issues": 3,
                     "owner": "harvard-acc",
                     "repo": "EdgeBERT",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-12T00:18:19Z",
-                    "open_issues": 336,
+                    "last_commit": "2026-10-13T02:44:13Z",
+                    "open_issues": 338,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13822,
+                    "stars": 13825,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T01:14:16.859Z",
+    "last_updated": "2026-10-13T02:59:44.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
