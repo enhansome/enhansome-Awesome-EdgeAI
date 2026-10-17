@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -48,7 +48,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -75,7 +75,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 719,
+                "stars": 720,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -127,7 +127,7 @@
                 "open_issues": 37,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 965,
+                "stars": 966,
                 "topics": [
                   "c",
                   "codegenerator",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T18:05:42Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-17T16:14:26Z",
+                "open_issues": 56,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3118,
+                "stars": 3121,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 11,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 442,
+                "stars": 444,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -362,10 +362,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T15:13:57Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26800,
+                "stars": 26831,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25069,
+                "stars": 25070,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -451,10 +451,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-07-31T00:26:15Z",
-                "open_issues": 96,
+                "open_issues": 97,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1806,
+                "stars": 1807,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -853,7 +853,7 @@
                         "open_issues": 7,
                         "owner": "forresti",
                         "repo": "SqueezeNet",
-                        "stars": 2220,
+                        "stars": 2221,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 95,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4423,
+                        "stars": 4424,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -1059,7 +1059,7 @@
                         "open_issues": 9,
                         "owner": "sacmehta",
                         "repo": "ESPNet",
-                        "stars": 543,
+                        "stars": 542,
                         "topics": [
                           "convolutional-neural-networks",
                           "edge-devices",
@@ -1085,7 +1085,7 @@
                         "open_issues": 2,
                         "owner": "sacmehta",
                         "repo": "ESPNetv2",
-                        "stars": 457,
+                        "stars": 456,
                         "topics": [
                           "cnn",
                           "convolutional-neural-networks",
@@ -1906,7 +1906,7 @@
                 "open_issues": 109,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3166,
+                "stars": 3167,
                 "topics": [
                   "knowledge-distillation",
                   "large-scale-distributed",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T23:46:36Z",
-                    "open_issues": 349,
+                    "last_commit": "2026-10-17T23:38:19Z",
+                    "open_issues": 355,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13839,
+                    "stars": 13843,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:21:58.475Z",
+    "last_updated": "2026-10-17T23:58:25.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
