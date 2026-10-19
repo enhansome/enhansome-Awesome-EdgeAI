@@ -127,7 +127,7 @@
                 "open_issues": 37,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 966,
+                "stars": 967,
                 "topics": [
                   "c",
                   "codegenerator",
@@ -166,7 +166,7 @@
                 "open_issues": 56,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3121,
+                "stars": 3124,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 11,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 444,
+                "stars": 445,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11046,
+                "stars": 11045,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 63,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26831,
+                "stars": 26848,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25070,
+                "stars": 25072,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -1367,7 +1367,7 @@
                         "open_issues": 41,
                         "owner": "houqb",
                         "repo": "CoordAttention",
-                        "stars": 1154,
+                        "stars": 1153,
                         "topics": [
                           "attention",
                           "mobilenetv2",
@@ -1906,7 +1906,7 @@
                 "open_issues": 109,
                 "owner": "huawei-noah",
                 "repo": "Pretrained-Language-Model",
-                "stars": 3167,
+                "stars": 3166,
                 "topics": [
                   "knowledge-distillation",
                   "large-scale-distributed",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-17T23:38:19Z",
-                    "open_issues": 355,
+                    "last_commit": "2026-10-18T18:37:26Z",
+                    "open_issues": 354,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13843,
+                    "stars": 13846,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:58:25.323Z",
+    "last_updated": "2026-10-19T00:08:56.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
