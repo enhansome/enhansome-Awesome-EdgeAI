@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T21:54:40Z",
-                "open_issues": 65,
+                "last_commit": "2026-10-23T18:44:27Z",
+                "open_issues": 59,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3127,
+                "stars": 3128,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 4,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 448,
+                "stars": 449,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13869,
+                "stars": 13873,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -320,7 +320,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 1003,
+                "stars": 1004,
                 "topics": [
                   "commonsense-reasoning",
                   "deep-learning",
@@ -365,7 +365,7 @@
                 "open_issues": 65,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 26949,
+                "stars": 26956,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1141,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25072,
+                "stars": 25073,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -672,7 +672,7 @@
                         "open_issues": 47,
                         "owner": "Zehaos",
                         "repo": "MobileNet",
-                        "stars": 1657,
+                        "stars": 1658,
                         "topics": [
                           "detection",
                           "mobilenets",
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6474,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -2025,10 +2025,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-21T15:36:53Z",
-                    "open_issues": 356,
+                    "open_issues": 357,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13857,
+                    "stars": 13862,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:35:16.617Z",
+    "last_updated": "2026-10-24T00:33:21.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
