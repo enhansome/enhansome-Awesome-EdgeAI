@@ -163,10 +163,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T17:36:41Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3139,
+                "stars": 3141,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -187,7 +187,7 @@
                 "open_issues": 12,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
-                "stars": 454,
+                "stars": 455,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13890,
+                "stars": 13893,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +365,7 @@
                 "open_issues": 67,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27043,
+                "stars": 27045,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -454,7 +454,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -699,7 +699,7 @@
                         "open_issues": 7,
                         "owner": "d-li14",
                         "repo": "mobilenetv2.pytorch",
-                        "stars": 734,
+                        "stars": 735,
                         "topics": [
                           "cvpr2018",
                           "deep-neural-networks",
@@ -2025,7 +2025,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-30T14:18:26Z",
-                    "open_issues": 406,
+                    "open_issues": 423,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13886,
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T01:01:14.563Z",
+    "last_updated": "2026-11-02T01:28:03.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
