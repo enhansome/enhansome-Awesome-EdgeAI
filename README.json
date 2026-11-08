@@ -166,7 +166,7 @@
                 "open_issues": 73,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3147,
+                "stars": 3148,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13908,
+                "stars": 13911,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11065,
+                "stars": 11066,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -365,7 +365,7 @@
                 "open_issues": 64,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27083,
+                "stars": 27085,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25078,
+                "stars": 25081,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -895,7 +895,7 @@
                         "open_issues": 95,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4427,
+                        "stars": 4429,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -2024,11 +2024,11 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-06T12:33:50Z",
-                    "open_issues": 464,
+                    "last_commit": "2026-11-07T18:01:25Z",
+                    "open_issues": 473,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13890,
+                    "stars": 13892,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T01:49:27.890Z",
+    "last_updated": "2026-11-08T01:19:41.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
