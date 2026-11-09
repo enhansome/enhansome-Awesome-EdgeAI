@@ -166,7 +166,7 @@
                 "open_issues": 73,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3148,
+                "stars": 3149,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13911,
+                "stars": 13913,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11066,
+                "stars": 11068,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -320,7 +320,7 @@
                 "open_issues": 21,
                 "owner": "NVlabs",
                 "repo": "DoRA",
-                "stars": 1007,
+                "stars": 1008,
                 "topics": [
                   "commonsense-reasoning",
                   "deep-learning",
@@ -365,7 +365,7 @@
                 "open_issues": 64,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27085,
+                "stars": 27098,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -727,7 +727,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1868,
+                        "stars": 1869,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -853,7 +853,7 @@
                         "open_issues": 7,
                         "owner": "forresti",
                         "repo": "SqueezeNet",
-                        "stars": 2223,
+                        "stars": 2224,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2025,7 +2025,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-07T18:01:25Z",
-                    "open_issues": 473,
+                    "open_issues": 475,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13892,
@@ -2085,16 +2085,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T01:19:41.345Z",
+    "last_updated": "2026-11-09T01:39:55.960Z",
     "original_repository_info": {
       "archived": false,
-      "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\"",
+      "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
       "homepage": null,
       "id": 590725817,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-11-05T01:18:57Z",
-      "open_issues": 2,
+      "last_commit": "2026-11-08T10:01:45Z",
+      "open_issues": 3,
       "owner": "wangxb96",
       "repo": "Awesome-EdgeAI",
       "stars": 119,
@@ -2114,7 +2114,7 @@
         "tiny-ml"
       ]
     },
-    "original_repository_sha": "fe4842c5052939fd3db92659911bd0eb3b81dda2",
+    "original_repository_sha": "f8c37ea0727dc855c2a386f758babecfee972947",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
     "title": "Awesome Edge AI with stars"
