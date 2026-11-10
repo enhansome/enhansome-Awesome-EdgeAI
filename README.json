@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 723,
+                "stars": 722,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -48,7 +48,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 723,
+                "stars": 722,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -75,7 +75,7 @@
                 "open_issues": 27,
                 "owner": "mit-han-lab",
                 "repo": "mcunet",
-                "stars": 723,
+                "stars": 722,
                 "topics": [
                   "deep-learning",
                   "microncontroller",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T18:54:16Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-09T23:32:08Z",
+                "open_issues": 81,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3149,
+                "stars": 3150,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -184,7 +184,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-05T09:30:41Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
                 "stars": 459,
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13913,
+                "stars": 13912,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11068,
+                "stars": 11067,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -361,11 +361,11 @@
                 "id": 749647889,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T08:59:45Z",
-                "open_issues": 64,
+                "last_commit": "2026-11-09T07:37:30Z",
+                "open_issues": 65,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27098,
+                "stars": 27116,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +412,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25081,
+                "stars": 25076,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -769,7 +769,7 @@
                         "open_issues": 319,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5281,
+                        "stars": 5282,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -853,7 +853,7 @@
                         "open_issues": 7,
                         "owner": "forresti",
                         "repo": "SqueezeNet",
-                        "stars": 2224,
+                        "stars": 2225,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6477,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6475,
+                        "stars": 6477,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1207,7 +1207,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2056,
+                        "stars": 2057,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1228,7 +1228,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2056,
+                        "stars": 2057,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -1249,7 +1249,7 @@
                         "open_issues": 36,
                         "owner": "shanglianlm0525",
                         "repo": "PyTorch-Networks",
-                        "stars": 2056,
+                        "stars": 2057,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2025,10 +2025,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-07T18:01:25Z",
-                    "open_issues": 475,
+                    "open_issues": 489,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13892,
+                    "stars": 13895,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:39:55.960Z",
+    "last_updated": "2026-11-10T04:03:33.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
