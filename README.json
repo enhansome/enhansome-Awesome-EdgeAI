@@ -127,7 +127,7 @@
                 "open_issues": 38,
                 "owner": "mit-han-lab",
                 "repo": "tinyengine",
-                "stars": 969,
+                "stars": 970,
                 "topics": [
                   "c",
                   "codegenerator",
@@ -162,11 +162,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T23:32:08Z",
-                "open_issues": 81,
+                "last_commit": "2026-11-11T01:35:49Z",
+                "open_issues": 78,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3150,
+                "stars": 3148,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -267,7 +267,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13912,
+                "stars": 13913,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -299,7 +299,7 @@
                 "open_issues": 207,
                 "owner": "artidoro",
                 "repo": "qlora",
-                "stars": 11067,
+                "stars": 11068,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -362,10 +362,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-09T07:37:30Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27116,
+                "stars": 27127,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -454,7 +454,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1819,
+                "stars": 1821,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -537,7 +537,7 @@
                     "open_issues": 33,
                     "owner": "microsoft",
                     "repo": "ELL",
-                    "stars": 2305,
+                    "stars": 2304,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -765,11 +765,11 @@
                         "id": 96946693,
                         "language": "Jupyter Notebook",
                         "license": "Apache-2.0",
-                        "last_commit": "2026-06-22T19:40:55Z",
-                        "open_issues": 319,
+                        "last_commit": "2026-11-10T16:57:34Z",
+                        "open_issues": 318,
                         "owner": "tensorflow",
                         "repo": "tpu",
-                        "stars": 5282,
+                        "stars": 5281,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -895,7 +895,7 @@
                         "open_issues": 95,
                         "owner": "huawei-noah",
                         "repo": "Efficient-AI-Backbones",
-                        "stars": 4429,
+                        "stars": 4430,
                         "topics": [
                           "convolutional-neural-networks",
                           "efficient-inference",
@@ -927,7 +927,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8217,
+                        "stars": 8219,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -953,7 +953,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6477,
+                        "stars": 6478,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -980,7 +980,7 @@
                         "open_issues": 157,
                         "owner": "google",
                         "repo": "automl",
-                        "stars": 6477,
+                        "stars": 6478,
                         "topics": [
                           "automl",
                           "efficientdet",
@@ -1392,7 +1392,7 @@
                         "open_issues": 30,
                         "owner": "BangguWu",
                         "repo": "ECANet",
-                        "stars": 1424,
+                        "stars": 1423,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2025,10 +2025,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-07T18:01:25Z",
-                    "open_issues": 489,
+                    "open_issues": 505,
                     "owner": "apache",
                     "repo": "tvm",
-                    "stars": 13895,
+                    "stars": 13897,
                     "topics": [
                       "compiler",
                       "deep-learning",
@@ -2085,7 +2085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:03:33.624Z",
+    "last_updated": "2026-11-11T01:52:15.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
