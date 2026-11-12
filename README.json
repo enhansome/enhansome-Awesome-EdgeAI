@@ -1,6 +1,760 @@
 {
   "items": [
     {
+      "description": "Why this section. The tables above catalogue papers; this section catalogues the artifacts needed to reproduce or deploy them. Every GitHub link below was verified to resolve (via against the repository HEAD) on 10 November 2026. Model reports were checked against their arXiv abstract pages; entries without an arXiv report link to official model cards / developer docs instead. Two stale paths (, ) were excluded — OmniQuant is linked at its current home, .",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Qwen3",
+              "description": "0.6B / 1.7B / 4B dense Qwen3 Technical Report (2025) — unified thinking / non-thinking modes with a thinking budget QwenLM/Qwen3",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+                "homepage": null,
+                "id": 752925682,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-01-09T03:05:47Z",
+                "open_issues": 69,
+                "owner": "QwenLM",
+                "repo": "Qwen3",
+                "stars": 27726,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Gemma 3 / Gemma 3n",
+              "description": "1B / 4B; 3n E2B / E4B Gemma 3 Technical Report (2025); Gemma 3n developer guide — MatFormer nested submodels, PLE caching, audio + vision input google-deepmind/gemma",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Gemma open-weight LLM library, from Google DeepMind",
+                "homepage": "https://gemma-llm.readthedocs.io",
+                "id": 760683276,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-28T02:38:40Z",
+                "open_issues": 341,
+                "owner": "google-deepmind",
+                "repo": "gemma",
+                "stars": 5841,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Phi-4-Mini",
+              "description": "3.8B Phi-4-Mini Technical Report (2025) — compact multimodal model via mixture-of-LoRAs microsoft/Phi-3CookBook",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks",
+                "homepage": null,
+                "id": 797465563,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-11-02T21:27:19Z",
+                "open_issues": 4,
+                "owner": "microsoft",
+                "repo": "PhiCookBook",
+                "stars": 3907,
+                "topics": [
+                  "cookbook",
+                  "language-model",
+                  "phi-4",
+                  "phi-4-mini",
+                  "phi-4-multimodal",
+                  "phi3",
+                  "phi3-testing",
+                  "phi3-vision",
+                  "phi4",
+                  "phi4-mini",
+                  "phi4-multimodal",
+                  "slm",
+                  "small-language-model"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MiniCPM4",
+              "description": "0.5B / 8B MiniCPM4: Ultra-Efficient LLMs on End Devices (2025) — native sparsity, QAT INT4, CPM.cu inference stack OpenBMB/MiniCPM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
+                "homepage": null,
+                "id": 749703336,
+                "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-09T07:36:54Z",
+                "open_issues": 23,
+                "owner": "OpenBMB",
+                "repo": "MiniCPM",
+                "stars": 11858,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "BitNet",
+              "description": "2B, 1.58-bit The Era of 1-bit LLMs (2024); BitNet b1.58 2B4T Technical Report (2025) microsoft/BitNet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference framework for 1-bit LLMs",
+                "homepage": null,
+                "id": 838253246,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-07-27T05:52:06Z",
+                "open_issues": 378,
+                "owner": "microsoft",
+                "repo": "BitNet",
+                "stars": 41535,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SmolLM3 / SmolVLM",
+              "description": "3B / 2B SmolLM3 release notes (2025) — fully open training recipe, on-device-oriented huggingface/smollm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Everything about the SmolLM and SmolVLM family of models ",
+                "homepage": "https://huggingface.co/HuggingFaceTB",
+                "id": 883143171,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-10-06T23:24:19Z",
+                "open_issues": 63,
+                "owner": "huggingface",
+                "repo": "smollm",
+                "stars": 3951,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Llama 3.2",
+              "description": "1B / 3B official 1B model card (2024) — pruned / distilled edge sizes meta-llama/llama-models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Utilities intended for use with Llama models.",
+                "homepage": null,
+                "id": 821134374,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-02-11T16:38:31Z",
+                "open_issues": 235,
+                "owner": "meta-llama",
+                "repo": "llama-models",
+                "stars": 7724,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            }
+          ],
+          "description": "This extends the Section 4 roster (MobileLLM / Phi-3 / Qwen2 / MiniCPM-V, all 2024) to the 2025–2026 generation of device-sized models.",
+          "node_type": "group",
+          "title": "A. On-device / small model families (2024–2026)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ollama/ollama",
+              "description": "and mudler/LocalAI — local model servers commonly used as edge baselines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+                "homepage": "https://ollama.com",
+                "id": 658928958,
+                "language": "Go",
+                "license": "MIT",
+                "last_commit": "2026-11-11T23:33:52Z",
+                "open_issues": 4624,
+                "owner": "ollama",
+                "repo": "ollama",
+                "stars": 186710,
+                "topics": [
+                  "deepseek",
+                  "gemma",
+                  "glm",
+                  "go",
+                  "golang",
+                  "gpt-oss",
+                  "llama",
+                  "llm",
+                  "llms",
+                  "minimax",
+                  "mistral",
+                  "muse",
+                  "ollama",
+                  "qwen"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ggml-org/llama.cpp",
+              "description": "GGUF quantized LLM/VLM inference in C/C++ across CPU, GPU and mobile backends; the de-facto edge baseline.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LLM inference in C/C++",
+                "homepage": "https://llama.app",
+                "id": 612354784,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-12T02:22:38Z",
+                "open_issues": 2585,
+                "owner": "ggml-org",
+                "repo": "llama.cpp",
+                "stars": 134165,
+                "topics": [
+                  "ggml"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "exo-explore/exo",
+              "description": "splits one model across a cluster of everyday devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Run frontier AI locally.",
+                "homepage": null,
+                "id": 819554665,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T22:00:57Z",
+                "open_issues": 462,
+                "owner": "exo-explore",
+                "repo": "exo",
+                "stars": 48324,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "microsoft/BitNet",
+              "description": "official 1-bit LLM inference framework, CPU-first.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official inference framework for 1-bit LLMs",
+                "homepage": null,
+                "id": 838253246,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-07-27T05:52:06Z",
+                "open_issues": 378,
+                "owner": "microsoft",
+                "repo": "BitNet",
+                "stars": 41535,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "google-ai-edge/mediapipe",
+              "description": "and google-ai-edge/ai-edge-torch — on-device perception and PyTorch → LiteRT / Qualcomm export.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+                "homepage": "https://ai.google.dev/edge/mediapipe",
+                "id": 191820100,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-11T23:34:01Z",
+                "open_issues": 270,
+                "owner": "google-ai-edge",
+                "repo": "mediapipe",
+                "stars": 37646,
+                "topics": [
+                  "android",
+                  "audio-processing",
+                  "c-plus-plus",
+                  "calculator",
+                  "computer-vision",
+                  "deep-learning",
+                  "framework",
+                  "graph-based",
+                  "graph-framework",
+                  "inference",
+                  "machine-learning",
+                  "mediapipe",
+                  "mobile-development",
+                  "perception",
+                  "pipeline-framework",
+                  "stream-processing",
+                  "video-processing"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "kvcache-ai/ktransformers",
+              "description": "heterogeneous CPU/GPU inference with offloaded experts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+                "homepage": "https://kvcache-ai.github.io/ktransformers/",
+                "id": 833984877,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-10T09:08:37Z",
+                "open_issues": 541,
+                "owner": "kvcache-ai",
+                "repo": "ktransformers",
+                "stars": 19661,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ggml-org/ggml",
+              "description": "tensor library underlying llama.cpp.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tensor library for machine learning",
+                "homepage": "https://github.com/ggml-org",
+                "id": 538180525,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-08T13:56:26Z",
+                "open_issues": 383,
+                "owner": "ggml-org",
+                "repo": "ggml",
+                "stars": 15613,
+                "topics": [
+                  "machine-learning"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "NVIDIA/TensorRT-LLM",
+              "description": "Jetson / edge-GPU kernels, paged KV cache, FP4/INT4 quantization and speculative decoding.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+                "homepage": "https://nvidia.github.io/TensorRT-LLM",
+                "id": 679366051,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-12T02:22:46Z",
+                "open_issues": 2084,
+                "owner": "NVIDIA",
+                "repo": "TensorRT-LLM",
+                "stars": 15064,
+                "topics": [
+                  "blackwell",
+                  "cuda",
+                  "llm-serving",
+                  "moe",
+                  "pytorch"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SJTU-IPADS/PowerInfer",
+              "description": "activation-sparsity CPU/GPU hybrid serving for local deployment (code for the PowerInfer papers in Section 4).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "High-speed Large Language Model Serving for Local Deployment",
+                "homepage": null,
+                "id": 731842419,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-05-11T06:48:06Z",
+                "open_issues": 134,
+                "owner": "Tiiny-AI",
+                "repo": "PowerInfer",
+                "stars": 9878,
+                "topics": [
+                  "large-language-models",
+                  "llama",
+                  "llm",
+                  "llm-inference",
+                  "local-inference"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "InternLM/lmdeploy",
+              "description": "compression, deployment and serving with optimized KV-cache management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+                "homepage": "https://lmdeploy.readthedocs.io/en/latest",
+                "id": 654122609,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-11T17:19:52Z",
+                "open_issues": 650,
+                "owner": "InternLM",
+                "repo": "lmdeploy",
+                "stars": 8140,
+                "topics": [
+                  "codellama",
+                  "cuda-kernels",
+                  "deepspeed",
+                  "fastertransformer",
+                  "internlm",
+                  "llama",
+                  "llama2",
+                  "llama3",
+                  "llm",
+                  "llm-inference",
+                  "turbomind"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ml-explore/mlx-lm",
+              "description": "Apple Silicon LLM generation / LoRA fine-tuning (companion to ).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Run LLMs with MLX",
+                "homepage": null,
+                "id": 946767878,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-06T11:23:26Z",
+                "open_issues": 280,
+                "owner": "ml-explore",
+                "repo": "mlx-lm",
+                "stars": 7633,
+                "topics": [
+                  "llms",
+                  "mlx"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OAID/Tengine",
+              "description": "lightweight embedded inference with INT8 / NPU support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tengine is a lite, high performance, modular inference engine for embedded device ",
+                "homepage": null,
+                "id": 115765590,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2025-03-06T07:12:55Z",
+                "open_issues": 253,
+                "owner": "OAID",
+                "repo": "Tengine",
+                "stars": 4534,
+                "topics": [
+                  "acl",
+                  "arm",
+                  "artificial-intelligence",
+                  "cnn",
+                  "container",
+                  "cuda",
+                  "machine-learning",
+                  "mips",
+                  "npu",
+                  "nvdla",
+                  "onnx",
+                  "pytorch",
+                  "riscv",
+                  "supperedge",
+                  "tensorflow",
+                  "tensorrt",
+                  "x86-64"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "google-ai-edge/model-explorer",
+              "description": "visual inspection of large on-device model graphs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A modern model graph visualizer and debugger",
+                "homepage": null,
+                "id": 739179343,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-11T23:36:32Z",
+                "open_issues": 85,
+                "owner": "google-ai-edge",
+                "repo": "model-explorer",
+                "stars": 1596,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "B. Inference engines & runtimes (official repositories)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "unslothai/unsloth",
+              "description": "and bitsandbytes-foundation/bitsandbytes — memory-efficient fine-tuning and low-bit kernels used with LoRA / QLoRA (Section 3).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+                "homepage": "https://unsloth.ai/docs",
+                "id": 725205304,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T00:52:33Z",
+                "open_issues": 530,
+                "owner": "unslothai",
+                "repo": "unsloth",
+                "stars": 79342,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "chatgpt",
+                  "deepseek",
+                  "fine-tuning",
+                  "gemma",
+                  "image-generation",
+                  "llama",
+                  "llm",
+                  "llms",
+                  "openai",
+                  "python",
+                  "qwen",
+                  "reinforcement-learning",
+                  "self-hosted",
+                  "stable-diffusion",
+                  "text-to-speech",
+                  "tts",
+                  "ui",
+                  "unsloth"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mit-han-lab/llm-awq",
+              "description": "(AWQ), mit-han-lab/smoothquant (SmoothQuant), IST-DASLab/gptq (GPTQ), AutoGPTQ/AutoGPTQ, OpenGVLab/OmniQuant — reference implementations for the quantization papers in Section 4.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[MLSys 2024 Best Paper Award] AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration",
+                "homepage": null,
+                "id": 647984858,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2025-07-17T19:44:51Z",
+                "open_issues": 210,
+                "owner": "mit-han-lab",
+                "repo": "llm-awq",
+                "stars": 3664,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "intel/neural-compressor",
+              "description": "and huggingface/optimum — vendor-neutral / Hugging Face-native quantization pipelines.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
+                "homepage": "https://intel.github.io/neural-compressor/",
+                "id": 281528773,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-12T02:06:42Z",
+                "open_issues": 34,
+                "owner": "intel",
+                "repo": "neural-compressor",
+                "stars": 2730,
+                "topics": [
+                  "auto-tuning",
+                  "awq",
+                  "fp4",
+                  "gptq",
+                  "int4",
+                  "int8",
+                  "knowledge-distillation",
+                  "large-language-models",
+                  "low-precision",
+                  "mxformat",
+                  "post-training-quantization",
+                  "pruning",
+                  "quantization",
+                  "quantization-aware-training",
+                  "smoothquant",
+                  "sparsegpt",
+                  "sparsity"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C. Quantization, compression & PEFT tooling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mlcommons/inference",
+              "description": "MLPerf Inference, including edge / mobile scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Reference implementations of MLPerf® inference benchmarks",
+                "homepage": "https://mlcommons.org/en/groups/inference",
+                "id": 148566613,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-06T17:07:16Z",
+                "open_issues": 205,
+                "owner": "mlcommons",
+                "repo": "inference",
+                "stars": 1660,
+                "topics": [
+                  "benchmark",
+                  "machine-learning"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "emlearn/emlearn",
+              "description": "classical-ML / tiny-NN inference in C for microcontrollers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Machine Learning inference engine for Microcontrollers and Embedded devices",
+                "homepage": null,
+                "id": 125562741,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-10T17:57:26Z",
+                "open_issues": 19,
+                "owner": "emlearn",
+                "repo": "emlearn",
+                "stars": 775,
+                "topics": [
+                  "c",
+                  "classifier",
+                  "embedded-systems",
+                  "inference",
+                  "keras",
+                  "machine-learning",
+                  "microcontroller",
+                  "neural-networks",
+                  "python",
+                  "random-forest",
+                  "scikit-learn",
+                  "sklearn",
+                  "tensorflow",
+                  "tinyml"
+                ]
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "espressif/esp-tflite-micro",
+              "description": "TFLM port for ESP32-class boards.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "TensorFlow Lite Micro for Espressif Chipsets",
+                "homepage": null,
+                "id": 420961620,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-10T02:55:07Z",
+                "open_issues": 11,
+                "owner": "espressif",
+                "repo": "esp-tflite-micro",
+                "stars": 723,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
+              "title": "mlcommons/tiny",
+              "description": "MLPerf Tiny benchmark suite for ultra-low-power MCUs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MLPerf® Tiny is an ML benchmark suite for extremely low-power systems such as microcontrollers",
+                "homepage": "https://mlcommons.org/en/groups/inference-tiny/",
+                "id": 268641449,
+                "language": "C",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-13T15:39:39Z",
+                "open_issues": 24,
+                "owner": "mlcommons",
+                "repo": "tiny",
+                "stars": 485,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            }
+          ],
+          "description": "Existing entries in TinyML Frameworks & Tools (TFLM, CMSIS-NN, microTVM, TinyEngine, MCUNet, Edge Impulse) are retained there.",
+          "node_type": "group",
+          "title": "D. TinyML / MCU toolchain"
+        }
+      ],
+      "title": "New: On-Device Model Families & Tool Repository Index"
+    },
+    {
       "description": "TinyML pushes AI inference to ultra-low-power microcontrollers (MCUs) with KB-level memory and mW-level power budgets. The field has rapidly evolved from basic CNNs to on-device Transformers and small language models.",
       "items": [
         {
@@ -88,6 +842,27 @@
             },
             {
               "node_type": "item",
+              "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
+              "description": "(NeurIPS 2020) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 320460952,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-11-29T04:22:13Z",
+                "open_issues": 7,
+                "owner": "mit-han-lab",
+                "repo": "tinyml",
+                "stars": 1231,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
+            },
+            {
+              "node_type": "item",
               "title": "On-Device Training Under 256KB Memory",
               "description": "(NeurIPS 2022) MIT HAN Lab Code",
               "children": [],
@@ -102,7 +877,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -162,8 +937,8 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T01:35:49Z",
-                "open_issues": 78,
+                "last_commit": "2026-11-12T01:13:48Z",
+                "open_issues": 79,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
                 "stars": 3148,
@@ -183,7 +958,7 @@
                 "id": 498779556,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-05T09:30:41Z",
+                "last_commit": "2026-11-11T15:25:30Z",
                 "open_issues": 10,
                 "owner": "ARM-software",
                 "repo": "CMSIS-NN",
@@ -221,7 +996,7 @@
                 "open_issues": 8,
                 "owner": "mit-han-lab",
                 "repo": "tiny-training",
-                "stars": 528,
+                "stars": 529,
                 "topics": [
                   "edge-ai",
                   "learning-on-the-edge",
@@ -229,6 +1004,27 @@
                 ]
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
+              "description": "(NeurIPS 2020) MIT HAN Lab Code",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 320460952,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2023-11-29T04:22:13Z",
+                "open_issues": 7,
+                "owner": "mit-han-lab",
+                "repo": "tinyml",
+                "stars": 1231,
+                "topics": []
+              },
+              "first_seen": "2026-11-12T02:52:32.326Z"
             },
             {
               "node_type": "item",
@@ -267,7 +1063,7 @@
                 "open_issues": 114,
                 "owner": "microsoft",
                 "repo": "LoRA",
-                "stars": 13913,
+                "stars": 13916,
                 "topics": [
                   "adaptation",
                   "deberta",
@@ -365,7 +1161,7 @@
                 "open_issues": 66,
                 "owner": "OpenBMB",
                 "repo": "MiniCPM-V",
-                "stars": 27127,
+                "stars": 27134,
                 "topics": [
                   "minicpm",
                   "minicpm-o",
@@ -412,7 +1208,7 @@
                 "open_issues": 1140,
                 "owner": "haotian-liu",
                 "repo": "LLaVA",
-                "stars": 25076,
+                "stars": 25075,
                 "topics": [
                   "chatbot",
                   "chatgpt",
@@ -454,7 +1250,7 @@
                 "open_issues": 98,
                 "owner": "octo-models",
                 "repo": "octo",
-                "stars": 1821,
+                "stars": 1826,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -635,7 +1431,7 @@
                     "open_issues": 14,
                     "owner": "navervision",
                     "repo": "mlsd",
-                    "stars": 620,
+                    "stars": 621,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:04:37.797Z"
@@ -672,7 +1468,7 @@
                         "open_issues": 47,
                         "owner": "Zehaos",
                         "repo": "MobileNet",
-                        "stars": 1659,
+                        "stars": 1658,
                         "topics": [
                           "detection",
                           "mobilenets",
@@ -727,7 +1523,7 @@
                         "open_issues": 46,
                         "owner": "xiaolai-sqlai",
                         "repo": "mobilenetv3",
-                        "stars": 1869,
+                        "stars": 1870,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -853,7 +1649,7 @@
                         "open_issues": 7,
                         "owner": "forresti",
                         "repo": "SqueezeNet",
-                        "stars": 2225,
+                        "stars": 2224,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T06:04:37.797Z"
@@ -927,7 +1723,7 @@
                         "open_issues": 167,
                         "owner": "lukemelas",
                         "repo": "EfficientNet-PyTorch",
-                        "stars": 8219,
+                        "stars": 8220,
                         "topics": [
                           "efficientnet-pytorch",
                           "feature-extraction",
@@ -1751,7 +2547,7 @@
                 "open_issues": 3,
                 "owner": "KarenUllrich",
                 "repo": "Tutorial-SoftWeightSharingForNNCompression",
-                "stars": 147,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -2024,8 +2820,8 @@
                     "id": 70746484,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-07T18:01:25Z",
-                    "open_issues": 505,
+                    "last_commit": "2026-11-11T05:25:36Z",
+                    "open_issues": 506,
                     "owner": "apache",
                     "repo": "tvm",
                     "stars": 13897,
@@ -2085,15 +2881,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T01:52:15.010Z",
+    "last_updated": "2026-11-12T02:52:32.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
       "homepage": null,
       "id": 590725817,
-      "language": null,
+      "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-11-08T10:01:45Z",
+      "last_commit": "2026-11-11T09:42:18Z",
       "open_issues": 3,
       "owner": "wangxb96",
       "repo": "Awesome-EdgeAI",
@@ -2114,7 +2910,7 @@
         "tiny-ml"
       ]
     },
-    "original_repository_sha": "f8c37ea0727dc855c2a386f758babecfee972947",
+    "original_repository_sha": "25554aaca022da4a4704acf8fc3aa3690bb84d29",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
     "title": "Awesome Edge AI with stars"
