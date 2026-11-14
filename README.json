@@ -1,112 +1,79 @@
 {
   "items": [
     {
-      "description": "Why this section. The tables above catalogue papers; this section catalogues the artifacts needed to reproduce or deploy them. Every GitHub link below was verified to resolve (via against the repository HEAD) on 10 November 2026. Model reports were checked against their arXiv abstract pages; entries without an arXiv report link to official model cards / developer docs instead. Two stale paths (, ) were excluded — OmniQuant is linked at its current home, .",
+      "description": "The current public preprint is Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment. The two versions share arXiv identifier 2501.03265 and document the manuscript's progression from the optimization triad to cognitive workloads and agents.\nThe associated journal manuscript is titled Cognitive Edge Computing: A Survey on Optimizing Large Language Models and Autonomous Agents for the Edge. Its current reproducibility artifacts are maintained in this repository. Version-specific BibTeX records are provided under Citation.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "v2 · 7 November 2025",
+          "description": "Xubin Wang, Qing Li and Weijia Jia. Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment. arXiv:2501.03265v2. cognitive-edge-llm-agent-survey: focused LLM/agent literature map; Awesome-EdgeAI: this consolidated guide and the current protocol, census and editable figures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cognitive Edge Computing: A Survey on Optimizing Large Language Models and Autonomous Agents for the Edge — literature map, reproducibility artifacts, and benchmark scripts.",
+            "homepage": null,
+            "id": 1221338689,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-13T10:26:21Z",
+            "open_issues": 0,
+            "owner": "wangxb96",
+            "repo": "cognitive-edge-llm-agent-survey",
+            "stars": 0,
+            "topics": [
+              "ai-agents",
+              "benchmarking",
+              "cognitive-edge-computing",
+              "edge-ai",
+              "edge-deployment",
+              "energy-efficiency",
+              "l-l-m",
+              "large-language-models",
+              "latency",
+              "llm",
+              "model-optimization",
+              "multi-agent-systems",
+              "on-device-inference",
+              "quantization",
+              "reproducibility",
+              "survey"
+            ]
+          },
+          "first_seen": "2026-11-14T02:17:48.872Z"
+        }
+      ],
+      "title": "Survey versions and repositories"
+    },
+    {
+      "description": "Choose the model's role before its size. A text model, visual encoder, function caller and orchestration framework provide different components of an application. Released parameter counts are not total resident application memory. Pin the model, tokenizer/template, precision format, runtime and device revision for a run.",
       "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "Qwen3",
-              "description": "0.6B / 1.7B / 4B dense Qwen3 Technical Report (2025) — unified thinking / non-thinking modes with a thinking budget QwenLM/Qwen3",
+              "title": "Visual and audio assistance",
+              "description": "Gemma 3n E2B/E4B, FastVLM, MiniCPM-V Include encoder/token cost, conditional loading and modality quality; effective-size labels are not complete RAM estimates.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+                "description": "This repository contains the official implementation of \"FastVLM: Efficient Vision Encoding for Vision Language Models\" - CVPR 2025",
                 "homepage": null,
-                "id": 752925682,
+                "id": 976325482,
                 "language": "Python",
-                "license": null,
-                "last_commit": "2026-01-09T03:05:47Z",
-                "open_issues": 69,
-                "owner": "QwenLM",
-                "repo": "Qwen3",
-                "stars": 27729,
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-11T15:56:44Z",
+                "open_issues": 57,
+                "owner": "apple-aiml-research",
+                "repo": "ml-fastvlm",
+                "stars": 7443,
                 "topics": []
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
+              "first_seen": "2026-11-14T02:17:48.872Z"
             },
             {
               "node_type": "item",
-              "title": "Gemma 3 / Gemma 3n",
-              "description": "1B / 4B; 3n E2B / E4B Gemma 3 Technical Report (2025); Gemma 3n developer guide — MatFormer nested submodels, PLE caching, audio + vision input google-deepmind/gemma",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Gemma open-weight LLM library, from Google DeepMind",
-                "homepage": "https://gemma-llm.readthedocs.io",
-                "id": 760683276,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-28T02:38:40Z",
-                "open_issues": 341,
-                "owner": "google-deepmind",
-                "repo": "gemma",
-                "stars": 5843,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Phi-4-Mini",
-              "description": "3.8B Phi-4-Mini Technical Report (2025) — compact multimodal model via mixture-of-LoRAs microsoft/Phi-3CookBook",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks",
-                "homepage": null,
-                "id": 797465563,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2026-11-02T21:27:19Z",
-                "open_issues": 4,
-                "owner": "microsoft",
-                "repo": "PhiCookBook",
-                "stars": 3907,
-                "topics": [
-                  "cookbook",
-                  "language-model",
-                  "phi-4",
-                  "phi-4-mini",
-                  "phi-4-multimodal",
-                  "phi3",
-                  "phi3-testing",
-                  "phi3-vision",
-                  "phi4",
-                  "phi4-mini",
-                  "phi4-multimodal",
-                  "slm",
-                  "small-language-model"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MiniCPM4",
-              "description": "0.5B / 8B MiniCPM4: Ultra-Efficient LLMs on End Devices (2025) — native sparsity, QAT INT4, CPM.cu inference stack OpenBMB/MiniCPM",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
-                "homepage": null,
-                "id": 749703336,
-                "language": "Jupyter Notebook",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-09T07:36:54Z",
-                "open_issues": 23,
-                "owner": "OpenBMB",
-                "repo": "MiniCPM",
-                "stars": 11865,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BitNet",
-              "description": "2B, 1.58-bit The Era of 1-bit LLMs (2024); BitNet b1.58 2B4T Technical Report (2025) microsoft/BitNet",
+              "title": "Low-bit local text",
+              "description": "BitNet Does the backend execute the intended low-bit kernels, and what quality/traffic trade-off results?",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,100 +86,43 @@
                 "open_issues": 378,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41565,
+                "stars": 41576,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
             },
             {
               "node_type": "item",
-              "title": "SmolLM3 / SmolVLM",
-              "description": "3B / 2B SmolLM3 release notes (2025) — fully open training recipe, on-device-oriented huggingface/smollm",
+              "title": "Personal-device agent",
+              "description": "TinyAgent Are planner, executor, tool state and final task verification all accounted for?",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Everything about the SmolLM and SmolVLM family of models ",
-                "homepage": "https://huggingface.co/HuggingFaceTB",
-                "id": 883143171,
+                "description": "[EMNLP 2024 Demo] TinyAgent: Function Calling at the Edge!",
+                "homepage": "https://arxiv.org/abs/2409.00608",
+                "id": 806773430,
                 "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-10-06T23:24:19Z",
-                "open_issues": 63,
-                "owner": "huggingface",
-                "repo": "smollm",
-                "stars": 3951,
+                "license": "MIT",
+                "last_commit": "2024-09-04T16:21:06Z",
+                "open_issues": 8,
+                "owner": "SqueezeAILab",
+                "repo": "TinyAgent",
+                "stars": 503,
                 "topics": []
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Llama 3.2",
-              "description": "1B / 3B official 1B model card (2024) — pruned / distilled edge sizes meta-llama/llama-models",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Utilities intended for use with Llama models.",
-                "homepage": null,
-                "id": 821134374,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-02-11T16:38:31Z",
-                "open_issues": 235,
-                "owner": "meta-llama",
-                "repo": "llama-models",
-                "stars": 7725,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
+              "first_seen": "2026-11-14T02:17:48.872Z"
             }
           ],
-          "description": "This extends the Section 4 roster (MobileLLM / Phi-3 / Qwen2 / MiniCPM-V, all 2024) to the 2025–2026 generation of device-sized models.",
+          "description": null,
           "node_type": "group",
-          "title": "A. On-device / small model families (2024–2026)"
+          "title": "Role-matched model artifacts"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "ollama/ollama",
-              "description": "and mudler/LocalAI — local model servers commonly used as edge baselines.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-                "homepage": "https://ollama.com",
-                "id": 658928958,
-                "language": "Go",
-                "license": "MIT",
-                "last_commit": "2026-11-13T00:02:20Z",
-                "open_issues": 4646,
-                "owner": "ollama",
-                "repo": "ollama",
-                "stars": 186824,
-                "topics": [
-                  "deepseek",
-                  "gemma",
-                  "glm",
-                  "go",
-                  "golang",
-                  "gpt-oss",
-                  "llama",
-                  "llm",
-                  "llms",
-                  "minimax",
-                  "mistral",
-                  "muse",
-                  "ollama",
-                  "qwen"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ggml-org/llama.cpp",
-              "description": "GGUF quantized LLM/VLM inference in C/C++ across CPU, GPU and mobile backends; the de-facto edge baseline.",
+              "title": "llama.cpp",
+              "description": "GGUF model execution across supported CPU/GPU and other backends Quantizer revision, actual backend and operator fallback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,11 +131,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-13T01:13:28Z",
-                "open_issues": 2581,
+                "last_commit": "2026-11-13T23:50:18Z",
+                "open_issues": 2597,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 134599,
+                "stars": 134888,
                 "topics": [
                   "ggml"
                 ]
@@ -234,133 +144,197 @@
             },
             {
               "node_type": "item",
-              "title": "exo-explore/exo",
-              "description": "splits one model across a cluster of everyday devices.",
+              "title": "MLC LLM",
+              "description": "Compiled deployment to supported mobile, browser and accelerator targets Target build, compilation and model-library compatibility",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Run frontier AI locally.",
-                "homepage": null,
-                "id": 819554665,
+                "description": "Universal LLM Deployment Engine with ML Compilation",
+                "homepage": "https://llm.mlc.ai/",
+                "id": 634081686,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T22:00:57Z",
-                "open_issues": 466,
-                "owner": "exo-explore",
-                "repo": "exo",
-                "stars": 48370,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "microsoft/BitNet",
-              "description": "official 1-bit LLM inference framework, CPU-first.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Official inference framework for 1-bit LLMs",
-                "homepage": null,
-                "id": 838253246,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 378,
-                "owner": "microsoft",
-                "repo": "BitNet",
-                "stars": 41565,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "google-ai-edge/mediapipe",
-              "description": "and google-ai-edge/ai-edge-torch — on-device perception and PyTorch → LiteRT / Qualcomm export.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Cross-platform, customizable ML solutions for live and streaming media.",
-                "homepage": "https://ai.google.dev/edge/mediapipe",
-                "id": 191820100,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:22:34Z",
-                "open_issues": 268,
-                "owner": "google-ai-edge",
-                "repo": "mediapipe",
-                "stars": 37657,
+                "last_commit": "2026-11-13T23:48:46Z",
+                "open_issues": 371,
+                "owner": "mlc-ai",
+                "repo": "mlc-llm",
+                "stars": 23417,
                 "topics": [
-                  "android",
-                  "audio-processing",
-                  "c-plus-plus",
-                  "calculator",
-                  "computer-vision",
+                  "language-model",
+                  "llm",
+                  "machine-learning-compilation",
+                  "tvm"
+                ]
+              },
+              "first_seen": "2026-11-14T02:17:48.872Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ExecuTorch",
+              "description": "PyTorch model export and on-device execution Delegation, supported operators and exported graph",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "On-device AI across mobile, embedded and edge for PyTorch",
+                "homepage": "https://executorch.ai",
+                "id": 463628495,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-14T02:14:15Z",
+                "open_issues": 1377,
+                "owner": "pytorch",
+                "repo": "executorch",
+                "stars": 5177,
+                "topics": [
                   "deep-learning",
-                  "framework",
-                  "graph-based",
-                  "graph-framework",
-                  "inference",
+                  "embedded",
+                  "gpu",
                   "machine-learning",
-                  "mediapipe",
-                  "mobile-development",
-                  "perception",
-                  "pipeline-framework",
-                  "stream-processing",
-                  "video-processing"
+                  "mobile",
+                  "neural-network",
+                  "tensor"
                 ]
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
+              "first_seen": "2026-11-14T02:17:48.872Z"
             },
             {
               "node_type": "item",
-              "title": "kvcache-ai/ktransformers",
-              "description": "heterogeneous CPU/GPU inference with offloaded experts.",
+              "title": "LiteRT",
+              "description": "/ LiteRT-LM On-device ML and generative-model execution Supported model conversion and selected device accelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-                "homepage": "https://kvcache-ai.github.io/ktransformers/",
-                "id": 833984877,
-                "language": "Python",
+                "description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization",
+                "homepage": "https://ai.google.dev/edge/litert/next/overview",
+                "id": 851997597,
+                "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-12T11:03:00Z",
-                "open_issues": 541,
-                "owner": "kvcache-ai",
-                "repo": "ktransformers",
-                "stars": 19664,
+                "last_commit": "2026-11-14T02:11:10Z",
+                "open_issues": 3511,
+                "owner": "google-ai-edge",
+                "repo": "LiteRT",
+                "stars": 3591,
                 "topics": []
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
+              "first_seen": "2026-11-14T02:17:48.872Z"
             },
             {
               "node_type": "item",
-              "title": "ggml-org/ggml",
-              "description": "tensor library underlying llama.cpp.",
+              "title": "MLX",
+              "description": "/ MLX LM Apple Silicon arrays, language-model generation and adaptation Unified-memory residency and measured device/configuration",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Tensor library for machine learning",
-                "homepage": "https://github.com/ggml-org",
-                "id": 538180525,
+                "description": "MLX: An array framework for Apple silicon",
+                "homepage": "https://ml-explore.github.io/mlx/",
+                "id": 724854743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-12T19:40:47Z",
-                "open_issues": 385,
-                "owner": "ggml-org",
-                "repo": "ggml",
-                "stars": 15621,
+                "last_commit": "2026-11-13T22:25:46Z",
+                "open_issues": 143,
+                "owner": "ml-explore",
+                "repo": "mlx",
+                "stars": 29156,
                 "topics": [
-                  "machine-learning"
+                  "mlx"
                 ]
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
+              "first_seen": "2026-11-14T02:17:48.872Z"
             },
             {
               "node_type": "item",
-              "title": "NVIDIA/TensorRT-LLM",
-              "description": "Jetson / edge-GPU kernels, paged KV cache, FP4/INT4 quantization and speculative decoding.",
+              "title": "ONNX Runtime",
+              "description": "/ GenAI ONNX execution providers and generation loop Execution provider, graph partitions, KV layout and sampling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+                "homepage": "https://onnxruntime.ai",
+                "id": 156939672,
+                "language": "C++",
+                "license": "MIT",
+                "last_commit": "2026-11-14T01:56:33Z",
+                "open_issues": 1957,
+                "owner": "microsoft",
+                "repo": "onnxruntime",
+                "stars": 22301,
+                "topics": [
+                  "ai-framework",
+                  "deep-learning",
+                  "hardware-acceleration",
+                  "machine-learning",
+                  "neural-networks",
+                  "onnx",
+                  "pytorch",
+                  "scikit-learn",
+                  "tensorflow"
+                ]
+              },
+              "first_seen": "2026-11-14T02:17:48.872Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MNN",
+              "description": "/ ncnn Mobile and embedded inference Model-specific operator and precision support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+                "homepage": null,
+                "id": 181436799,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T13:09:33Z",
+                "open_issues": 80,
+                "owner": "alibaba",
+                "repo": "MNN",
+                "stars": 16521,
+                "topics": [
+                  "arm",
+                  "convolution",
+                  "deep-learning",
+                  "embedded-devices",
+                  "llm",
+                  "machine-learning",
+                  "ml",
+                  "mnn",
+                  "transformer",
+                  "vulkan",
+                  "winograd-algorithm"
+                ]
+              },
+              "first_seen": "2026-11-14T02:17:48.872Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Transformers.js",
+              "description": "Browser/JavaScript inference Browser backend, memory limits and model format",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+                "homepage": "https://huggingface.co/docs/transformers.js",
+                "id": 601161044,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-13T14:44:28Z",
+                "open_issues": 289,
+                "owner": "huggingface",
+                "repo": "transformers.js",
+                "stars": 16417,
+                "topics": [
+                  "browser",
+                  "javascript",
+                  "transformers",
+                  "webml"
+                ]
+              },
+              "first_seen": "2026-11-14T02:17:48.872Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TensorRT-LLM",
+              "description": "Supported NVIDIA accelerator serving Exact GPU/platform support; do not infer phone portability",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -369,11 +343,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T02:17:39Z",
+                "last_commit": "2026-11-14T01:35:38Z",
                 "open_issues": 2077,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 15075,
+                "stars": 15074,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -383,204 +357,52 @@
                 ]
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SJTU-IPADS/PowerInfer",
-              "description": "activation-sparsity CPU/GPU hybrid serving for local deployment (code for the PowerInfer papers in Section 4).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "High-speed Large Language Model Serving for Local Deployment",
-                "homepage": null,
-                "id": 731842419,
-                "language": "C++",
-                "license": "MIT",
-                "last_commit": "2026-05-11T06:48:06Z",
-                "open_issues": 134,
-                "owner": "Tiiny-AI",
-                "repo": "PowerInfer",
-                "stars": 9882,
-                "topics": [
-                  "large-language-models",
-                  "llama",
-                  "llm",
-                  "llm-inference",
-                  "local-inference"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "InternLM/lmdeploy",
-              "description": "compression, deployment and serving with optimized KV-cache management.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
-                "homepage": "https://lmdeploy.readthedocs.io/en/latest",
-                "id": 654122609,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-12T12:09:53Z",
-                "open_issues": 648,
-                "owner": "InternLM",
-                "repo": "lmdeploy",
-                "stars": 8140,
-                "topics": [
-                  "codellama",
-                  "cuda-kernels",
-                  "deepspeed",
-                  "fastertransformer",
-                  "internlm",
-                  "llama",
-                  "llama2",
-                  "llama3",
-                  "llm",
-                  "llm-inference",
-                  "turbomind"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ml-explore/mlx-lm",
-              "description": "Apple Silicon LLM generation / LoRA fine-tuning (companion to ).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Run LLMs with MLX",
-                "homepage": null,
-                "id": 946767878,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-06T11:23:26Z",
-                "open_issues": 282,
-                "owner": "ml-explore",
-                "repo": "mlx-lm",
-                "stars": 7643,
-                "topics": [
-                  "llms",
-                  "mlx"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OAID/Tengine",
-              "description": "lightweight embedded inference with INT8 / NPU support.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Tengine is a lite, high performance, modular inference engine for embedded device ",
-                "homepage": null,
-                "id": 115765590,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2025-03-06T07:12:55Z",
-                "open_issues": 253,
-                "owner": "OAID",
-                "repo": "Tengine",
-                "stars": 4535,
-                "topics": [
-                  "acl",
-                  "arm",
-                  "artificial-intelligence",
-                  "cnn",
-                  "container",
-                  "cuda",
-                  "machine-learning",
-                  "mips",
-                  "npu",
-                  "nvdla",
-                  "onnx",
-                  "pytorch",
-                  "riscv",
-                  "supperedge",
-                  "tensorflow",
-                  "tensorrt",
-                  "x86-64"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "google-ai-edge/model-explorer",
-              "description": "visual inspection of large on-device model graphs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A modern model graph visualizer and debugger",
-                "homepage": null,
-                "id": 739179343,
-                "language": "JavaScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-12T19:48:11Z",
-                "open_issues": 81,
-                "owner": "google-ai-edge",
-                "repo": "model-explorer",
-                "stars": 1598,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
             }
           ],
-          "description": null,
+          "description": "Use current vendor documentation for Core ML, Qualcomm AI Hub and LiteRT. Version-specific accelerator paths change. Runtime availability does not establish equal capability or performance across targets.",
           "node_type": "group",
-          "title": "B. Inference engines & runtimes (official repositories)"
+          "title": "Generative inference stacks"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "unslothai/unsloth",
-              "description": "and bitsandbytes-foundation/bitsandbytes — memory-efficient fine-tuning and low-bit kernels used with LoRA / QLoRA (Section 3).",
+              "title": "TensorFlow Lite Micro",
+              "description": ", CMSIS-NN, TinyEngine and emlearn support constrained inference roles. Their small-network results should not be presented as evidence that a complete LLM agent fits an MCU. See the foundations for the relevant model and training regimes.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-                "homepage": "https://unsloth.ai/docs",
-                "id": 725205304,
-                "language": "Python",
+                "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
+                "homepage": null,
+                "id": 356055024,
+                "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T02:31:41Z",
-                "open_issues": 501,
-                "owner": "unslothai",
-                "repo": "unsloth",
-                "stars": 79406,
-                "topics": [
-                  "agent",
-                  "ai",
-                  "chatgpt",
-                  "deepseek",
-                  "fine-tuning",
-                  "gemma",
-                  "image-generation",
-                  "llama",
-                  "llm",
-                  "llms",
-                  "openai",
-                  "python",
-                  "qwen",
-                  "reinforcement-learning",
-                  "self-hosted",
-                  "stable-diffusion",
-                  "text-to-speech",
-                  "tts",
-                  "ui",
-                  "unsloth"
-                ]
+                "last_commit": "2026-11-13T18:08:26Z",
+                "open_issues": 78,
+                "owner": "tensorflow",
+                "repo": "tflite-micro",
+                "stars": 3153,
+                "topics": []
               },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
+              "first_seen": "2026-08-28T06:04:37.797Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MCU and embedded inference"
+        }
+      ],
+      "title": "Models and runtimes"
+    },
+    {
+      "description": "Start from a feasible, correct baseline and a measured bottleneck. Weight storage, KV state, visual encoding, decoding, tool calls and wireless transfers compete for different resources. A gain in one phase need not improve complete-task latency or energy.",
+      "items": [
+        {
+          "children": [
             {
               "node_type": "item",
-              "title": "mit-han-lab/llm-awq",
-              "description": "(AWQ), mit-han-lab/smoothquant (SmoothQuant), IST-DASLab/gptq (GPTQ), AutoGPTQ/AutoGPTQ, OpenGVLab/OmniQuant — reference implementations for the quantization papers in Section 4.",
+              "title": "Tooling: AWQ",
+              "description": ", GPTQ, SmoothQuant, OmniQuant, PEFT, bitsandbytes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -593,61 +415,28 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3664,
+                "stars": 3665,
                 "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "intel/neural-compressor",
-              "description": "and huggingface/optimum — vendor-neutral / Hugging Face-native quantization pipelines.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SOTA low-bit LLM quantization (INT8/FP8/MXFP8/INT4/MXFP4/NVFP4) & sparsity; leading model compression techniques on PyTorch, TensorFlow, and ONNX Runtime",
-                "homepage": "https://intel.github.io/neural-compressor/",
-                "id": 281528773,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-13T01:29:08Z",
-                "open_issues": 35,
-                "owner": "intel",
-                "repo": "neural-compressor",
-                "stars": 2730,
-                "topics": [
-                  "auto-tuning",
-                  "awq",
-                  "fp4",
-                  "gptq",
-                  "int4",
-                  "int8",
-                  "knowledge-distillation",
-                  "large-language-models",
-                  "low-precision",
-                  "mxformat",
-                  "post-training-quantization",
-                  "pruning",
-                  "quantization",
-                  "quantization-aware-training",
-                  "smoothquant",
-                  "sparsegpt",
-                  "sparsity"
-                ]
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
             }
           ],
-          "description": null,
+          "description": "Report whether adapters are merged, switched or served concurrently. Base weights, activation memory, communication, update cost and quality drift remain relevant after trainable parameters are reduced.",
           "node_type": "group",
-          "title": "C. Quantization, compression & PEFT tooling"
-        },
+          "title": "Adaptation and federated learning"
+        }
+      ],
+      "title": "Optimization under deployment budgets"
+    },
+    {
+      "description": "Measure the capability being claimed at the deployment boundary where it matters. Direct task success, language-model quality proxies and execution measurements answer different questions. Publication venue and code availability are separate from whether a result can be reconstructed.",
+      "items": [
         {
           "children": [
             {
               "node_type": "item",
-              "title": "mlcommons/inference",
-              "description": "MLPerf Inference, including edge / mobile scenarios.",
+              "title": "Benchmarks: MLPerf Inference",
+              "description": ", MLPerf Tiny. Record the suite version, task, data split, precision, runtime, memory, thermal state, power scope and independent repetition unit. A global model leaderboard cannot replace a matched deployment study.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +446,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T17:07:16Z",
-                "open_issues": 205,
+                "open_issues": 204,
                 "owner": "mlcommons",
                 "repo": "inference",
                 "stars": 1659,
@@ -667,2233 +456,30 @@
                 ]
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "emlearn/emlearn",
-              "description": "classical-ML / tiny-NN inference in C for microcontrollers.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Machine Learning inference engine for Microcontrollers and Embedded devices",
-                "homepage": null,
-                "id": 125562741,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-10T17:57:26Z",
-                "open_issues": 19,
-                "owner": "emlearn",
-                "repo": "emlearn",
-                "stars": 774,
-                "topics": [
-                  "c",
-                  "classifier",
-                  "embedded-systems",
-                  "inference",
-                  "keras",
-                  "machine-learning",
-                  "microcontroller",
-                  "neural-networks",
-                  "python",
-                  "random-forest",
-                  "scikit-learn",
-                  "sklearn",
-                  "tensorflow",
-                  "tinyml"
-                ]
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "espressif/esp-tflite-micro",
-              "description": "TFLM port for ESP32-class boards.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "TensorFlow Lite Micro for Espressif Chipsets",
-                "homepage": null,
-                "id": 420961620,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-10T02:55:07Z",
-                "open_issues": 11,
-                "owner": "espressif",
-                "repo": "esp-tflite-micro",
-                "stars": 723,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mlcommons/tiny",
-              "description": "MLPerf Tiny benchmark suite for ultra-low-power MCUs.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MLPerf® Tiny is an ML benchmark suite for extremely low-power systems such as microcontrollers",
-                "homepage": "https://mlcommons.org/en/groups/inference-tiny/",
-                "id": 268641449,
-                "language": "C",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-13T15:39:39Z",
-                "open_issues": 24,
-                "owner": "mlcommons",
-                "repo": "tiny",
-                "stars": 485,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
             }
           ],
-          "description": "Existing entries in TinyML Frameworks & Tools (TFLM, CMSIS-NN, microTVM, TinyEngine, MCUNet, Edge Impulse) are retained there.",
+          "description": null,
           "node_type": "group",
-          "title": "D. TinyML / MCU toolchain"
+          "title": "Device and sustained-session studies"
         }
       ],
-      "title": "New: On-Device Model Families & Tool Repository Index"
-    },
-    {
-      "description": "TinyML pushes AI inference to ultra-low-power microcontrollers (MCUs) with KB-level memory and mW-level power budgets. The field has rapidly evolved from basic CNNs to on-device Transformers and small language models.",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MCUNet: Tiny Deep Learning on IoT Devices",
-              "description": "(NeurIPS 2020) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
-                "homepage": "https://mcunet.mit.edu",
-                "id": 503454474,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-29T18:17:37Z",
-                "open_issues": 27,
-                "owner": "mit-han-lab",
-                "repo": "mcunet",
-                "stars": 722,
-                "topics": [
-                  "deep-learning",
-                  "microncontroller",
-                  "neural-architecture-search",
-                  "pytorch",
-                  "tinyml"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
-              "description": "(NeurIPS 2021) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
-                "homepage": "https://mcunet.mit.edu",
-                "id": 503454474,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-29T18:17:37Z",
-                "open_issues": 27,
-                "owner": "mit-han-lab",
-                "repo": "mcunet",
-                "stars": 722,
-                "topics": [
-                  "deep-learning",
-                  "microncontroller",
-                  "neural-architecture-search",
-                  "pytorch",
-                  "tinyml"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MCUNetV3: On-Device Training Under 256KB Memory",
-              "description": "(NeurIPS 2022) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning",
-                "homepage": "https://mcunet.mit.edu",
-                "id": 503454474,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-29T18:17:37Z",
-                "open_issues": 27,
-                "owner": "mit-han-lab",
-                "repo": "mcunet",
-                "stars": 722,
-                "topics": [
-                  "deep-learning",
-                  "microncontroller",
-                  "neural-architecture-search",
-                  "pytorch",
-                  "tinyml"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
-              "description": "(NeurIPS 2020) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 320460952,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-11-29T04:22:13Z",
-                "open_issues": 7,
-                "owner": "mit-han-lab",
-                "repo": "tinyml",
-                "stars": 1230,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "On-Device Training Under 256KB Memory",
-              "description": "(NeurIPS 2022) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "On-Device Training Under 256KB Memory [NeurIPS'22]",
-                "homepage": "http://tinytraining.mit.edu",
-                "id": 566277502,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-29T18:15:19Z",
-                "open_issues": 8,
-                "owner": "mit-han-lab",
-                "repo": "tiny-training",
-                "stars": 529,
-                "topics": [
-                  "edge-ai",
-                  "learning-on-the-edge",
-                  "on-device-training"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TinyEngine: Efficient Training and Inference on Microcontrollers",
-              "description": "MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256KB Memory",
-                "homepage": "https://mcunet.mit.edu",
-                "id": 528570641,
-                "language": "C",
-                "license": "MIT",
-                "last_commit": "2024-11-27T18:51:37Z",
-                "open_issues": 38,
-                "owner": "mit-han-lab",
-                "repo": "tinyengine",
-                "stars": 970,
-                "topics": [
-                  "c",
-                  "codegenerator",
-                  "cpp",
-                  "deep-learning",
-                  "edge-computing",
-                  "microcontroller",
-                  "neural-architecture-search",
-                  "pytorch",
-                  "quantization",
-                  "tinyml"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Foundational TinyML Papers"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "TensorFlow Lite for Microcontrollers (TFLM)",
-              "description": "Google's framework for MCU inference.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).",
-                "homepage": null,
-                "id": 356055024,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-12T23:18:28Z",
-                "open_issues": 79,
-                "owner": "tensorflow",
-                "repo": "tflite-micro",
-                "stars": 3151,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CMSIS-NN",
-              "description": "ARM's optimized NN kernels for Cortex-M.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "CMSIS-NN Library",
-                "homepage": "https://arm-software.github.io/CMSIS-NN",
-                "id": 498779556,
-                "language": "C",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-12T13:56:49Z",
-                "open_issues": 11,
-                "owner": "ARM-software",
-                "repo": "CMSIS-NN",
-                "stars": 459,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "TinyML Frameworks & Tools"
-        }
-      ],
-      "title": "New: TinyML & Microcontroller AI"
-    },
-    {
-      "description": "Beyond inference, enabling on-device training and fine-tuning allows models to adapt to user-specific data and changing environments without privacy leakage.",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "On-Device Training Under 256KB Memory",
-              "description": "(NeurIPS 2022) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "On-Device Training Under 256KB Memory [NeurIPS'22]",
-                "homepage": "http://tinytraining.mit.edu",
-                "id": 566277502,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-03-29T18:15:19Z",
-                "open_issues": 8,
-                "owner": "mit-han-lab",
-                "repo": "tiny-training",
-                "stars": 529,
-                "topics": [
-                  "edge-ai",
-                  "learning-on-the-edge",
-                  "on-device-training"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TinyTL: Reduce Memory, Not Parameters for Efficient On-Device Learning",
-              "description": "(NeurIPS 2020) MIT HAN Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 320460952,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-11-29T04:22:13Z",
-                "open_issues": 7,
-                "owner": "mit-han-lab",
-                "repo": "tinyml",
-                "stars": 1230,
-                "topics": []
-              },
-              "first_seen": "2026-11-12T02:52:32.326Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning",
-              "description": "(USENIX ATC 2021) PolyU Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Create tiny ML systems for on-device learning.",
-                "homepage": null,
-                "id": 345609017,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2021-07-14T17:22:47Z",
-                "open_issues": 0,
-                "owner": "kimihe",
-                "repo": "Octo",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LoRA: Low-Rank Adaptation of Large Language Models",
-              "description": "(ICLR 2022) Microsoft Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
-                "homepage": "https://arxiv.org/abs/2106.09685",
-                "id": 378010497,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-12-17T03:55:52Z",
-                "open_issues": 114,
-                "owner": "microsoft",
-                "repo": "LoRA",
-                "stars": 13921,
-                "topics": [
-                  "adaptation",
-                  "deberta",
-                  "deep-learning",
-                  "gpt-2",
-                  "gpt-3",
-                  "language-model",
-                  "lora",
-                  "low-rank",
-                  "pytorch",
-                  "roberta"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
-              "description": "(NeurIPS 2023) University of Washington Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "QLoRA: Efficient Finetuning of Quantized LLMs",
-                "homepage": "https://arxiv.org/abs/2305.14314",
-                "id": 639346169,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2024-06-10T19:20:16Z",
-                "open_issues": 207,
-                "owner": "artidoro",
-                "repo": "qlora",
-                "stars": 11068,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "DoRA: Weight-Decomposed Low-Rank Adaptation",
-              "description": "(ICML 2024) -- Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML2024 (Oral)] Official PyTorch implementation of DoRA: Weight-Decomposed Low-Rank Adaptation",
-                "homepage": "https://nbasyl.github.io/DoRA-project-page/",
-                "id": 785300720,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-24T09:13:24Z",
-                "open_issues": 21,
-                "owner": "NVlabs",
-                "repo": "DoRA",
-                "stars": 1008,
-                "topics": [
-                  "commonsense-reasoning",
-                  "deep-learning",
-                  "deep-neural-networks",
-                  "instruction-tuning",
-                  "large-language-models",
-                  "large-vision-language-models",
-                  "lora",
-                  "parameter-efficient-fine-tuning",
-                  "parameter-efficient-tuning",
-                  "vision-and-language"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "On-Device Training & Fine-tuning"
-        }
-      ],
-      "title": "New: On-Device Training & Personalization"
-    },
-    {
-      "description": "Multimodal models (vision + language + audio) and embodied AI systems (robots, AR/VR, autonomous vehicles) running on edge devices represent the next frontier. Key challenges include fusing modalities under tight memory/power budgets.",
-      "items": [
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "MiniCPM-V: A GPT-4V Level MLLM on Your Phone",
-              "description": "(arXiv 2024) OpenBMB / THU Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "See, hear, and interact on your local devices.",
-                "homepage": null,
-                "id": 749647889,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-09T07:37:30Z",
-                "open_issues": 66,
-                "owner": "OpenBMB",
-                "repo": "MiniCPM-V",
-                "stars": 27137,
-                "topics": [
-                  "minicpm",
-                  "minicpm-o",
-                  "minicpm-v",
-                  "multi-modal"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MobileVLM: Vision-Language Model for Mobile Devices",
-              "description": "(arXiv 2023) Meituan Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Strong and Open Vision Language Assistant for Mobile Devices",
-                "homepage": null,
-                "id": 736844434,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-04-15T03:53:45Z",
-                "open_issues": 34,
-                "owner": "Meituan-AutoML",
-                "repo": "MobileVLM",
-                "stars": 1371,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LLaVA-1.5: Improved Baselines for Visual Instruction Tuning",
-              "description": "(NeurIPS 2024) UW-Madison / Microsoft Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
-                "homepage": "https://llava.hliu.cc",
-                "id": 629102662,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-08-12T09:52:38Z",
-                "open_issues": 1140,
-                "owner": "haotian-liu",
-                "repo": "LLaVA",
-                "stars": 25077,
-                "topics": [
-                  "chatbot",
-                  "chatgpt",
-                  "foundation-models",
-                  "gpt-4",
-                  "instruction-tuning",
-                  "llama",
-                  "llama-2",
-                  "llama2",
-                  "llava",
-                  "multi-modality",
-                  "multimodal",
-                  "vision-language-model",
-                  "visual-language-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Multimodal Models on Edge"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Octo: An Open-Source Generalist Robot Policy",
-              "description": "(RSS 2024) UC Berkeley Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Octo is a transformer-based robot policy trained on a diverse mix of 800k robot trajectories.",
-                "homepage": "https://octo-models.github.io/",
-                "id": 731075982,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-07-31T00:26:15Z",
-                "open_issues": 98,
-                "owner": "octo-models",
-                "repo": "octo",
-                "stars": 1832,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Embodied AI & Robotics on Edge"
-        }
-      ],
-      "title": "New: Multimodal & Embodied Edge AI"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Active label cleaning for improved dataset quality under resource constraints[J]. Nature communications, 2022.",
-                  "description": "Microsoft Research Cambridge Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning",
-                    "homepage": "https://aka.ms/innereyeoss",
-                    "id": 259878805,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2024-03-21T09:43:17Z",
-                    "open_issues": 89,
-                    "owner": "microsoft",
-                    "repo": "InnerEye-DeepLearning",
-                    "stars": 582,
-                    "topics": [
-                      "azure",
-                      "deep-learning",
-                      "healthcare",
-                      "medical-imaging"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Locomotion mode recognition using sensory data with noisy labels: A deep learning approach. IEEE Trans. on Mobile Computing.",
-                  "description": "Indian Institute of Technology BHU Varanasi Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": " Locomotion Mode Recognition using Sensory Data with Noisy Labels: A Deep Learning Approach",
-                    "homepage": null,
-                    "id": 430603092,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-11-22T07:24:31Z",
-                    "open_issues": 0,
-                    "owner": "errahulm",
-                    "repo": "LRNL_approach",
-                    "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Protonn: Compressed and accurate knn for resource-scarce devices[C] ICML, 2017.",
-                  "description": "Microsoft Research, India Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "Embedded Learning Library",
-                    "homepage": "https://microsoft.github.io/ELL",
-                    "id": 69389961,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-06-01T16:49:37Z",
-                    "open_issues": 33,
-                    "owner": "microsoft",
-                    "repo": "ELL",
-                    "stars": 2303,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.1.1. Data Cleaning"
-            },
-            {
-              "children": [
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Supervised compression for resource-constrained edge computing systems[C] WACV, 2022.",
-                      "description": "University of California, Irvine Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[WACV 2022] \"Supervised Compression for Resource-Constrained Edge Computing Systems\"",
-                        "homepage": null,
-                        "id": 318041200,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2023-06-16T04:01:13Z",
-                        "open_issues": 0,
-                        "owner": "yoshitomo-matsubara",
-                        "repo": "supervised-compression",
-                        "stars": 36,
-                        "topics": [
-                          "coco",
-                          "image-classification",
-                          "imagenet",
-                          "knowledge-distillation",
-                          "object-detection",
-                          "pytorch",
-                          "semantic-segmentation",
-                          "split-computing",
-                          "supervised-compression"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Communication-computation trade-off in resource-constrained edge inference[J]. IEEE Communications Magazine, 2020.",
-                      "description": "The Hong Kong Polytechnic University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 296258473,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2021-02-25T09:32:48Z",
-                        "open_issues": 2,
-                        "owner": "shaojiawei07",
-                        "repo": "Edge_Inference_three-step_framework",
-                        "stars": 27,
-                        "topics": [
-                          "compresses",
-                          "edge-inference",
-                          "pruning"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "3.1.2.2. Feature Extraction"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.1.2. Feature Compression"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Towards light-weight and real-time line segment detection[C] AAAI, 2022.",
-                  "description": "NAVER/LINE Corp. Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official Tensorflow implementation of \"M-LSD: Towards Light-weight and Real-time Line Segment Detection\" (AAAI 2022 Oral)",
-                    "homepage": null,
-                    "id": 370968877,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2023-07-11T03:39:04Z",
-                    "open_issues": 14,
-                    "owner": "navervision",
-                    "repo": "mlsd",
-                    "stars": 621,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.1.3. Data Augmentation"
-            }
-          ],
-          "description": "An overview of data optimization operations. Data cleaning improves data quality by removing errors and inconsistencies in the raw data. Feature compression is used to eliminate irrelevant and redundant features. For scarce data, data augmentation is employed to increase the data size.",
-          "node_type": "group",
-          "title": "3.1. Data Optimization"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "children": [
-                    {
-                      "node_type": "item",
-                      "title": "Mobilenets: Efficient convolutional neural networks for mobile vision applications[J]. arXiv, 2017.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "MobileNet build with Tensorflow",
-                        "homepage": null,
-                        "id": 88717189,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2017-11-06T01:23:28Z",
-                        "open_issues": 47,
-                        "owner": "Zehaos",
-                        "repo": "MobileNet",
-                        "stars": 1658,
-                        "topics": [
-                          "detection",
-                          "mobilenets",
-                          "multigpu",
-                          "slim",
-                          "tensorflow"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Mobilenetv2: Inverted residuals and linear bottlenecks[C] CVPR, 2018.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "72.8% MobileNetV2 1.0 model on ImageNet and a spectrum of pre-trained MobileNetV2 models",
-                        "homepage": "https://arxiv.org/abs/1801.04381",
-                        "id": 145735080,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2021-01-15T02:52:16Z",
-                        "open_issues": 7,
-                        "owner": "d-li14",
-                        "repo": "mobilenetv2.pytorch",
-                        "stars": 735,
-                        "topics": [
-                          "cvpr2018",
-                          "deep-neural-networks",
-                          "imagenet",
-                          "mobilenetv2",
-                          "pretrained-models",
-                          "pytorch"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Searching for mobilenetv3[C]// ICCV, 2019.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "mobilenetv3 with pytorch，provide pre-train model",
-                        "homepage": null,
-                        "id": 186247418,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2023-04-27T03:23:18Z",
-                        "open_issues": 46,
-                        "owner": "xiaolai-sqlai",
-                        "repo": "mobilenetv3",
-                        "stars": 1870,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Rethinking bottleneck structure for efficient mobile network design[C] ECCV, 2020.",
-                      "description": "National University of Singapore Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 278529501,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2022-10-31T22:31:13Z",
-                        "open_issues": 11,
-                        "owner": "zhoudaquan",
-                        "repo": "rethinking_bottleneck_design",
-                        "stars": 139,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Mnasnet: Platform-aware neural architecture search for mobile[C] CVPR, 2019.",
-                      "description": "Google Brain Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Reference models and tools for Cloud TPUs.",
-                        "homepage": "https://cloud.google.com/tpu/",
-                        "id": 96946693,
-                        "language": "Jupyter Notebook",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-11-10T16:57:34Z",
-                        "open_issues": 318,
-                        "owner": "tensorflow",
-                        "repo": "tpu",
-                        "stars": 5281,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Shufflenet: An extremely efficient convolutional neural network for mobile devices[C] CVPR, 2018.",
-                      "description": "Megvii Inc (Face++) Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 201265879,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2020-08-27T03:27:25Z",
-                        "open_issues": 8,
-                        "owner": "megvii-model",
-                        "repo": "ShuffleNet-Series",
-                        "stars": 1510,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Shufflenet v2: Practical guidelines for efficient cnn architecture design[C] ECCV, 2018.",
-                      "description": "Megvii Inc (Face++) Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 201265879,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2020-08-27T03:27:25Z",
-                        "open_issues": 8,
-                        "owner": "megvii-model",
-                        "repo": "ShuffleNet-Series",
-                        "stars": 1510,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Single path one-shot neural architecture search with uniform sampling[C] ECCV, 2020.",
-                      "description": "Megvii Inc (Face++) Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": null,
-                        "homepage": null,
-                        "id": 201265879,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2020-08-27T03:27:25Z",
-                        "open_issues": 8,
-                        "owner": "megvii-model",
-                        "repo": "ShuffleNet-Series",
-                        "stars": 1510,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size[J]. arXiv, 2016.",
-                      "description": "DeepScale∗ & UC Berkeley Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters",
-                        "homepage": null,
-                        "id": 52310392,
-                        "language": null,
-                        "license": "BSD-2-Clause",
-                        "last_commit": "2018-07-09T21:10:27Z",
-                        "open_issues": 7,
-                        "owner": "forresti",
-                        "repo": "SqueezeNet",
-                        "stars": 2224,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Squeezenext: Hardware-aware neural network design[C] CVPR Workshops. 2018.",
-                      "description": "UC Berkeley Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "A tensorflow implementation of squeezenext. (includes link to trained model)",
-                        "homepage": null,
-                        "id": 140250064,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2022-05-26T16:12:43Z",
-                        "open_issues": 1,
-                        "owner": "Timen",
-                        "repo": "squeezenext-tensorflow",
-                        "stars": 55,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Ghostnet: More features from cheap operations[C] CVPR, 2020.",
-                      "description": "Noah’s Ark Lab, Huawei Technologies Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
-                        "homepage": null,
-                        "id": 222110214,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-03-15T12:48:07Z",
-                        "open_issues": 95,
-                        "owner": "huawei-noah",
-                        "repo": "Efficient-AI-Backbones",
-                        "stars": 4430,
-                        "topics": [
-                          "convolutional-neural-networks",
-                          "efficient-inference",
-                          "ghostnet",
-                          "imagenet",
-                          "model-compression",
-                          "pretrained-models",
-                          "pytorch",
-                          "tensorflow",
-                          "transformer",
-                          "vision-transformer"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Efficientnet: Rethinking model scaling for convolutional neural networks[C] ICML, 2019.",
-                      "description": "Google Brain Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "A PyTorch implementation of EfficientNet",
-                        "homepage": null,
-                        "id": 189350661,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2022-04-08T12:30:25Z",
-                        "open_issues": 167,
-                        "owner": "lukemelas",
-                        "repo": "EfficientNet-PyTorch",
-                        "stars": 8220,
-                        "topics": [
-                          "efficientnet-pytorch",
-                          "feature-extraction",
-                          "imagenet",
-                          "pretrained-models"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Efficientnetv2: Smaller models and faster training[C] ICML, 2021.",
-                      "description": "Google Brain Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": true,
-                        "description": "Google Brain AutoML",
-                        "homepage": null,
-                        "id": 246738676,
-                        "language": "Jupyter Notebook",
-                        "license": "Apache-2.0",
-                        "last_commit": "2025-03-02T07:46:39Z",
-                        "open_issues": 157,
-                        "owner": "google",
-                        "repo": "automl",
-                        "stars": 6478,
-                        "topics": [
-                          "automl",
-                          "efficientdet",
-                          "efficientnet",
-                          "efficientnetv2",
-                          "object-detection"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Efficientdet: Scalable and efficient object detection[C] CVPR, 2020.",
-                      "description": "Google Brain Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": true,
-                        "description": "Google Brain AutoML",
-                        "homepage": null,
-                        "id": 246738676,
-                        "language": "Jupyter Notebook",
-                        "license": "Apache-2.0",
-                        "last_commit": "2025-03-02T07:46:39Z",
-                        "open_issues": 157,
-                        "owner": "google",
-                        "repo": "automl",
-                        "stars": 6478,
-                        "topics": [
-                          "automl",
-                          "efficientdet",
-                          "efficientnet",
-                          "efficientnetv2",
-                          "object-detection"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Condensenet: An efficient densenet using learned group convolutions[C] CVPR, 2018.",
-                      "description": "Cornell University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "CondenseNet: Light weighted CNN for mobile devices",
-                        "homepage": null,
-                        "id": 104818215,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2019-11-11T03:38:46Z",
-                        "open_issues": 11,
-                        "owner": "ShichenLiu",
-                        "repo": "CondenseNet",
-                        "stars": 690,
-                        "topics": [
-                          "deep-learning",
-                          "mobile-device",
-                          "pytorch"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Condensenet v2: Sparse feature reactivation for deep networks[C] CVPR, 2021.",
-                      "description": "Tsinghua University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "[CVPR 2021] CondenseNet V2: Sparse Feature Reactivation for Deep Networks",
-                        "homepage": null,
-                        "id": 352315303,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2022-08-27T04:31:07Z",
-                        "open_issues": 0,
-                        "owner": "jianghaojun",
-                        "repo": "CondenseNetV2",
-                        "stars": 86,
-                        "topics": [
-                          "computer-vision",
-                          "cvpr2021",
-                          "deep-learning",
-                          "mobile-networks",
-                          "pytorch"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Espnet: Efficient spatial pyramid of dilated convolutions for semantic segmentation[C] ECCV, 2018.",
-                      "description": "University of Washington Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation",
-                        "homepage": "https://sacmehta.github.io/ESPNet/",
-                        "id": 121903519,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2023-06-30T08:57:36Z",
-                        "open_issues": 9,
-                        "owner": "sacmehta",
-                        "repo": "ESPNet",
-                        "stars": 542,
-                        "topics": [
-                          "convolutional-neural-networks",
-                          "edge-devices",
-                          "real-time",
-                          "semantic-segmentation"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Espnetv2: A light-weight, power efficient, and general purpose convolutional neural network[C] CVPR, 2019.",
-                      "description": "University of Washington Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "A light-weight, power efficient, and general purpose convolutional neural network",
-                        "homepage": null,
-                        "id": 158426519,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2021-01-29T00:27:38Z",
-                        "open_issues": 2,
-                        "owner": "sacmehta",
-                        "repo": "ESPNetv2",
-                        "stars": 456,
-                        "topics": [
-                          "cnn",
-                          "convolutional-neural-networks",
-                          "deep-learning",
-                          "efficient",
-                          "imagenet",
-                          "lightweight",
-                          "machine-learning",
-                          "pytorch",
-                          "semantic-segmentation"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Fbnet: Hardware-aware efficient convnet design via differentiable neural architecture search[C] CVPR, 2019.",
-                      "description": "UC Berkeley Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Mobile vision models and code",
-                        "homepage": null,
-                        "id": 164916735,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2026-10-21T20:03:59Z",
-                        "open_issues": 28,
-                        "owner": "facebookresearch",
-                        "repo": "mobile-vision",
-                        "stars": 923,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Fbnetv2: Differentiable neural architecture search for spatial and channel dimensions[C] CVPR, 2020.",
-                      "description": "UC Berkeley Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Mobile vision models and code",
-                        "homepage": null,
-                        "id": 164916735,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2026-10-21T20:03:59Z",
-                        "open_issues": 28,
-                        "owner": "facebookresearch",
-                        "repo": "mobile-vision",
-                        "stars": 923,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Pelee: A real-time object detection system on mobile devices[J]. NeurIPS, 2021.",
-                      "description": "University of Western Ontario Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Pelee: A Real-Time Object Detection System on Mobile Devices",
-                        "homepage": null,
-                        "id": 117862554,
-                        "language": "Jupyter Notebook",
-                        "license": "Apache-2.0",
-                        "last_commit": "2019-01-04T05:52:11Z",
-                        "open_issues": 54,
-                        "owner": "Robert-JunWang",
-                        "repo": "Pelee",
-                        "stars": 884,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Going deeper with convolutions[C] CVPR, 2015.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "TensorFlow implementation of GoogLeNet and Inception for image classification.",
-                        "homepage": null,
-                        "id": 113358331,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2020-03-11T20:56:53Z",
-                        "open_issues": 5,
-                        "owner": "conan7882",
-                        "repo": "GoogLeNet-Inception",
-                        "stars": 297,
-                        "topics": [
-                          "cifar",
-                          "googlenet",
-                          "image-classification",
-                          "inception",
-                          "pre-trained",
-                          "tensorflow"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift[C] ICML, 2015.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Pytorch implementation of cnn network",
-                        "homepage": null,
-                        "id": 211103666,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-10-11T06:07:56Z",
-                        "open_issues": 36,
-                        "owner": "shanglianlm0525",
-                        "repo": "PyTorch-Networks",
-                        "stars": 2057,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Rethinking the inception architecture for computer vision[C]// CVPR, 2016.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Pytorch implementation of cnn network",
-                        "homepage": null,
-                        "id": 211103666,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-10-11T06:07:56Z",
-                        "open_issues": 36,
-                        "owner": "shanglianlm0525",
-                        "repo": "PyTorch-Networks",
-                        "stars": 2057,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Inception-v4, inception-resnet and the impact of residual connections on learning[C] AAAI, 2017.",
-                      "description": "Google Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Pytorch implementation of cnn network",
-                        "homepage": null,
-                        "id": 211103666,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2025-10-11T06:07:56Z",
-                        "open_issues": 36,
-                        "owner": "shanglianlm0525",
-                        "repo": "PyTorch-Networks",
-                        "stars": 2057,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Xception: Deep learning with depthwise separable convolutions[C] CVPR, 2017.",
-                      "description": "Google, Inc. Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Practice on cifar100(ResNet, DenseNet, VGG, GoogleNet, InceptionV3, InceptionV4, Inception-ResNetv2, Xception, Resnet In Resnet, ResNext,ShuffleNet, ShuffleNetv2, MobileNet, MobileNetv2, SqueezeNet, NasNet, Residual Attention Network, SENet, WideResNet)",
-                        "homepage": null,
-                        "id": 89074562,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2024-07-15T16:58:28Z",
-                        "open_issues": 59,
-                        "owner": "weiaicunzai",
-                        "repo": "pytorch-cifar100",
-                        "stars": 4782,
-                        "topics": [
-                          "cifar100",
-                          "deep-learning",
-                          "densenet",
-                          "googlenet",
-                          "image-classification",
-                          "inception-resnet-v2",
-                          "inceptionv3",
-                          "inceptionv4",
-                          "mobilenet",
-                          "nasnet",
-                          "pytorch",
-                          "resnet",
-                          "resnext",
-                          "shufflenet",
-                          "squeezenet",
-                          "wideresnet",
-                          "xception"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Mobilevit: light-weight, general-purpose, and mobile-friendly vision transformer[J]. arXiv, 2021.",
-                      "description": "Apple Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "CVNets: A library for training computer vision networks",
-                        "homepage": "https://apple-aiml-research.github.io/ml-cvnets/",
-                        "id": 419903001,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2026-09-11T15:55:55Z",
-                        "open_issues": 50,
-                        "owner": "apple-aiml-research",
-                        "repo": "ml-cvnets",
-                        "stars": 1995,
-                        "topics": [
-                          "ade20k",
-                          "classification",
-                          "computer-vision",
-                          "deep-learning",
-                          "detection",
-                          "imagenet",
-                          "machine-learning",
-                          "mscoco",
-                          "pascal-voc",
-                          "pytorch",
-                          "segmentation"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Lite transformer with long-short range attention[J]. arXiv, 2020.",
-                      "description": "Massachusetts Institute of Technology Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": true,
-                        "description": "[ICLR 2020] Lite Transformer with Long-Short Range Attention",
-                        "homepage": "https://arxiv.org/abs/2004.11886",
-                        "id": 258533881,
-                        "language": "Python",
-                        "license": "NOASSERTION",
-                        "last_commit": "2024-07-11T20:50:46Z",
-                        "open_issues": 0,
-                        "owner": "mit-han-lab",
-                        "repo": "lite-transformer",
-                        "stars": 609,
-                        "topics": [
-                          "nlp",
-                          "pytorch",
-                          "transformer"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Coordinate attention for efficient mobile network design[C] CVPR, 2021.",
-                      "description": "National University of Singapore Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Code for our CVPR2021 paper coordinate attention",
-                        "homepage": null,
-                        "id": 343990941,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2021-06-08T02:46:46Z",
-                        "open_issues": 41,
-                        "owner": "houqb",
-                        "repo": "CoordAttention",
-                        "stars": 1153,
-                        "topics": [
-                          "attention",
-                          "mobilenetv2",
-                          "mobilenext"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "ECA-Net: Efficient channel attention for deep convolutional neural networks[C] CVPR, 2020.",
-                      "description": "Tianjin University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Code for ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks",
-                        "homepage": null,
-                        "id": 208555616,
-                        "language": "Python",
-                        "license": "MIT",
-                        "last_commit": "2021-05-16T07:00:27Z",
-                        "open_issues": 30,
-                        "owner": "BangguWu",
-                        "repo": "ECANet",
-                        "stars": 1423,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Sa-net: Shuffle attention for deep convolutional neural networks[C] ICASSP, 2021.",
-                      "description": "Nanjing University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "Code for our ICASSP 2021 paper: SA-Net: Shuffle Attention for Deep Convolutional Neural Networks",
-                        "homepage": null,
-                        "id": 334421312,
-                        "language": "Python",
-                        "license": null,
-                        "last_commit": "2021-05-29T08:03:04Z",
-                        "open_issues": 17,
-                        "owner": "wofmanaf",
-                        "repo": "SA-Net",
-                        "stars": 264,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Triplet Attention: Rethinking the Similarity in Transformers[C] KDD, 2021.",
-                      "description": "Beihang University Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "The official implementation of Triplet Attention.",
-                        "homepage": null,
-                        "id": 374306104,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2021-11-10T01:48:46Z",
-                        "open_issues": 1,
-                        "owner": "zhouhaoyi",
-                        "repo": "TripletAttention",
-                        "stars": 23,
-                        "topics": []
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    },
-                    {
-                      "node_type": "item",
-                      "title": "Resnest: Split-attention networks[C] CVPR, 2020.",
-                      "description": "Meta Code",
-                      "children": [],
-                      "repo_info": {
-                        "archived": false,
-                        "description": "ResNeSt: Split-Attention Networks",
-                        "homepage": "https://arxiv.org/abs/2004.08955",
-                        "id": 247528876,
-                        "language": "Python",
-                        "license": "Apache-2.0",
-                        "last_commit": "2026-09-11T07:46:46Z",
-                        "open_issues": 62,
-                        "owner": "zhanghang1989",
-                        "repo": "ResNeSt",
-                        "stars": 3260,
-                        "topics": [
-                          "deep-learning",
-                          "detectron-models",
-                          "pytorch",
-                          "resnest",
-                          "resnet",
-                          "split-attention-networks"
-                        ]
-                      },
-                      "first_seen": "2026-08-28T06:04:37.797Z"
-                    }
-                  ],
-                  "description": null,
-                  "node_type": "group",
-                  "title": "3.2.1.1. Compact Architecture Design"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.2.1. Model Design"
-            },
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "FTT-NAS: Discovering fault-tolerant convolutional neural architecture[J]. TODAES), 2021.",
-                  "description": "Tsinghua University Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "aw_nas: A Modularized and Extensible NAS Framework",
-                    "homepage": null,
-                    "id": 185360477,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2025-11-25T05:02:47Z",
-                    "open_issues": 14,
-                    "owner": "walkerning",
-                    "repo": "aw_nas",
-                    "stars": 253,
-                    "topics": [
-                      "auto-ml",
-                      "deep-neural-networks",
-                      "neural-architecture-search"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Intermittent-aware neural architecture search[J]. ACM Transactions on Embedded Computing Systems (TECS), 2021.",
-                  "description": "Academia Sinica and National Taiwan University Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 353459024,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2023-01-19T04:55:26Z",
-                    "open_issues": 1,
-                    "owner": "EMCLab-Sinica",
-                    "repo": "Intermittent-aware-NAS",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Hardcore-nas: Hard constrained differentiable neural architecture search[C] ICML, 2021.",
-                  "description": "Alibaba Group, Tel Aviv, Israel Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 341002315,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2022-08-23T18:46:04Z",
-                    "open_issues": 3,
-                    "owner": "Alibaba-MIIL",
-                    "repo": "HardCoReNAS",
-                    "stars": 36,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.2.1.2. Neural Architecture Search (NAS)"
-            }
-          ],
-          "description": "An overview of model optimization operations. Model design involves creating lightweight models through manual and automated techniques, including architecture selection, parameter tuning, and regularization. Model compression involves using various techniques, such as pruning, quantization, and knowledge distillation, to reduce the size of the model and obtain a compact model that requires fewer resources while maintaining high accuracy.",
-          "node_type": "group",
-          "title": "3.2. Model Optimization"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Hrank: Filter pruning using high-rank feature map[C]// CVPR, 2020.",
-                  "description": "Xiamen University Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pytorch implementation of our paper accepted by CVPR 2020 (Oral) -- HRank: Filter Pruning using High-Rank Feature Map",
-                    "homepage": "https://128.84.21.199/abs/2002.10179",
-                    "id": 222231732,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-02-11T16:48:26Z",
-                    "open_issues": 24,
-                    "owner": "lmbxmu",
-                    "repo": "HRank",
-                    "stars": 256,
-                    "topics": [
-                      "acceleration",
-                      "compression",
-                      "pruning"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Penni: Pruned kernel sharing for efficient CNN inference[C] ICML, 2020.",
-                  "description": "Duke University Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "PENNI: Pruned Kernel Sharing for Efficient CNN Inference",
-                    "homepage": null,
-                    "id": 274705857,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-07-25T10:59:43Z",
-                    "open_issues": 6,
-                    "owner": "timlee0212",
-                    "repo": "PENNI",
-                    "stars": 7,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "A Fast Post-Training Pruning Framework for Transformers[C]// NeurIPS",
-                  "description": "UC Berkeley Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[NeurIPS 2022] A Fast Post-Training Pruning Framework for Transformers",
-                    "homepage": "https://arxiv.org/abs/2204.09656",
-                    "id": 423047996,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-02-28T00:11:31Z",
-                    "open_issues": 9,
-                    "owner": "WoosukKwon",
-                    "repo": "retraining-free-pruning",
-                    "stars": 197,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Exploring sparsity in image super-resolution for efficient inference[C] CVPR, 2021.",
-                  "description": "National University of Defense Technology Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[CVPR 2021] Exploring Sparsity in Image Super-Resolution for Efficient Inference",
-                    "homepage": null,
-                    "id": 282676993,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-10-18T07:36:56Z",
-                    "open_issues": 21,
-                    "owner": "SYSU-SAIL",
-                    "repo": "SMSR",
-                    "stars": 238,
-                    "topics": [
-                      "efficient-inference",
-                      "sparsity",
-                      "super-resolution"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Dropnet: Reducing neural network complexity via iterative pruning[C] ICML, 2020.",
-                  "description": "National University of Singapore Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "DropNet: Reducing Neural Network Complexity via Iterative Pruning (ICML 2020)",
-                    "homepage": null,
-                    "id": 269037839,
-                    "language": "Jupyter Notebook",
-                    "license": null,
-                    "last_commit": "2020-08-24T01:37:35Z",
-                    "open_issues": 0,
-                    "owner": "tanchongmin",
-                    "repo": "DropNet",
-                    "stars": 16,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Edgebert: Sentence-level energy optimizations for latency-aware multi-task nlp inference[C] MICRO-54, 2021.",
-                  "description": "Harvard University Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "HW/SW co-design of sentence-level energy optimizations for latency-aware multi-task NLP inference",
-                    "homepage": null,
-                    "id": 389476599,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2024-03-24T21:05:42Z",
-                    "open_issues": 3,
-                    "owner": "harvard-acc",
-                    "repo": "EdgeBERT",
-                    "stars": 56,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.2.2.1. Model Pruning"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "3.2.2. Model Compression"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Deep k-means: Re-training and parameter sharing with harder cluster assignments for compressing deep convolutions[C] ICML, 2018.",
-              "description": "Texas A&M University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2018] \"Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions\"",
-                "homepage": null,
-                "id": 136533571,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2021-12-31T06:23:48Z",
-                "open_issues": 0,
-                "owner": "VITA-Group",
-                "repo": "Deep-K-Means-pytorch",
-                "stars": 152,
-                "topics": [
-                  "compression",
-                  "convolutional-neural-networks",
-                  "deep-learning",
-                  "neural-network-compression",
-                  "paper",
-                  "pytorch",
-                  "tensorflow"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "\"Soft Weight-Sharing for Neural Network Compression.\" International Conference on Learning Representations.",
-              "description": "University of Amsterdam Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A tutorial on 'Soft weight-sharing for Neural Network compression' published at ICLR2017",
-                "homepage": null,
-                "id": 81807309,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2017-02-15T13:46:03Z",
-                "open_issues": 3,
-                "owner": "KarenUllrich",
-                "repo": "Tutorial-SoftWeightSharingForNNCompression",
-                "stars": 146,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ShiftAddNAS: Hardware-inspired search for more accurate and efficient neural networks[C] ICML, 2022.",
-              "description": "Rice University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[ICML 2022] ShiftAddNAS: Hardware-Inspired Search for More Accurate and Efficient Neural Networks",
-                "homepage": null,
-                "id": 493111968,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-05-18T01:03:47Z",
-                "open_issues": 2,
-                "owner": "GATECH-EIC",
-                "repo": "ShiftAddNAS",
-                "stars": 15,
-                "topics": [
-                  "deep-learning",
-                  "neural-architecture-search",
-                  "shiftaddnet"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EfficientTDNN: Efficient architecture search for speaker recognition[J]. IEEE/ACM Trans. on Audio, Speech, and Language Processing, 2022.",
-              "description": "Tongji University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Efficient Speech Processing Tookit for Automatic Speaker Recognition",
-                "homepage": null,
-                "id": 431097965,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2023-02-08T03:25:08Z",
-                "open_issues": 2,
-                "owner": "mechanicalsea",
-                "repo": "sugar",
-                "stars": 18,
-                "topics": [
-                  "efficienttdnn",
-                  "neural-architecture-search",
-                  "pytorch",
-                  "speaker-recognition",
-                  "speaker-verification",
-                  "time-delay-neural-network"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A generic network compression framework for sequential recommender systems[C] SIGIR, 2020.",
-              "description": "University of Science and Technology Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Generic Network Compression Framework for Sequential Recommender Systems  ",
-                "homepage": null,
-                "id": 260444258,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2020-05-05T12:00:32Z",
-                "open_issues": 1,
-                "owner": "siat-nlp",
-                "repo": "CpRec",
-                "stars": 20,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "3.2.2.2. Parameter Sharing"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Fractrain: Fractionally squeezing bit savings both temporally and spatially for efficient dnn training[J]. NeurIPS, 2020.",
-              "description": "Rice University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[NeurIPS 2020] \"FracTrain: Fractionally Squeezing Bit Savings Both Temporally and Spatially for Efficient DNN Training\" by Yonggan Fu, Haoran You, Yang Zhao, Yue Wang, Chaojian Li, Kailash Gopalakrishnan, Zhangyang Wang, Yingyan Lin",
-                "homepage": null,
-                "id": 305256787,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-02-13T21:49:31Z",
-                "open_issues": 1,
-                "owner": "GATECH-EIC",
-                "repo": "FracTrain",
-                "stars": 10,
-                "topics": [
-                  "efficient-training",
-                  "low-precision-training",
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning[C] USENIX Annual Technical Conference. 2021.",
-              "description": "Hong Kong Polytechnic University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Create tiny ML systems for on-device learning.",
-                "homepage": null,
-                "id": 345609017,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2021-07-14T17:22:47Z",
-                "open_issues": 0,
-                "owner": "kimihe",
-                "repo": "Octo",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "3.2.2.3. Model Quantization"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Dynabert: Dynamic bert with adaptive width and depth[J]. NeurIPS, 2020.",
-              "description": "Huawei Noah’s Ark Lab Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
-                "homepage": null,
-                "id": 225393289,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2024-01-22T01:11:22Z",
-                "open_issues": 108,
-                "owner": "huawei-noah",
-                "repo": "Pretrained-Language-Model",
-                "stars": 3171,
-                "topics": [
-                  "knowledge-distillation",
-                  "large-scale-distributed",
-                  "model-compression",
-                  "pretrained-models",
-                  "quantization"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Scan: A scalable neural networks framework towards compact and efficient models[J]. NeurIPS, 2019.",
-              "description": "Tsinghua University Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A pytorch implement of scalable neural netowrks.",
-                "homepage": null,
-                "id": 210252423,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2020-06-09T11:45:46Z",
-                "open_issues": 2,
-                "owner": "ArchipLab-LinfengZhang",
-                "repo": "pytorch-scalable-neural-networks",
-                "stars": 23,
-                "topics": [
-                  "pytorch"
-                ]
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation[C] SIGIR, 2022.",
-              "description": "The University of Queensland Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Codes for SIGIR'22 Paper 'On-Device Next-Item Recommendation with Self-Supervised Knowledge Distillation'",
-                "homepage": null,
-                "id": 484782047,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-03-22T22:23:44Z",
-                "open_issues": 0,
-                "owner": "xiaxin1998",
-                "repo": "OD-Rec",
-                "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CDFKD-MFS: Collaborative Data-Free Knowledge Distillation via Multi-Level Feature Sharing[J]. IEEE Trans. on Multimedia, 2022.",
-              "description": "Beijing Institute of Technology Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "PyTorch implementation of the paper: CDFKD-MFS: Collaborative Data-free Knowledge Distillation via Multi-level Feature Sharing.",
-                "homepage": null,
-                "id": 456931477,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-03-09T03:14:34Z",
-                "open_issues": 0,
-                "owner": "Hao840",
-                "repo": "CDFKD-MFS",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation[J]. NeurIPS, 2022.",
-              "description": "Beijing Institute of Technology Code",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Learning Efficient Vision Transformers via Fine-Grained Manifold Distillation. NeurIPS 2022.",
-                "homepage": null,
-                "id": 542994558,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-10-18T04:27:42Z",
-                "open_issues": 1,
-                "owner": "Hao840",
-                "repo": "manifold-distillation",
-                "stars": 34,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T06:04:37.797Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "3.2.2.4. Knowledge Distillation"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "A unified optimization approach for cnn model inference on integrated gpus[C] ICPP, 2019.",
-                  "description": "Amazon Web Services Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open Machine Learning Compiler Framework",
-                    "homepage": "https://tvm.apache.org/",
-                    "id": 70746484,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T01:16:04Z",
-                    "open_issues": 503,
-                    "owner": "apache",
-                    "repo": "tvm",
-                    "stars": 13899,
-                    "topics": [
-                      "compiler",
-                      "deep-learning",
-                      "gpu",
-                      "javascript",
-                      "machine-learning",
-                      "metal",
-                      "opencl",
-                      "performance",
-                      "rocm",
-                      "spirv",
-                      "tensor",
-                      "tvm",
-                      "vulkan"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Weightless neural networks for efficient edge inference[C] PACT, 2022.",
-                  "description": "The University of Texas at Austin Code",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code to accompany \"Weightless Neural Networks for Efficient Edge Inference\", PACT 2022",
-                    "homepage": null,
-                    "id": 521079566,
-                    "language": "SystemVerilog",
-                    "license": "MIT",
-                    "last_commit": "2022-11-15T17:48:47Z",
-                    "open_issues": 0,
-                    "owner": "ZSusskind",
-                    "repo": "BTHOWeN",
-                    "stars": 23,
-                    "topics": [
-                      "weightless-neural-network"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T06:04:37.797Z"
-                }
-              ],
-              "description": null,
-              "node_type": "group",
-              "title": "3.3.1. Software Optimization"
-            }
-          ],
-          "description": "An overview of system optimization operations. Software optimization involves developing frameworks for lightweight model training and inference, while hardware optimization focuses on accelerating models using hardware-based approaches to improve computational efficiency on edge devices.",
-          "node_type": "group",
-          "title": "3.3. System Optimization"
-        }
-      ],
-      "title": "3. The Data-Model-System Optimization Triad"
+      "title": "Evaluation and trust"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:33:41.884Z",
+    "last_updated": "2026-11-14T02:17:48.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
       "homepage": null,
       "id": 590725817,
       "language": "Python",
-      "license": "MIT",
-      "last_commit": "2026-11-11T09:42:18Z",
+      "license": "NOASSERTION",
+      "last_commit": "2026-11-13T12:56:52Z",
       "open_issues": 3,
       "owner": "wangxb96",
       "repo": "Awesome-EdgeAI",
-      "stars": 119,
+      "stars": 120,
       "topics": [
         "awesome-list",
         "data-preprocessing",
@@ -2910,7 +496,7 @@
         "tiny-ml"
       ]
     },
-    "original_repository_sha": "25554aaca022da4a4704acf8fc3aa3690bb84d29",
+    "original_repository_sha": "a37a10d3fd55704232b6673f939b3149b2c7607f",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
     "title": "Awesome Edge AI with stars"
