@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "The current public preprint is Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment. The two versions share arXiv identifier 2501.03265 and document the manuscript's progression from the optimization triad to cognitive workloads and agents.\nThe associated journal manuscript is titled Cognitive Edge Computing: A Survey on Optimizing Large Language Models and Autonomous Agents for the Edge. Its current reproducibility artifacts are maintained in this repository. Version-specific BibTeX records are provided under Citation.",
+      "description": "The current public preprint is Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment. The two versions share arXiv identifier 2501.03265 and document the manuscript's progression from the optimization triad to cognitive workloads and agents.\nThe associated journal manuscript is titled Cognitive Edge Computing: A Survey on Optimizing Large Language Models and Autonomous Agents for the Edge. Its current reproducibility artifacts are maintained in this repository. The arXiv v2 record is the public citation for that preprint; the root CITATION.cff gives a separate, version-pinned citation for reusing this repository edition. The journal record should replace the preprint citation once publication metadata is available.",
       "items": [
         {
           "node_type": "item",
@@ -86,7 +86,7 @@
                 "open_issues": 379,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 41760,
+                "stars": 42064,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
@@ -131,11 +131,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T02:36:17Z",
+                "last_commit": "2026-11-19T01:53:59Z",
                 "open_issues": 2612,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 135686,
+                "stars": 135624,
                 "topics": [
                   "ggml"
                 ]
@@ -155,10 +155,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T01:02:48Z",
-                "open_issues": 374,
+                "open_issues": 376,
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23532,
+                "stars": 23372,
                 "topics": [
                   "language-model",
                   "llm",
@@ -180,11 +180,11 @@
                 "id": 463628495,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T02:15:58Z",
-                "open_issues": 1404,
+                "last_commit": "2026-11-19T02:52:59Z",
+                "open_issues": 1408,
                 "owner": "pytorch",
                 "repo": "executorch",
-                "stars": 5180,
+                "stars": 5181,
                 "topics": [
                   "deep-learning",
                   "embedded",
@@ -209,11 +209,11 @@
                 "id": 851997597,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T03:29:41Z",
-                "open_issues": 3545,
+                "last_commit": "2026-11-19T02:41:32Z",
+                "open_issues": 3542,
                 "owner": "google-ai-edge",
                 "repo": "LiteRT",
-                "stars": 3599,
+                "stars": 3601,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:17:48.872Z"
@@ -230,11 +230,11 @@
                 "id": 724854743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-17T14:39:46Z",
-                "open_issues": 163,
+                "last_commit": "2026-11-18T19:31:26Z",
+                "open_issues": 166,
                 "owner": "ml-explore",
                 "repo": "mlx",
-                "stars": 29203,
+                "stars": 29217,
                 "topics": [
                   "mlx"
                 ]
@@ -253,11 +253,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T13:15:19Z",
-                "open_issues": 105,
+                "last_commit": "2026-11-18T13:27:12Z",
+                "open_issues": 116,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16565,
+                "stars": 16574,
                 "topics": [
                   "arm",
                   "convolution",
@@ -312,11 +312,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T03:33:10Z",
-                "open_issues": 2087,
+                "last_commit": "2026-11-19T03:00:03Z",
+                "open_issues": 2078,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 15091,
+                "stars": 15102,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -328,7 +328,7 @@
               "first_seen": "2026-11-12T02:52:32.326Z"
             }
           ],
-          "description": "Use current vendor documentation for Core ML, Qualcomm AI Hub and LiteRT. Version-specific accelerator paths change. Runtime availability does not establish equal capability or performance across targets.",
+          "description": "Use current vendor documentation for Core ML, Qualcomm AI Hub and LiteRT. Version-specific accelerator paths change. Benchmark capability and performance for each target runtime/device pair.",
           "node_type": "group",
           "title": "Generative inference stacks"
         },
@@ -337,7 +337,7 @@
             {
               "node_type": "item",
               "title": "TensorFlow Lite Micro",
-              "description": ", CMSIS-NN, TinyEngine and emlearn support constrained inference roles. Their small-network results should not be presented as evidence that a complete LLM agent fits an MCU. See the foundations for the relevant model and training regimes.",
+              "description": ", CMSIS-NN, TinyEngine and emlearn support constrained inference roles. Their small-network results characterize constrained inference; a complete LLM agent has a separate memory and execution profile that calls for MCU-specific evaluation. See the foundations for the relevant model and training regimes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -346,11 +346,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T15:25:32Z",
-                "open_issues": 87,
+                "last_commit": "2026-11-19T01:32:48Z",
+                "open_issues": 85,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3156,
+                "stars": 3158,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -364,7 +364,7 @@
       "title": "Models and runtimes"
     },
     {
-      "description": "Start from a feasible, correct baseline and a measured bottleneck. Weight storage, KV state, visual encoding, decoding, tool calls and wireless transfers compete for different resources. A gain in one phase need not improve complete-task latency or energy.",
+      "description": "Start from a feasible, correct baseline and a measured bottleneck. Weight storage, KV state, visual encoding, decoding, tool calls and wireless transfers compete for different resources. The effect on complete-task latency and energy depends on interactions among phases; measure the full episode.",
       "items": [
         {
           "children": [
@@ -384,7 +384,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3667,
+                "stars": 3668,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "Benchmarks: MLPerf Inference",
-              "description": ", MLPerf Tiny. Record the suite version, task, data split, precision, runtime, memory, thermal state, power scope and independent repetition unit. A global model leaderboard cannot replace a matched deployment study.",
+              "description": ", MLPerf Tiny. Record the suite version, task, data split, precision, runtime, memory, thermal state, power scope and independent repetition unit. Use matched deployment studies to compare model choices for a target workload.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:39:22.418Z",
+    "last_updated": "2026-11-19T03:15:18.497Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
@@ -444,7 +444,7 @@
       "id": 590725817,
       "language": "Python",
       "license": "NOASSERTION",
-      "last_commit": "2026-11-18T03:36:43Z",
+      "last_commit": "2026-11-18T09:28:23Z",
       "open_issues": 3,
       "owner": "wangxb96",
       "repo": "Awesome-EdgeAI",
@@ -465,7 +465,7 @@
         "tiny-ml"
       ]
     },
-    "original_repository_sha": "b7fae90aab28721b91102a3a9490dbf1a8c664ee",
+    "original_repository_sha": "d677e636f58f2cf2131c3ba273c30ebe2c84126c",
     "enhanced_repository": "enhansome/enhansome-Awesome-EdgeAI",
     "enhanced_repository_description": null,
     "title": "Awesome Edge AI with stars"
