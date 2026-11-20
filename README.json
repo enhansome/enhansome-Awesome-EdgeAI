@@ -65,7 +65,7 @@
                 "open_issues": 57,
                 "owner": "apple-aiml-research",
                 "repo": "ml-fastvlm",
-                "stars": 7443,
+                "stars": 7444,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:17:48.872Z"
@@ -83,10 +83,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-07-27T05:52:06Z",
-                "open_issues": 379,
+                "open_issues": 380,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 42064,
+                "stars": 42268,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
@@ -131,11 +131,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-19T01:53:59Z",
-                "open_issues": 2612,
+                "last_commit": "2026-11-19T23:43:38Z",
+                "open_issues": 2608,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 135624,
+                "stars": 135779,
                 "topics": [
                   "ggml"
                 ]
@@ -155,10 +155,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T01:02:48Z",
-                "open_issues": 376,
+                "open_issues": 374,
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23372,
+                "stars": 23400,
                 "topics": [
                   "language-model",
                   "llm",
@@ -180,8 +180,8 @@
                 "id": 463628495,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T02:52:59Z",
-                "open_issues": 1408,
+                "last_commit": "2026-11-20T02:59:43Z",
+                "open_issues": 1391,
                 "owner": "pytorch",
                 "repo": "executorch",
                 "stars": 5181,
@@ -209,11 +209,11 @@
                 "id": 851997597,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T02:41:32Z",
-                "open_issues": 3542,
+                "last_commit": "2026-11-20T02:17:49Z",
+                "open_issues": 3563,
                 "owner": "google-ai-edge",
                 "repo": "LiteRT",
-                "stars": 3601,
+                "stars": 3604,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:17:48.872Z"
@@ -231,10 +231,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-18T19:31:26Z",
-                "open_issues": 166,
+                "open_issues": 168,
                 "owner": "ml-explore",
                 "repo": "mlx",
-                "stars": 29217,
+                "stars": 29220,
                 "topics": [
                   "mlx"
                 ]
@@ -253,11 +253,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:27:12Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-19T09:40:50Z",
+                "open_issues": 120,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16574,
+                "stars": 16577,
                 "topics": [
                   "arm",
                   "convolution",
@@ -287,10 +287,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-18T01:24:09Z",
-                "open_issues": 299,
+                "open_issues": 305,
                 "owner": "huggingface",
                 "repo": "transformers.js",
-                "stars": 16427,
+                "stars": 16434,
                 "topics": [
                   "browser",
                   "javascript",
@@ -312,11 +312,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T03:00:03Z",
-                "open_issues": 2078,
+                "last_commit": "2026-11-20T02:54:52Z",
+                "open_issues": 2044,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 15102,
+                "stars": 15104,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -350,7 +350,7 @@
                 "open_issues": 85,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3158,
+                "stars": 3160,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -384,7 +384,7 @@
                 "open_issues": 210,
                 "owner": "mit-han-lab",
                 "repo": "llm-awq",
-                "stars": 3668,
+                "stars": 3667,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
@@ -418,7 +418,7 @@
                 "open_issues": 204,
                 "owner": "mlcommons",
                 "repo": "inference",
-                "stars": 1660,
+                "stars": 1659,
                 "topics": [
                   "benchmark",
                   "machine-learning"
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:15:18.497Z",
+    "last_updated": "2026-11-20T03:01:42.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
