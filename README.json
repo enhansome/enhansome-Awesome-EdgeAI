@@ -65,7 +65,7 @@
                 "open_issues": 57,
                 "owner": "apple-aiml-research",
                 "repo": "ml-fastvlm",
-                "stars": 7447,
+                "stars": 7448,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:17:48.872Z"
@@ -86,7 +86,7 @@
                 "open_issues": 383,
                 "owner": "microsoft",
                 "repo": "BitNet",
-                "stars": 42449,
+                "stars": 42464,
                 "topics": []
               },
               "first_seen": "2026-11-12T02:52:32.326Z"
@@ -131,11 +131,11 @@
                 "id": 612354784,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T05:14:38Z",
-                "open_issues": 2653,
+                "last_commit": "2026-11-25T04:41:27Z",
+                "open_issues": 2645,
                 "owner": "ggml-org",
                 "repo": "llama.cpp",
-                "stars": 136108,
+                "stars": 136172,
                 "topics": [
                   "ggml"
                 ]
@@ -155,10 +155,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-21T11:46:42Z",
-                "open_issues": 373,
+                "open_issues": 369,
                 "owner": "mlc-ai",
                 "repo": "mlc-llm",
-                "stars": 23427,
+                "stars": 23456,
                 "topics": [
                   "language-model",
                   "llm",
@@ -180,11 +180,11 @@
                 "id": 463628495,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T05:53:10Z",
-                "open_issues": 1438,
+                "last_commit": "2026-11-25T04:49:32Z",
+                "open_issues": 1445,
                 "owner": "pytorch",
                 "repo": "executorch",
-                "stars": 5191,
+                "stars": 5192,
                 "topics": [
                   "deep-learning",
                   "embedded",
@@ -209,11 +209,11 @@
                 "id": 851997597,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T05:46:06Z",
-                "open_issues": 3569,
+                "last_commit": "2026-11-25T04:49:31Z",
+                "open_issues": 3525,
                 "owner": "google-ai-edge",
                 "repo": "LiteRT",
-                "stars": 3616,
+                "stars": 3618,
                 "topics": []
               },
               "first_seen": "2026-11-14T02:17:48.872Z"
@@ -230,11 +230,11 @@
                 "id": 724854743,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-24T03:39:42Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-24T23:49:38Z",
+                "open_issues": 113,
                 "owner": "ml-explore",
                 "repo": "mlx",
-                "stars": 29267,
+                "stars": 29281,
                 "topics": [
                   "mlx"
                 ]
@@ -253,11 +253,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T03:11:13Z",
-                "open_issues": 114,
+                "last_commit": "2026-11-25T03:56:58Z",
+                "open_issues": 111,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16609,
+                "stars": 16619,
                 "topics": [
                   "arm",
                   "convolution",
@@ -286,11 +286,11 @@
                 "id": 601161044,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T15:57:49Z",
+                "last_commit": "2026-11-25T01:24:28Z",
                 "open_issues": 301,
                 "owner": "huggingface",
                 "repo": "transformers.js",
-                "stars": 16454,
+                "stars": 16455,
                 "topics": [
                   "browser",
                   "javascript",
@@ -312,11 +312,11 @@
                 "id": 679366051,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T05:54:10Z",
-                "open_issues": 2057,
+                "last_commit": "2026-11-25T04:51:17Z",
+                "open_issues": 2041,
                 "owner": "NVIDIA",
                 "repo": "TensorRT-LLM",
-                "stars": 15122,
+                "stars": 15130,
                 "topics": [
                   "blackwell",
                   "cuda",
@@ -346,11 +346,11 @@
                 "id": 356055024,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T01:32:48Z",
-                "open_issues": 91,
+                "last_commit": "2026-11-24T18:08:47Z",
+                "open_issues": 90,
                 "owner": "tensorflow",
                 "repo": "tflite-micro",
-                "stars": 3164,
+                "stars": 3165,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:04:37.797Z"
@@ -418,7 +418,7 @@
                 "open_issues": 205,
                 "owner": "mlcommons",
                 "repo": "inference",
-                "stars": 1659,
+                "stars": 1660,
                 "topics": [
                   "benchmark",
                   "machine-learning"
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:56:16.959Z",
+    "last_updated": "2026-11-25T04:51:29.372Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources of our survey paper \"Optimizing Edge AI: A Comprehensive Survey on Data, Model, and System Strategies\" and \"Cognitive Edge Computing: A Comprehensive Survey on Optimizing Large Models and AI Agents for Pervasive Deployment\"",
